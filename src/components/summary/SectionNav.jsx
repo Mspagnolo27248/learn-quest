@@ -1,5 +1,6 @@
 const TABS = [
   { id: 'summary', label: 'Summary' },
+  { id: 'learn', label: 'Learn More' },
   { id: 'videos', label: 'Videos' },
   { id: 'reading', label: 'Reading' },
   { id: 'quiz', label: 'Quiz' },

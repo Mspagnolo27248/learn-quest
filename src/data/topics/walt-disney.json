@@ -96,6 +96,20 @@
   "aspects": [
     {
       "name": "Early Life on the Farm",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Walt_Disney_Birthplace_Exterior_Hermosa_Chicago_Illinois.jpg",
+          "caption": "Walt Disney's birthplace at 2156 N. Tripp Avenue in Chicago's Hermosa neighborhood — he was born here on December 5, 1901, before his family moved to the Missouri farm."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Walt_Disney_with_Mickey_Mouse_drawing.jpg",
+          "caption": "Walt Disney with a Mickey Mouse drawing, 1931 (Library of Congress). His love of drawing began in childhood on the farm in Marceline, Missouri, where he sketched every animal he could find and even drew on the house with tar."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Walt_Disney_NYWTS.jpg",
+          "caption": "Walt Disney photographed in 1938 by the New York World-Telegram (Library of Congress). He grew up in a working-class family — as a boy in Kansas City, he worked newspaper delivery routes before school, sometimes falling asleep in class from exhaustion."
+        }
+      ],
       "questions": [
         {
           "type": "multiple_choice",
@@ -135,6 +149,20 @@
     },
     {
       "name": "Early Animation Career",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Laugh-O-Gram_Studio_2004.jpg",
+          "caption": "The Laugh-O-Gram Studio building at 1127 E. 31st Street in Kansas City, Missouri — Walt Disney's first animation studio, which went bankrupt in 1923, leaving him with little more than $40 and a suitcase."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/10/Oswald_the_Lucky_Rabbit_-_Jun_1927_UW.jpg",
+          "caption": "Oswald the Lucky Rabbit as depicted in June 1927 — Walt Disney's first hit cartoon character, created for Universal Pictures and then taken from him in a devastating contract dispute with distributor Charles Mintz."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG",
+          "caption": "Walt Disney photographed in 1946. His career began with bankruptcy in Kansas City and the loss of his first character, but he persevered — building one of Hollywood's greatest studios starting from nearly nothing."
+        }
+      ],
       "questions": [
         {
           "type": "multiple_choice",
@@ -174,6 +202,20 @@
     },
     {
       "name": "Mickey Mouse and Steamboat Willie",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Walt_Disney_with_film_roll_and_Mickey_Mouse_on_his_right_arm%2C_year_1935.jpg",
+          "caption": "Walt Disney holding a film reel with Mickey Mouse on his right arm, 1935 (Library of Congress). Within seven years of Mickey's debut, Walt's small studio had become Hollywood's most innovative animation house."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Mickey_Mouse_-_Steamboat_Willie_%281928%29.jpg",
+          "caption": "Mickey Mouse at the wheel of the steamboat in Steamboat Willie (1928) — one of the first cartoons in history to feature synchronized sound, where the music and sound effects matched the on-screen action perfectly."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Steamboat_Willie_1928_Poster.png",
+          "caption": "Original 1928 theatrical poster for Steamboat Willie, produced using the Powers Cinephone sound system. The film's revolutionary synchronized audio made Mickey Mouse an overnight sensation across America."
+        }
+      ],
       "questions": [
         {
           "type": "multiple_choice",
@@ -213,6 +255,20 @@
     },
     {
       "name": "Snow White and the Seven Dwarfs",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Walt_Disney_Snow_white_1937_trailer_screenshot_%2813%29.jpg",
+          "caption": "Walt Disney introduces the seven dwarfs in the original 1937 theatrical trailer for Snow White and the Seven Dwarfs — the world's first full-length cel-animated feature film, which Hollywood had mockingly called 'Disney's Folly.'"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/SNOW_WHITE_DISNEY.jpg",
+          "caption": "Snow White as seen in the 1937 theatrical trailer. Walt bet the entire studio on this film — and audiences wept, laughed, and cheered. It earned millions and saved Disney from debt, proving that animated films could equal any Hollywood production."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Walt_Disney_Snow_white_1937_trailer_screenshot_%2812%29.jpg",
+          "caption": "The seven dwarfs as seen in the original 1937 Snow White trailer. At the 1939 Academy Awards, child actress Shirley Temple presented Walt with a special honorary Oscar — one full-size statuette and seven tiny ones, one for each dwarf."
+        }
+      ],
       "questions": [
         {
           "type": "multiple_choice",
@@ -252,6 +308,20 @@
     },
     {
       "name": "World War II and the Studio",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/15/Disney_drawing_goofy.jpg",
+          "caption": "Walt Disney drawing Goofy for a group of girls during a South American goodwill tour in 1941 (Argentine National Archive). The U.S. State Department sent Disney to strengthen democratic ties in the region as World War II began."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/1941_-_Rialto_Theater_-_24_Dec_MC_-_Allentown_PA.jpg",
+          "caption": "A newspaper advertisement for Dumbo at the Rialto Theater in Allentown, Pennsylvania, Christmas Eve 1941 — weeks after Pearl Harbor. Disney released Dumbo in October 1941 as the studio prepared to pivot to wartime government film production."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Walt_disney_portrait.jpg",
+          "caption": "Walt Disney photographed in 1954 (Library of Congress/NASA). By this point the studio had fully recovered from the wartime years, having delivered Cinderella (1950), Alice in Wonderland (1951), and Peter Pan (1953) to new generations."
+        }
+      ],
       "questions": [
         {
           "type": "multiple_choice",
@@ -291,6 +361,20 @@
     },
     {
       "name": "Building Disneyland",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/WaltDisneyplansDisneylandDec1954.jpg",
+          "caption": "Walt Disney presenting Disneyland plans to Orange County officials in December 1954. Over 300 banks had already refused to fund the project — Walt mortgaged his own house and partnered with ABC television to raise the money."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Walt_Disney_NYWTS.jpg",
+          "caption": "Walt Disney photographed in 1938 by the New York World-Telegram (Library of Congress). Seventeen years before Disneyland opened, Walt was already imagining a clean, story-driven place where families could step inside the worlds he had created on screen."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Disneyland_Anaheim.jpg",
+          "caption": "Aerial view of Disneyland in Anaheim, California — the 160-acre park Walt Disney built from former orange groves. Walt bought the land for $4,500 per acre after every bank in America told him his dream was impossible."
+        }
+      ],
       "questions": [
         {
           "type": "multiple_choice",
@@ -330,6 +414,20 @@
     },
     {
       "name": "Walt Disney's Achievements",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Walt_Disney%27s_Oscars_%2815666173008%29.jpg",
+          "caption": "Walt Disney's actual Academy Award statuettes — 22 of them, more than any individual in history. His first Oscar was awarded in 1932 for the creation of Mickey Mouse; his last was awarded posthumously in 1969."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/df/Walt_Disney_1946.JPG",
+          "caption": "Walt Disney receives a Boy Scouts of America award in 1946. Beyond his record 22 Oscars, Disney was awarded the Presidential Medal of Freedom in 1964 by President Lyndon B. Johnson — the highest civilian honor in the United States."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Walt_Disney_with_Mickey_Mouse_drawing.jpg",
+          "caption": "Walt Disney with a Mickey Mouse drawing, 1931 (Library of Congress). Just three years after Steamboat Willie debuted Mickey to the world, Walt had already won his first Academy Award — the beginning of the most decorated career in Oscar history."
+        }
+      ],
       "questions": [
         {
           "type": "multiple_choice",
@@ -369,6 +467,20 @@
     },
     {
       "name": "The Disney Legacy",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/79/Walt_Disney_with_Company_at_Press_Conference.jpg",
+          "caption": "Walt Disney and Roy Disney at the Florida press conference on November 15, 1965, announcing what would become Walt Disney World. Walt had just over a year to live — he died on December 15, 1966, before the park was completed."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Roy_Disney_and_company_inspecting_property_for_Disney_World.jpg",
+          "caption": "Roy O. Disney (far left) and associates — including Card Walker and William Potter — inspecting the Lake Buena Vista, Florida property in 1963 that would become Walt Disney World. Roy dedicated himself to completing his brother's final dream."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5e/Roy_Disney_inspecting_property_in_Florida.jpg",
+          "caption": "Roy Disney holding a map while surveying the Florida property, circa 1964. Roy oversaw every detail of Walt Disney World's construction and dedicated the park to Walt's memory at its opening on October 1, 1971."
+        }
+      ],
       "questions": [
         {
           "type": "multiple_choice",
