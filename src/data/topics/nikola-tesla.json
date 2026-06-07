@@ -1,0 +1,413 @@
+{
+  "id": "nikola-tesla",
+  "title": "Nikola Tesla",
+  "category": "Famous People & Biographies",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/d/d4/N.Tesla.JPG",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/7/79/Tesla_circa_1890.jpeg",
+  "teaser": "Meet the inventor from Serbia who moved to America with almost nothing, battled Thomas Edison over how to power the world, and dreamed of giving free electricity to every person on Earth.",
+  "summary": {
+    "intro": "Nikola Tesla (1856–1943) was a Serbian-American inventor whose ideas were so far ahead of his time that most people couldn't understand them. Born in a tiny Serbian village that is now part of Croatia, he traveled to America at age 28 with four cents in his pocket and a letter of introduction to Thomas Edison. He would go on to invent the alternating current (AC) electrical system that still powers every home and school and factory on Earth today. He invented the radio, demonstrated the world's first remote control, and dreamed of sending free wireless electricity to every corner of the planet. Yet he died alone and nearly broke in a hotel room — a genius so far ahead of everyone else that the world forgot him while he was still alive.",
+    "sections": [
+      {
+        "title": "A Boy Who Could Build Anything in His Mind",
+        "body": "Nikola Tesla was born on July 10, 1856, in the village of Smiljan in what is now Croatia. His father, Milutin, was an Orthodox priest who kept a large library, and young Nikola read everything he could find. His mother, Djuka, had no formal education but possessed an extraordinary memory — she could recite entire books by heart — and she spent her spare time inventing clever tools to make housework easier. Nikola inherited both her memory and her inventive spirit. As a child, he discovered he could visualize machines so vividly in his mind that he could 'run' them mentally, check for problems, and improve the design — all without ever touching a pencil. After studying engineering at the Austrian Polytechnic in Graz, Tesla became fascinated with electricity and began working in telegraph offices across Europe, always dreaming of something bigger."
+      },
+      {
+        "title": "From Europe to Edison's Workshop",
+        "body": "In 1882, while walking in a Budapest park, a flash of inspiration struck Tesla and he sketched out in the dirt the design for a revolutionary new type of electric motor — one that ran on alternating current (AC) instead of the direct current (DC) everyone used. He knew this AC motor could change the world. In 1884, he packed his bags and sailed to New York City, arriving with almost nothing. He carried a letter recommending him to Thomas Edison, then the most famous inventor in America. Edison hired Tesla immediately, impressed by his genius. For a year Tesla worked day and night for Edison, fixing problems Edison's engineers could not solve. Edison reportedly promised Tesla $50,000 if he improved Edison's DC generator system. When Tesla succeeded, Edison waved it off as a joke. Furious at being cheated, Tesla quit. It was the beginning of one of the greatest rivalries in the history of science."
+      },
+      {
+        "title": "The War of Currents",
+        "body": "After leaving Edison, Tesla teamed up with the businessman George Westinghouse, who saw that Tesla's AC system was the future. Edison fought back hard — he staged public demonstrations where he electrocuted animals with AC power to 'prove' it was too dangerous. But Tesla and Westinghouse had science on their side. AC electricity can be boosted to very high voltages to travel hundreds of miles along wires, then stepped back down to safe levels at homes and factories — something DC could not do. In 1893, Tesla and Westinghouse lit up the entire Chicago World's Fair with AC electricity, dazzling millions of visitors. A year later, they built the world's first large AC power station at Niagara Falls, sending electricity all the way to Buffalo, New York. The War of Currents was over. Tesla and AC had won."
+      },
+      {
+        "title": "Lightning, Wireless Power, and the Greatest Dream",
+        "body": "Tesla's victory in the War of Currents was just the beginning. In 1891, he invented the Tesla coil, a device that generates spectacular bolts of man-made lightning, and used it to demonstrate that electricity could travel through the air without wires. In 1898, he steered a small radio-controlled boat across a pool in New York — inventing remote control. In 1899, he moved to Colorado Springs and built a massive experimental station where his coils produced lightning bolts 135 feet long and once accidentally knocked out the town's entire power supply. His greatest ambition was Wardenclyffe Tower — a giant transmission tower on Long Island meant to beam free electricity and communications to every person on Earth. His financial backer, J.P. Morgan, pulled his funding when he realized 'free electricity' meant no way to charge customers. The tower was never finished, and Tesla's dream died with it."
+      },
+      {
+        "title": "Forgotten, Then Found",
+        "body": "After the failure of Wardenclyffe, Tesla's fortunes slowly crumbled. He had earlier torn up his contract for AC royalties to save Westinghouse's company from bankruptcy — a generous act that cost him millions of dollars and left him with no financial safety net. He spent his final years living alone in a room at the Hotel New Yorker in New York City, feeding pigeons in Bryant Park and working on ideas no one yet understood. He died on January 7, 1943, at age 86, nearly broke and mostly forgotten. But the world eventually caught up. That same year, the U.S. Supreme Court ruled that Tesla — not Guglielmo Marconi — held the original radio patents. In 1960, the scientific unit of magnetic field strength was named the 'tesla' in his honor. Today the cars, power grids, and wireless devices that run our world are all built on foundations Nikola Tesla laid more than a century ago."
+      }
+    ],
+    "keyFacts": [
+      "Tesla was born on July 10, 1856, in Smiljan — a village now in modern-day Croatia.",
+      "He arrived in New York in 1884 with four cents in his pocket and a letter of recommendation to Thomas Edison.",
+      "Tesla's AC (alternating current) electrical system is the type of electricity that powers every home on Earth today.",
+      "He invented the Tesla coil, the AC induction motor, radio, and the remote control.",
+      "In 1899, his experiments in Colorado Springs produced artificial lightning bolts 135 feet long.",
+      "He gave up millions of dollars in royalties to save his partner George Westinghouse from bankruptcy.",
+      "He died alone in a New York hotel room on January 7, 1943, at the age of 86.",
+      "The scientific unit for measuring magnetic fields is called the 'tesla' in his honor."
+    ]
+  },
+  "videos": [
+    {
+      "youtubeId": "hHZBFdbldxE",
+      "title": "Tesla biography in 3 minutes - Life and works of Nikola Tesla - mini bio - mini history",
+      "description": "A crisp 3-minute overview of Tesla's life and major achievements, from his childhood in Serbia to his groundbreaking work with AC electricity — a perfect first introduction before exploring the deeper chapters.",
+      "durationSeconds": 180,
+      "verified": true
+    },
+    {
+      "youtubeId": "L3YtT5j0zW0",
+      "title": "Nikola Tesla Documentary in 4 minutes - Electricity and Magnetism",
+      "description": "A 4-minute mini-documentary focused on Tesla's contributions to electricity and magnetism, covering the War of Currents and his most important inventions in an engaging, fast-paced format.",
+      "durationSeconds": 240,
+      "verified": true
+    },
+    {
+      "youtubeId": "ferNGvy8r4U",
+      "title": "Nikola Tesla for Kids Learn Fun Facts About a Brilliant Inventor!",
+      "description": "Explicitly designed for young learners, this video highlights fun and fascinating facts about Tesla's life and inventions using kid-friendly language and visuals.",
+      "durationSeconds": 240,
+      "verified": true
+    }
+  ],
+  "readings": [
+    {
+      "title": "Who Was Nikola Tesla?",
+      "author": "Jim Gigliotti",
+      "year": 2018,
+      "sourceType": "book",
+      "summary": "Part of the beloved 'Who Was?' series, this 112-page illustrated biography tells the story of Tesla's life from his boyhood in Serbia to his years in New York, explaining the War of Currents, the Tesla coil, and why this overlooked genius deserves to be remembered alongside Edison and Einstein. Perfect for readers who want the whole story in one easy, engaging read.",
+      "externalUrl": "https://www.penguinrandomhouse.com/books/318150/who-was-nikola-tesla-by-jim-gigliotti-illustrated-by-john-hinderliter/",
+      "citationChicago": "Gigliotti, Jim. Who Was Nikola Tesla? Illustrated by John Hinderliter. Penguin Workshop, 2018."
+    },
+    {
+      "title": "Nikola Tesla for Kids: His Life, Ideas, and Inventions, with 21 Activities",
+      "author": "Amy M. O'Quinn",
+      "year": 2019,
+      "sourceType": "book",
+      "summary": "This award-nominated book (AAAS/Subaru SB&F finalist) does more than just tell Tesla's story — it lets you live it. Between chapters packed with fascinating facts about AC electricity, the Tesla coil, and Wardenclyffe Tower, you'll find 21 hands-on experiments and activities you can try yourself, from building simple circuits to exploring magnets. Great for curious kids who learn best by doing.",
+      "externalUrl": "https://www.barnesandnoble.com/w/nikola-tesla-for-kids-amy-m-oquinn/1129581154",
+      "citationChicago": "O'Quinn, Amy M. Nikola Tesla for Kids: His Life, Ideas, and Inventions, with 21 Activities. Chicago Review Press, 2019."
+    },
+    {
+      "title": "My Inventions: The Autobiography of Nikola Tesla",
+      "author": "Nikola Tesla",
+      "year": 1919,
+      "sourceType": "primary_source",
+      "summary": "These are Tesla's own words — a series of essays he wrote in 1919 describing his childhood, his most important discoveries, and his dreams for the future of electricity. It's more challenging reading than a kids' biography, but there is nothing like hearing a genius explain his own ideas in his own voice. Especially fascinating for ages 11 and up who want to know what Tesla was really thinking.",
+      "externalUrl": "https://archive.org/details/myinventionsauto0000tesl_b5m5",
+      "citationChicago": "Tesla, Nikola. My Inventions: The Autobiography of Nikola Tesla. Electrical Experimenter, 1919. Reprint, Internet Archive."
+    }
+  ],
+  "aspects": [
+    {
+      "name": "The Boy from Serbia",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Rodna_ku%C4%87a_Nikole_Tesle_u_Smiljanu_s_muzejskim_multimedijalnim_postavom.JPG",
+          "caption": "Tesla's rebuilt birth house at the Nikola Tesla Memorial Center in Smiljan, Croatia. Tesla was born here on July 10, 1856, in a village that was then part of the Austrian Empire — the land that is now modern Croatia."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Milutin_Tesla.jpg",
+          "caption": "Milutin Tesla, Nikola's father, who served as an Orthodox priest in Smiljan. He kept a large home library that the young Nikola loved to explore, helping kindle a lifelong passion for knowledge."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "In which modern country is the village where Nikola Tesla was born?",
+          "choices": ["Serbia", "Hungary", "Croatia", "Austria"],
+          "correctAnswer": "Croatia",
+          "explanation": "Tesla was born on July 10, 1856, in the village of Smiljan, which was then part of the Austrian Empire and is now part of modern-day Croatia."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What was Nikola Tesla's father's occupation?",
+          "choices": ["School teacher", "Orthodox priest", "Army general", "Railway engineer"],
+          "correctAnswer": "Orthodox priest",
+          "explanation": "Tesla's father, Milutin Tesla, was an Orthodox priest. Despite being a man of the church, he kept a vast library that young Nikola loved to explore."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Where did Tesla study engineering as a young man?",
+          "choices": ["The University of Vienna", "The University of Prague", "The Austrian Polytechnic in Graz", "The Berlin Institute of Technology"],
+          "correctAnswer": "The Austrian Polytechnic in Graz",
+          "explanation": "In 1875, Tesla enrolled at the Austrian Polytechnic in Graz, where he became fascinated by electricity and worked longer hours than almost any other student."
+        },
+        {
+          "type": "true_false",
+          "prompt": "Tesla's mother had formal scientific training, which is why she inspired his love of invention.",
+          "correctAnswer": "false",
+          "explanation": "Tesla's mother, Djuka, never received any formal education. Yet she had a remarkable memory and invented clever tools to help with household work — showing Tesla that creativity does not require a diploma."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What remarkable mental ability did Tesla say he inherited from his mother?",
+          "correctAnswer": "Photographic memory",
+          "keywords": ["memory", "photographic", "memorize", "remember"],
+          "explanation": "Djuka Tesla had a phenomenal memory and could recite entire books from memory. Nikola inherited this gift — he could visualize inventions completely in his mind before ever touching a single tool."
+        }
+      ]
+    },
+    {
+      "name": "The War of Currents",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Nikola_Tesla_by_Sarony_c1893.jpg",
+          "caption": "Nikola Tesla photographed by Napoleon Sarony, circa 1893 — the period when his AC (Alternating Current) system was transforming America's electrical grid. Tesla proved that AC, which rapidly switches direction, could carry electricity further and more efficiently than any previous system."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/George_westinghouse_portrait_1906.jpg",
+          "caption": "George Westinghouse, photographed by Joseph Gaylord Gessford in 1906, now in the Smithsonian National Portrait Gallery. Westinghouse purchased Tesla's AC patents and became his crucial business partner in the War of Currents against Edison's DC system."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Westinghouse_Generators_at_Niagara_Falls.jpg",
+          "caption": "Ten Westinghouse AC generators at the Edward Dean Adams Power Plant, Niagara Falls, photographed 1904. Built in 1895, this was the world's first large-scale AC power station — living proof that transformers could step AC voltage up to travel hundreds of miles, then step it safely back down for homes and factories."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Thomas_Edison%2C_1878.jpg",
+          "caption": "Thomas Edison photographed in 1878, from the Library of Congress. Edison championed his own DC (direct current) system and campaigned fiercely against AC — calling it too dangerous — but Tesla and Westinghouse ultimately proved that AC was the future of electrical power."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What does 'AC' stand for in Tesla's electrical system?",
+          "choices": ["Automatic Current", "Applied Current", "Alternating Current", "Accelerated Current"],
+          "correctAnswer": "Alternating Current",
+          "explanation": "AC stands for Alternating Current, meaning the electricity rapidly switches direction. Tesla showed that AC was the best way to carry electricity over long distances to homes and businesses."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which businessman backed Tesla's AC electrical system and helped bring it to homes across America?",
+          "choices": ["Andrew Carnegie", "George Westinghouse", "J.P. Morgan", "John D. Rockefeller"],
+          "correctAnswer": "George Westinghouse",
+          "explanation": "George Westinghouse believed in Tesla's AC system and purchased his patents. Together they competed against Thomas Edison's DC system in what became known as the War of Currents."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Why did Tesla's AC electricity win over Edison's DC system for powering distant homes?",
+          "choices": [
+            "AC electricity is completely safe while DC is always dangerous",
+            "AC could be stepped up to high voltage for long-distance travel, then stepped down for home use",
+            "AC uses half as much copper wire as DC",
+            "AC was invented first and already installed everywhere"
+          ],
+          "correctAnswer": "AC could be stepped up to high voltage for long-distance travel, then stepped down for home use",
+          "explanation": "Using transformers, AC electricity can be boosted to very high voltages to travel long distances without losing much energy, then reduced to safe levels at home — something DC could not do easily."
+        },
+        {
+          "type": "true_false",
+          "prompt": "Thomas Edison supported Nikola Tesla's alternating current system and helped promote it to the public.",
+          "correctAnswer": "false",
+          "explanation": "Edison strongly opposed Tesla's AC system and ran a campaign arguing it was too dangerous. Edison championed his own DC (direct current) system and the two became famous rivals."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What was the name given to the fierce competition between Edison's DC power and Tesla's AC power?",
+          "correctAnswer": "War of Currents",
+          "keywords": ["war", "currents", "current", "battle"],
+          "explanation": "The competition between Edison's direct current and Tesla's alternating current in the late 1880s and 1890s is called the War of Currents. Tesla and Westinghouse ultimately won, and AC became the world standard."
+        }
+      ]
+    },
+    {
+      "name": "Lightning and the Tesla Coil",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Tesla_colorado_adjusted.jpg",
+          "caption": "Nikola Tesla in his Colorado Springs laboratory, December 1899, in a famous double-exposure photograph by Dickenson V. Alley. The massive Tesla coil behind him is producing 12-million-volt bolts of artificial lightning — exactly the crackling, leaping electrical sparks the coil is designed to generate."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Nikola_Tesla_by_Sarony_c1898.jpg",
+          "caption": "Tesla holding a lightbulb that glows without any wire connecting it to a power source, photographed by Napoleon Sarony around 1898. Tesla powered the bulb wirelessly through the air using his coil experiments — his early steps toward the dream of sending free electricity to anyone on Earth."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/Tesla_Colorado_Springs_laboratory_exterior.jpg",
+          "caption": "The exterior of Tesla's experimental laboratory in Colorado Springs, December 1899, photographed by Charles Alley. The 142-foot antenna mast rising through the roof allowed Tesla to test wireless power at distances never before attempted — and his coils once accidentally knocked out the entire town's electricity supply."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Nikola_Tesla_Museum_030.jpg",
+          "caption": "A Tesla coil on display at the Nikola Tesla Museum in Belgrade, Serbia. Tesla coils continue to be demonstrated in science museums and educational institutions around the world — proof that Tesla's 19th-century invention still sparks curiosity and wonder more than a century later."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/36/Wardenclyffe_Tower_full_view.jpg",
+          "caption": "Wardenclyffe Tower, Tesla's unfinished wireless power transmitter on Long Island, New York, photographed circa 1904. The 187-foot tower was Tesla's greatest ambition — a device to send free electricity and communications to anyone on Earth — but when J.P. Morgan withdrew his funding, the tower was abandoned and torn down in 1916."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What does a Tesla coil produce?",
+          "choices": [
+            "Invisible radio waves that travel through walls",
+            "Spectacular bolts of high-voltage electricity",
+            "Powerful beams of light like a laser",
+            "A strong magnetic field that lifts metal objects"
+          ],
+          "correctAnswer": "Spectacular bolts of high-voltage electricity",
+          "explanation": "A Tesla coil uses high-frequency alternating current to produce dramatic bolts of electricity — the same kind of sparks you see in lightning — leaping through the air."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What was Tesla's biggest dream behind his coil experiments?",
+          "choices": [
+            "To prove electricity was more dangerous than people thought",
+            "To transmit electrical power wirelessly through the air",
+            "To store electricity inside large magnets for later use",
+            "To show that DC electricity was better than AC after all"
+          ],
+          "correctAnswer": "To transmit electrical power wirelessly through the air",
+          "explanation": "Tesla dreamed of sending electricity through the air without any wires, so anyone in the world could have free power. His coil experiments were early steps toward this extraordinary vision."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In 1899, Tesla built a large experimental station to test his ideas about sending electricity through the earth. Where was it?",
+          "choices": ["Niagara Falls, New York", "Chicago, Illinois", "Colorado Springs, Colorado", "Wardenclyffe, New York"],
+          "correctAnswer": "Colorado Springs, Colorado",
+          "explanation": "Tesla set up a remarkable laboratory in Colorado Springs in 1899, where he ran experiments with enormous Tesla coils — and once accidentally blacked out the entire town's electricity supply."
+        },
+        {
+          "type": "true_false",
+          "prompt": "Tesla coils are only found in history museums today and have no modern uses.",
+          "correctAnswer": "false",
+          "explanation": "Tesla coils are still used today — they appear in radio and television transmitters, certain types of lighting, and are a popular tool for science demonstrations in schools and museums around the world."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What was the name of the giant tower Tesla planned to build on Long Island to transmit electricity and messages wirelessly around the world?",
+          "correctAnswer": "Wardenclyffe Tower",
+          "keywords": ["Wardenclyffe", "tower", "wireless"],
+          "explanation": "Wardenclyffe Tower was Tesla's most ambitious project — a massive transmission tower on Long Island, New York, designed to send free electricity and communications to the whole world. It was never completed."
+        }
+      ]
+    },
+    {
+      "name": "Forgotten and Found",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Dedicated_plaque_to_Nikola_Tesla_at_New_Yorker_Hotel_in_New_York.JPG",
+          "caption": "The commemorative plaque at the Hotel New Yorker in New York City, marking where Tesla lived and worked during his final decade. He died in this building on January 7, 1943, at age 86 — alone, nearly penniless, and largely forgotten by the world he had helped to power."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/George_westinghouse_portrait_1906.jpg",
+          "caption": "George Westinghouse, photographed 1906. When Westinghouse's company faced bankruptcy in the 1890s, Tesla voluntarily tore up his royalty contract — sacrificing millions of dollars he was owed — so that his partner and their shared AC dream could survive."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Portrait_of_J._P._Morgan.jpg",
+          "caption": "J.P. Morgan, the powerful banker photographed for The World's Work magazine, 1922. Morgan funded Wardenclyffe Tower's construction but withdrew his investment when he learned Tesla's plan was to give electricity away for free — a scheme with no way to charge customers or turn a profit."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/87/Blue_Portrait_of_Nikola_Tesla.jpg",
+          "caption": "Vilma Lwoff-Parlaghy's oil portrait of Nikola Tesla, c. 1913–1916 — the only painting for which he posed. Painted years after Wardenclyffe Tower's collapse, this image captures Tesla in his late 50s, still working, yet largely unrecognized for contributions that would only be celebrated long after his death."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Where did Nikola Tesla spend his final years and die in 1943?",
+          "choices": [
+            "A grand mansion in Connecticut",
+            "A room at the Hotel New Yorker in New York City",
+            "A research laboratory in Washington, D.C.",
+            "His childhood home in Croatia"
+          ],
+          "correctAnswer": "A room at the Hotel New Yorker in New York City",
+          "explanation": "Tesla spent his last years alone in a small room at the Hotel New Yorker in New York City. He died there on January 7, 1943, at the age of 86, with very little money left to his name."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Why did Tesla end up with very little money despite his incredible inventions?",
+          "choices": [
+            "His inventions never actually worked outside a laboratory",
+            "The government took all his earnings in taxes",
+            "He tore up his royalty contract to save Westinghouse's company from bankruptcy",
+            "He spent all his earnings on expensive travel and parties"
+          ],
+          "correctAnswer": "He tore up his royalty contract to save Westinghouse's company from bankruptcy",
+          "explanation": "Tesla had a contract promising him royalties for every unit of AC electricity sold. When Westinghouse's company faced financial ruin, Tesla tore up the contract — giving up millions of dollars — so his partner could survive."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Who withdrew funding for Tesla's Wardenclyffe Tower, forcing him to abandon the project?",
+          "choices": ["George Westinghouse", "Thomas Edison", "J.P. Morgan", "Andrew Carnegie"],
+          "correctAnswer": "J.P. Morgan",
+          "explanation": "The wealthy banker J.P. Morgan had funded the tower's construction, but he withdrew his money when he learned Tesla planned to give electricity away for free — which meant no way to charge customers or earn a profit."
+        },
+        {
+          "type": "true_false",
+          "prompt": "Nikola Tesla died a rich and famous man, celebrated around the world for his discoveries.",
+          "correctAnswer": "false",
+          "explanation": "Sadly, Tesla died nearly broke and largely forgotten. Rivals like Edison received far more fame and credit during their lifetimes. It took many decades after Tesla's death for the world to fully appreciate how important his work truly was."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What unit of measurement used in science today is named in honor of Nikola Tesla?",
+          "correctAnswer": "Tesla",
+          "keywords": ["tesla", "magnetic", "unit"],
+          "explanation": "The 'tesla' (symbol T) is the scientific unit used to measure magnetic field strength. Named in his honor in 1960, it ensures that Tesla's name will always live on in science classrooms around the world."
+        }
+      ]
+    },
+    {
+      "name": "Tesla's World-Changing Ideas",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/US_patent_1119732_Nikola_Tesla_1907_Apparatus_for_transmitting_electrical_energy.png",
+          "caption": "Drawing from Nikola Tesla's US Patent 1,119,732 (filed 1907, granted 1914), one of roughly 300 patents he earned worldwide. This design for a wireless power transmitter shows the breadth of his inventing career — spanning electricity, radio, motors, and global communications."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Tesla_boat1.jpg",
+          "caption": "Tesla's drawing of his radio-controlled boat's receiving arrangement, published in Century Magazine in 1900 and protected by US Patent 613,809 (1898). Demonstrated live in New York, this was the world's first remote-controlled vehicle — the invention that gave us everything from TV remotes to modern drones."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Guglielmo_Marconi.jpg",
+          "caption": "Guglielmo Marconi, photographed by the Pach Brothers, 1908, Library of Congress. Marconi received global fame as the inventor of radio — but in 1943 the U.S. Supreme Court ruled that Tesla's earlier patents had legal priority, making Tesla the true original holder of the foundational radio patents."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Alexander_Graham_Bell%27s_big_box_telephone%2C_1876%2C_one_of_the_first_commercially_available_telephones_-_National_Museum_of_American_History_-_DSC06223.JPG",
+          "caption": "Alexander Graham Bell's 'big box' telephone of 1876, one of the first commercially available telephones, now at the National Museum of American History. The telephone was Bell's invention, not Tesla's — Tesla's extraordinary legacy lies in AC motors, the Tesla coil, radio, and remote control."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Approximately how many patents did Nikola Tesla earn during his lifetime?",
+          "choices": ["About 10", "About 50", "About 300", "About 1,000"],
+          "correctAnswer": "About 300",
+          "explanation": "Tesla was awarded roughly 300 patents worldwide, covering electricity, motors, radio, and much more — making him one of the most productive inventors in history."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "In 1898, Tesla amazed a crowd in New York by demonstrating a small boat that moved with no one aboard. What controlled it?",
+          "choices": [
+            "A hidden steam motor inside the hull",
+            "Radio waves sent from a handheld remote control",
+            "A very long wire attached to the dock",
+            "A trained animal hidden below deck"
+          ],
+          "correctAnswer": "Radio waves sent from a handheld remote control",
+          "explanation": "Tesla demonstrated the world's first radio-controlled vehicle — a small boat he steered using radio signals. The amazed crowd thought it was magic; it was actually the invention of remote control."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What did the United States Supreme Court decide in 1943 about who really invented radio?",
+          "choices": [
+            "Thomas Edison had invented radio first",
+            "Guglielmo Marconi held the valid original patent",
+            "Tesla's earlier patents had priority over Marconi's radio patent",
+            "No single inventor deserved the credit"
+          ],
+          "correctAnswer": "Tesla's earlier patents had priority over Marconi's radio patent",
+          "explanation": "The Supreme Court ruled that Tesla's earlier work on radio transmission meant Marconi's key patent was not valid. Tesla, not Marconi, held the original patents — though Tesla never received the fame Marconi enjoyed during his lifetime."
+        },
+        {
+          "type": "true_false",
+          "prompt": "Nikola Tesla invented the telephone.",
+          "correctAnswer": "false",
+          "explanation": "The telephone was invented by Alexander Graham Bell in 1876. Tesla's inventions include the AC induction motor, the Tesla coil, radio, and remote control — but not the telephone."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What type of motor, invented by Tesla, powers most electric cars on the road today?",
+          "correctAnswer": "AC induction motor",
+          "keywords": ["induction", "AC", "alternating", "motor"],
+          "explanation": "Tesla's AC induction motor — which uses alternating current and has no brushes to wear out — is the basis for the electric motors that power most electric cars today, including those made by the company named in his honor."
+        }
+      ]
+    }
+  ]
+}

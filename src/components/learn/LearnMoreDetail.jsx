@@ -1,3 +1,5 @@
+import { useEffect } from 'react'
+
 const ACCENT_COLORS = [
   'bg-sky/10 text-sky border-sky/20',
   'bg-emerald-50 text-emerald-700 border-emerald-200',
@@ -7,6 +9,8 @@ const ACCENT_COLORS = [
 ]
 
 export default function LearnMoreDetail({ aspect, aspectIndex, totalAspects, onBack, onNext, onPrev }) {
+  useEffect(() => { window.scrollTo(0, 0) }, [aspectIndex])
+
   const facts = aspect.questions.map(q => q.explanation)
   const images = aspect.learnMoreImages || []
 

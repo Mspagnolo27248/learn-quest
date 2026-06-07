@@ -42,6 +42,26 @@ const TOPIC_THEMES = {
       { dot: 'bg-indigo-700',  cardBg: 'bg-indigo-50',  border: 'border-indigo-200 border-l-4 border-l-indigo-700',   hover: 'hover:border-indigo-300',  text: 'text-indigo-800',  emoji: '🗽' },
     ],
   },
+  'theodore-roosevelt': {
+    gradient: 'linear-gradient(to bottom, #b45309, #1d4ed8, #dc2626, #15803d, #ca8a04)',
+    chapters: [
+      { dot: 'bg-amber-700',   cardBg: 'bg-amber-50',   border: 'border-amber-200 border-l-4 border-l-amber-700',     hover: 'hover:border-amber-300',   text: 'text-amber-800',   emoji: '🤠' },
+      { dot: 'bg-blue-700',    cardBg: 'bg-blue-50',    border: 'border-blue-200 border-l-4 border-l-blue-700',       hover: 'hover:border-blue-300',    text: 'text-blue-800',    emoji: '🏛️' },
+      { dot: 'bg-red-600',     cardBg: 'bg-red-50',     border: 'border-red-200 border-l-4 border-l-red-600',         hover: 'hover:border-red-300',     text: 'text-red-700',     emoji: '⚖️' },
+      { dot: 'bg-green-700',   cardBg: 'bg-green-50',   border: 'border-green-200 border-l-4 border-l-green-700',     hover: 'hover:border-green-300',   text: 'text-green-800',   emoji: '🌲' },
+      { dot: 'bg-yellow-600',  cardBg: 'bg-yellow-50',  border: 'border-yellow-200 border-l-4 border-l-yellow-600',   hover: 'hover:border-yellow-300',  text: 'text-yellow-700',  emoji: '🕊️' },
+    ],
+  },
+  'nikola-tesla': {
+    gradient: 'linear-gradient(to bottom, #f59e0b, #0ea5e9, #facc15, #64748b, #7c3aed)',
+    chapters: [
+      { dot: 'bg-amber-500',   cardBg: 'bg-amber-50',   border: 'border-amber-200 border-l-4 border-l-amber-500',     hover: 'hover:border-amber-300',   text: 'text-amber-700',   emoji: '⛪' },
+      { dot: 'bg-sky-500',     cardBg: 'bg-sky-50',     border: 'border-sky-200 border-l-4 border-l-sky-500',         hover: 'hover:border-sky-300',     text: 'text-sky-700',     emoji: '⚡' },
+      { dot: 'bg-yellow-400',  cardBg: 'bg-yellow-50',  border: 'border-yellow-200 border-l-4 border-l-yellow-400',   hover: 'hover:border-yellow-300',  text: 'text-yellow-700',  emoji: '🌩️' },
+      { dot: 'bg-slate-500',   cardBg: 'bg-slate-50',   border: 'border-slate-200 border-l-4 border-l-slate-500',     hover: 'hover:border-slate-300',   text: 'text-slate-700',   emoji: '🕯️' },
+      { dot: 'bg-violet-600',  cardBg: 'bg-violet-50',  border: 'border-violet-200 border-l-4 border-l-violet-600',   hover: 'hover:border-violet-300',  text: 'text-violet-700',  emoji: '💡' },
+    ],
+  },
   'solar-system': {
     gradient: 'linear-gradient(to bottom, #f59e0b, #7c3aed, #0ea5e9, #10b981, #f43f5e)',
     chapters: [
