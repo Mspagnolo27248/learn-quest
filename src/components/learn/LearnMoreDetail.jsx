@@ -43,7 +43,7 @@ export default function LearnMoreDetail({ aspect, aspectIndex, totalAspects, onB
                 <img
                   src={images[i].url}
                   alt={images[i].caption}
-                  className="w-full h-56 sm:h-72 object-cover"
+                  className="w-full max-h-96 object-contain bg-gray-100"
                 />
                 <figcaption className="px-4 py-2.5 bg-gray-50 border-t border-gray-100 text-xs text-gray-500 italic leading-relaxed">
                   {images[i].caption}
@@ -58,7 +58,7 @@ export default function LearnMoreDetail({ aspect, aspectIndex, totalAspects, onB
             <img
               src={img.url}
               alt={img.caption}
-              className="w-full h-56 sm:h-72 object-cover"
+              className="w-full max-h-96 object-contain bg-gray-100"
             />
             <figcaption className="px-4 py-2.5 bg-gray-50 border-t border-gray-100 text-xs text-gray-500 italic leading-relaxed">
               {img.caption}

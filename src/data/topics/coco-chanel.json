@@ -2,8 +2,8 @@
   "id": "coco-chanel",
   "title": "Coco Chanel",
   "category": "Famous People & Biographies",
-  "thumbnail": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?auto=format&fit=crop&w=600&q=80",
-  "heroImage": "https://images.unsplash.com/photo-1490481651871-ab68de25d43d?auto=format&fit=crop&w=1400&q=80",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/2/22/Coco_Chanel_in_Los_Angeles%2C_1931_%28cropped%29.jpg",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/1/10/Coco_Chanel_in_Los_Angeles%2C_1931.jpg",
   "teaser": "Meet the French orphan who became the world's most famous fashion designer — forever changing how women dress by making comfort, elegance, and simplicity the new style.",
   "summary": {
     "intro": "Gabrielle Bonheur Chanel (1883–1971), known to the world as Coco Chanel, was one of the most influential figures in the history of fashion. Born into poverty and raised in an orphanage, she went on to build a global fashion empire, invent one of the world's best-selling perfumes, and fundamentally change the way women dress. She is the only fashion designer to appear on TIME magazine's list of the 100 most influential people of the 20th century.",
@@ -70,32 +70,51 @@
       "author": "Karen Karbo",
       "year": 2009,
       "sourceType": "book",
-      "citationChicago": "Karbo, Karen. 2009. The Gospel According to Coco Chanel: Life Lessons from the World's Most Elegant Woman. Guilford, CT: skirt!",
-      "summary": "Karen Karbo's book is one of the most readable accounts of Coco Chanel's life ever written. Karbo brings Chanel's story to life with wit, sharp observation, and genuine admiration for one of the 20th century's most remarkable women. The book begins with Chanel's miserable childhood — her mother's death, her father's abandonment, and the years in the orphanage at Aubazine — and shows how those early experiences of poverty and loss shaped her fierce independence and her refusal to be defined by circumstances. Karbo describes how Chanel's years as a café singer gave her social confidence that served her perfectly when she began moving in aristocratic circles. The book traces her design innovations in detail: why jersey was so revolutionary, how she looked at what men were wearing for sports and adapted it for women, and how she arrived at the deceptively simple shapes that made her clothes so timeless. Karbo also tackles the complicated question of Chanel's wartime behavior honestly, acknowledging the controversy without letting it erase her contributions. Throughout, the book weaves in 'life lessons' drawn from Chanel's example — her work ethic, her belief in simplicity, her insistence on quality over quantity. For any reader curious about how one person can reshape culture, this book is a wonderful starting point.",
-      "externalUrl": "https://www.amazon.com/Gospel-According-Coco-Chanel-Lessons/dp/1599218879"
+      "summary": "Karen Karbo tells Coco Chanel's story with wit and warmth — from her rough childhood in an orphanage to the fashion empire she built through sheer determination. The book weaves life lessons drawn from Chanel's example into an entertaining and inspiring read perfect for anyone curious about how one person can reshape an entire culture.",
+      "externalUrl": "https://www.amazon.com/Gospel-According-Coco-Chanel-Lessons/dp/1599218879",
+      "citationChicago": "Karbo, Karen. The Gospel According to Coco Chanel: Life Lessons from the World's Most Elegant Woman. Guilford, CT: skirt!, 2009."
     },
     {
       "title": "Chanel: A Woman of Her Own",
       "author": "Axel Madsen",
       "year": 1990,
       "sourceType": "book",
-      "citationChicago": "Madsen, Axel. 1990. Chanel: A Woman of Her Own. New York: Henry Holt.",
-      "summary": "Axel Madsen's biography of Coco Chanel is considered one of the most thoroughly researched accounts of her life. Madsen spent years interviewing people who knew Chanel personally — designers, friends, employees, and rivals — and the result is a biography grounded in real memory and documented fact. The book covers all the major chapters of Chanel's life: her poverty-stricken childhood and years in the Aubazine orphanage, her days as a café singer in Moulins, her romantic relationships with Étienne Balsan and Boy Capel, and the gradual building of her fashion empire. Madsen is especially insightful on the creative process: how Chanel thought about fabric, silhouette, and the women she was designing for, and how her personal taste — shaped by years of having nothing — informed her philosophy of elegant simplicity. He does not shy away from the wartime years, devoting a detailed chapter to Chanel's life at the Ritz during the Nazi occupation and the murky aftermath, treating the evidence fairly and showing why historians still disagree. The book ends with Chanel's final years, still working and still commanding the fashion world at an age when most people have long since retired. For a deep, honest, and well-sourced account of an extraordinary life, this is an essential read.",
-      "externalUrl": "https://www.amazon.com/Chanel-Woman-Her-Own/dp/0805022937"
+      "summary": "Axel Madsen spent years interviewing people who knew Chanel personally to create one of the most thoroughly researched biographies of her life. The book covers everything from her poverty-stricken childhood and café-singing days to her wartime years in Paris and her dramatic comeback at age 70.",
+      "externalUrl": "https://www.amazon.com/Chanel-Woman-Her-Own/dp/0805022937",
+      "citationChicago": "Madsen, Axel. Chanel: A Woman of Her Own. New York: Henry Holt, 1990."
     },
     {
       "title": "Inside CHANEL: The History of Chanel (Official Film Series)",
       "author": "Chanel",
       "year": 2011,
-      "sourceType": "other",
-      "citationChicago": "Chanel. 2011. Inside CHANEL: The History of Chanel. Official film series. Paris: Chanel SAS. https://www.youtube.com/watch?v=2G88zqPxJ00.",
-      "summary": "Inside CHANEL is a series of short documentary films created by the House of Chanel to tell the story of Gabrielle Chanel and the brand she founded. Drawing on archival photographs, rare film footage, fashion sketches, and personal writings, the series brings viewers directly into the world Chanel inhabited. The first film opens with Chanel's childhood in France and traces her journey from the orphanage at Aubazine to the cafés of Moulins, from her first hat shop at 21 Rue Cambon to the global fashion empire that bears her name. Each subsequent film focuses on a different chapter: Chanel's relationship with Boy Capel, the creation of Chanel No. 5, the invention of the Chanel suit, and the post-war comeback. Because the films are produced by the House of Chanel itself, they present Chanel in a celebratory light, but they are rich with primary-source material — actual photographs of the ateliers, original sketches, and vintage advertising — making them especially valuable for understanding what Chanel's world looked and felt like. The series is free to view on YouTube, making it one of the most accessible starting points for anyone who wants to see the history of Chanel rather than just read about it.",
-      "externalUrl": "https://www.youtube.com/watch?v=2G88zqPxJ00"
+      "sourceType": "website",
+      "summary": "Inside CHANEL is a series of free short documentary films from the House of Chanel, packed with rare archival photographs, original sketches, and vintage footage that bring her story to life. Each film focuses on a different chapter — from her childhood and her partnership with Boy Capel to the creation of Chanel No. 5 and the iconic suit — making it a vivid starting point for anyone who wants to see Chanel's history rather than just read about it.",
+      "externalUrl": "https://www.youtube.com/watch?v=2G88zqPxJ00",
+      "citationChicago": "Chanel. Inside CHANEL: The History of Chanel. Official film series. Paris: Chanel SAS, 2011. https://www.youtube.com/watch?v=2G88zqPxJ00."
     }
   ],
   "aspects": [
     {
-      "name": "Early Life and Orphanage",
+      "name": "A Humble Beginning",
+      "learnMoreImages": [
+        null,
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Ricard_Canals_-_Caf%C3%A8_concert_-_Google_Art_Project.jpg",
+          "caption": "Café-Concert (c. 1903) by Ricard Canals, Museu Nacional d'Art de Catalunya, Barcelona. This Belle Époque painting captures the lively café-concert scene where young Gabrielle Chanel sang popular songs and first earned the nickname 'Coco' from the audiences who called it out."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Aubazine_Abbey.JPG",
+          "caption": "The façade of Aubazine Abbey, a Cistercian monastery in Corrèze, France, where Gabrielle and her sisters were placed after their mother's death and father's disappearance. This is the orphanage where she spent her formative years under the strict care of nuns."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Panorama_of_Saumur.JPG",
+          "caption": "Saumur along the Loire River, France, photographed in 2011 (photo: Martin Falbisoner). Gabrielle Bonheur Chanel was born in this town on August 19, 1883, into a poor family — a humble beginning worlds away from the luxury and elegance she would one day come to define."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Aubazine_monastery.JPG",
+          "caption": "The residential wing of Aubazine Monastery, where the orphan girls lived and learned their daily tasks. It was here that the nuns taught Gabrielle to sew — the precise, disciplined skill that became the foundation of everything she later built as the world's most famous fashion designer."
+        }
+      ],
       "questions": [
         {
           "type": "multiple_choice",
@@ -106,10 +125,15 @@
         },
         {
           "type": "multiple_choice",
-          "prompt": "In which country was Coco Chanel born?",
-          "choices": ["England", "Italy", "France", "Spain"],
-          "correctAnswer": "France",
-          "explanation": "Coco Chanel was born on August 19, 1883, in Saumur, a small town in western France. She would spend most of her life in France, and Paris would become the center of her fashion empire."
+          "prompt": "How did Gabrielle get the nickname 'Coco'?",
+          "choices": [
+            "Her mother called her that as a baby",
+            "It came from songs she sang at cafés",
+            "It was her orphanage nickname",
+            "She made it up to sound more fashionable"
+          ],
+          "correctAnswer": "It came from songs she sang at cafés",
+          "explanation": "Gabrielle performed songs like 'Qui qu'a vu Coco dans l'Trocadéro' at café-concerts, and audiences began calling her 'Coco.' The nickname stuck for the rest of her life, even though her legal name was always Gabrielle."
         },
         {
           "type": "multiple_choice",
@@ -139,20 +163,27 @@
       ]
     },
     {
-      "name": "From Orphan to Café Singer",
-      "questions": [
+      "name": "Building a Fashion Empire",
+      "learnMoreImages": [
         {
-          "type": "multiple_choice",
-          "prompt": "How did Gabrielle get the nickname 'Coco'?",
-          "choices": [
-            "Her mother called her that as a baby",
-            "It came from songs she sang at cafés",
-            "It was her orphanage nickname",
-            "She made it up to sound more fashionable"
-          ],
-          "correctAnswer": "It came from songs she sang at cafés",
-          "explanation": "Gabrielle performed songs like 'Qui qu'a vu Coco dans l'Trocadéro' at café-concerts, and audiences began calling her 'Coco.' The nickname stuck for the rest of her life, even though her legal name was always Gabrielle."
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Sem_Chanel_Capel.jpg",
+          "caption": "1913 caricature by Georges Goursat (Sem) depicting Coco Chanel dancing with Arthur 'Boy' Capel at Tangoville-sur-Mer, Musée Carnavalet, Paris. Boy Capel was the great love of Chanel's early life — and the financial backer whose support made her very first hat shop on Rue Cambon possible."
         },
+        null,
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Toulouse-Lautrec_-_FEMME_METTANT_SON_CORSET%2C_1896%2C_MTL.190.jpg",
+          "caption": "'Femme Mettant Son Corset' (Woman Putting on Her Corset), painted by Henri de Toulouse-Lautrec in 1896, Musée Toulouse-Lautrec, Albi. This painting captures the cumbersome daily reality of the boned corsets fashionable women were expected to wear before Chanel's comfortable designs set them free."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Lady_corset_Vienna_1890.jpg",
+          "caption": "A boned corset from Vienna, c. 1890, Historical Museum Frankfurt. This museum piece represents the elaborate, tightly structured undergarments that had shaped women's bodies painfully for generations — exactly the kind of restrictive fashion that Chanel's clean, simple designs made obsolete."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e5/%D0%94%D0%BE%D0%B2%D0%B8%D0%BB%D1%8C_%D0%9F%D0%B5%D1%80%D0%B2%D1%8B%D0%B9_%D0%B1%D1%83%D1%82%D0%B8%D0%BA_%D0%9A%D0%BE%D0%BA%D0%BE_%D0%A8%D0%B0%D0%BD%D0%B5%D0%BB%D1%8C.jpg",
+          "caption": "Chanel's first boutique in Deauville, France, photographed in 2012. Opened in 1913 at this fashionable seaside resort, it was here that Chanel's central philosophy — that comfort and elegance could coexist — first won over wealthy women and launched her fashion empire."
+        }
+      ],
+      "questions": [
         {
           "type": "multiple_choice",
           "prompt": "Who funded Coco Chanel's first hat shop in Paris?",
@@ -160,31 +191,6 @@
           "correctAnswer": "Arthur 'Boy' Capel",
           "explanation": "Arthur 'Boy' Capel — a wealthy English polo player and the great love of Chanel's life — believed in her business ambitions and provided the funding for her first hat shop on Rue Cambon in Paris. Without his support, her fashion career might never have begun."
         },
-        {
-          "type": "multiple_choice",
-          "prompt": "In what year did Coco Chanel open her first shop in Paris?",
-          "choices": ["1900", "1905", "1910", "1915"],
-          "correctAnswer": "1910",
-          "explanation": "Chanel opened her first shop — a hat boutique at 21 Rue Cambon in Paris — in 1910. The address became one of the most famous in fashion history, and the Chanel flagship store remains there today."
-        },
-        {
-          "type": "true_false",
-          "prompt": "Coco Chanel became a famous professional singer before becoming a fashion designer.",
-          "correctAnswer": "false",
-          "explanation": "Chanel sang in small café-concerts to earn extra money, but she never became a professional or famous singer. The café years were important for building her social confidence and connections, but her real talent and ambition always pointed toward fashion."
-        },
-        {
-          "type": "short_answer",
-          "prompt": "What is the famous Paris street address where Chanel opened her first hat shop in 1910?",
-          "correctAnswer": "21 Rue Cambon",
-          "keywords": ["rue cambon", "cambon"],
-          "explanation": "21 Rue Cambon became one of the most iconic addresses in fashion history. Chanel opened her first hat boutique there in 1910, and the Chanel headquarters and flagship store are still located at that address today."
-        }
-      ]
-    },
-    {
-      "name": "Revolutionizing Women's Fashion",
-      "questions": [
         {
           "type": "multiple_choice",
           "prompt": "What fabric did Chanel introduce into women's high fashion that had previously been used for men's underwear?",
@@ -198,13 +204,6 @@
           "choices": ["Heavy boots", "Long gloves", "Boned corsets and heavy petticoats", "Wide-brimmed hats"],
           "correctAnswer": "Boned corsets and heavy petticoats",
           "explanation": "Before Chanel, fashionable women were expected to wear boned corsets that cinched the waist painfully tight, plus layers of heavy petticoats under their skirts. Chanel's loose, comfortable designs made these restrictive garments unnecessary."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "In which French seaside resort town did Chanel open her second boutique in 1913?",
-          "choices": ["Nice", "Cannes", "Deauville", "Biarritz"],
-          "correctAnswer": "Deauville",
-          "explanation": "Chanel opened her second boutique in Deauville, a fashionable seaside resort in Normandy, in 1913. The wealthy clientele who vacationed there became her first real customers for sportswear and casual clothing — a major step toward building her brand."
         },
         {
           "type": "true_false",
@@ -222,7 +221,18 @@
       ]
     },
     {
-      "name": "Chanel No. 5 Perfume",
+      "name": "Iconic Creations",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/CHANEL_No5_parfum.jpg",
+          "caption": "A bottle of Chanel No. 5 eau de parfum, photographed in 2006. Launched in 1921, Chanel No. 5 became one of the best-selling perfumes in the world and has held that status for over a hundred years — the enduring result of Chanel's decision to create something entirely unlike any fragrance that came before it."
+        },
+        null,
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/1924-1925_Ford_Model_T_T4_Tourer_%2812703173263%29.jpg",
+          "caption": "A 1924-1925 Ford Model T T4 Tourer — the very car Vogue magazine invoked when describing Chanel's Little Black Dress in 1926. Calling it 'the Chanel Ford,' Vogue meant that the dress was as perfectly useful and accessible as the Model T: a design so good that every woman should own one."
+        }
+      ],
       "questions": [
         {
           "type": "multiple_choice",
@@ -230,13 +240,6 @@
           "choices": ["1910", "1915", "1921", "1926"],
           "correctAnswer": "1921",
           "explanation": "Chanel No. 5 was created and launched in 1921. It was an immediate sensation and went on to become one of the best-selling perfumes in the world — a status it has maintained for over a hundred years."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "Who was the chemist Chanel hired to create Chanel No. 5?",
-          "choices": ["Louis Pasteur", "Ernest Beaux", "Pierre Curie", "Antoine Lavoisier"],
-          "correctAnswer": "Ernest Beaux",
-          "explanation": "Ernest Beaux was a Russian-born French perfumer and chemist who had worked for the Russian imperial family. Chanel commissioned him to create something entirely new — a perfume that did not smell like a single flower but like an abstract, modern idea."
         },
         {
           "type": "multiple_choice",
@@ -249,6 +252,13 @@
           ],
           "correctAnswer": "It was the fifth formula Ernest Beaux presented to Chanel",
           "explanation": "Ernest Beaux presented Chanel with a series of sample formulas numbered 1 through 10. Chanel chose the fifth sample — the one she felt was most original and beautiful — and simply kept that number as the perfume's name."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which famous magazine compared Chanel's Little Black Dress to the Ford automobile?",
+          "choices": ["Harper's Bazaar", "Elle", "Vogue", "Life"],
+          "correctAnswer": "Vogue",
+          "explanation": "Vogue magazine published Chanel's Little Black Dress design in 1926 and compared it to the Ford Model T — calling it 'the Chanel Ford.' The compliment was that, like the Model T, it was a perfectly designed, useful, accessible object that everyone should own."
         },
         {
           "type": "true_false",
@@ -266,46 +276,26 @@
       ]
     },
     {
-      "name": "The Little Black Dress",
-      "questions": [
+      "name": "War, Controversy & Comeback",
+      "learnMoreImages": [
         {
-          "type": "multiple_choice",
-          "prompt": "In what year did Chanel introduce the Little Black Dress?",
-          "choices": ["1915", "1921", "1926", "1932"],
-          "correctAnswer": "1926",
-          "explanation": "Chanel introduced the Little Black Dress in 1926, publishing it in Vogue magazine. The design was so simple and versatile that Vogue immediately declared it would become a universal fashion staple — a prediction that proved completely correct."
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/Nazi-parading-in-elysian-fields-paris-desert-1940.png",
+          "caption": "Nazi officers parading through a deserted Avenue Foch in Paris, 1940, from the U.S. Army documentary *Why We Fight: Divide and Conquer*. The German occupation of Paris that this scene represents is what prompted Chanel to close her fashion house and dismiss her seamstresses at the outbreak of World War II in 1939."
         },
         {
-          "type": "multiple_choice",
-          "prompt": "Before Chanel, what did wearing the color black primarily signal in society?",
-          "choices": ["Wealth and status", "Mourning and grief", "Working-class origins", "Rebellion against fashion"],
-          "correctAnswer": "Mourning and grief",
-          "explanation": "In the early 20th century, black clothing was strongly associated with mourning — worn to funerals and for extended grief periods after a loved one died. Chanel broke this association completely by creating a simple, elegant black dress that was meant to be worn anywhere, anytime."
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/16/Paris_Place_Vend%C3%B4me_Colonne_Vend%C3%B4me_02.jpg",
+          "caption": "The Vendôme Column at Place Vendôme, Paris, photographed in 2017. The Ritz Hotel — where Chanel moved during the occupation and where many high-ranking German officers also resided — is located on this famous square, making it one of the most controversial addresses of her wartime years."
         },
         {
-          "type": "multiple_choice",
-          "prompt": "Which famous magazine compared Chanel's Little Black Dress to the Ford automobile?",
-          "choices": ["Harper's Bazaar", "Elle", "Vogue", "Life"],
-          "correctAnswer": "Vogue",
-          "explanation": "Vogue magazine published Chanel's Little Black Dress design in 1926 and compared it to the Ford Model T — calling it 'the Chanel Ford.' The compliment was that, like the Model T, it was a perfectly designed, useful, affordable object that everyone should own."
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Suit_by_Coco_Chanel%2C_c._1955%2C_wool%2C_silk_-_Mus%C3%A9e_de_la_mode_-_Montreal%2C_Canada_-_DSC07028.jpg",
+          "caption": "A Coco Chanel wool and silk suit, c. 1955, Musée de la mode, Montreal. The collarless, boxy tweed jacket paired with a matching skirt — the iconic 'Chanel suit' — was the signature piece of her 1954 comeback collection, presented to the world when she was 70 years old."
         },
+        null,
         {
-          "type": "true_false",
-          "prompt": "The Little Black Dress was designed to be worn only by the very wealthy at exclusive evening events.",
-          "correctAnswer": "false",
-          "explanation": "The whole point of the Little Black Dress was the opposite: it was designed to be worn by any woman, anywhere — to dinner, work, a party, or a casual gathering. Its simplicity and versatility made elegance accessible, not exclusive."
-        },
-        {
-          "type": "short_answer",
-          "prompt": "What made the Little Black Dress revolutionary compared to women's fashion trends of the 1920s?",
-          "correctAnswer": "It was simple, versatile, and could be worn by any woman on any occasion",
-          "keywords": ["simple", "versatile", "any woman", "any occasion", "accessible", "elegant"],
-          "explanation": "The Little Black Dress was revolutionary because of what it removed rather than what it added: no elaborate beading, no complicated silhouette, no restrictive structure. A simple, knee-length black dress that any woman could wear anywhere — it democratized elegance."
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/Lake_Geneva_and_the_city_of_Lausanne.jpg",
+          "caption": "Lake Geneva and the city of Lausanne, Switzerland (photo: Ivfimo, Wiki Loves Earth 2015). After being questioned by French investigators about her wartime conduct, Chanel relocated to Lausanne, where she lived quietly for several years before making her dramatic return to Paris fashion in 1954."
         }
-      ]
-    },
-    {
-      "name": "World War II",
+      ],
       "questions": [
         {
           "type": "multiple_choice",
@@ -328,21 +318,16 @@
         },
         {
           "type": "multiple_choice",
-          "prompt": "What controversial personal relationship did Chanel have during World War II?",
-          "choices": [
-            "She married a French Resistance leader",
-            "She had a romantic relationship with a German officer",
-            "She became a spy for the British government",
-            "She secretly funded the French Resistance"
-          ],
-          "correctAnswer": "She had a romantic relationship with a German officer",
-          "explanation": "Chanel had a romantic relationship with Hans Günther von Dincklage, a German officer and intelligence operative stationed in Paris during the occupation. This relationship, along with other wartime activities, has made Chanel's conduct during World War II a subject of historical controversy."
+          "prompt": "How old was Coco Chanel when she made her famous fashion comeback?",
+          "choices": ["55", "63", "70", "78"],
+          "correctAnswer": "70",
+          "explanation": "Coco Chanel was 70 years old when she reopened her fashion house and presented a new collection in 1954 — making her comeback one of the most remarkable in fashion history. At an age when most people have long retired, she reinvented herself and the industry."
         },
         {
           "type": "true_false",
-          "prompt": "Coco Chanel was convicted of crimes after World War II for her wartime conduct.",
+          "prompt": "French fashion critics immediately celebrated Chanel's 1954 comeback collection as a triumph.",
           "correctAnswer": "false",
-          "explanation": "Chanel was questioned by French investigators after the war but was cleared of formal charges and not convicted of any crime. Some historians believe she benefited from connections in high places. She chose to leave France and live in Switzerland afterward, suggesting the wartime period cast a shadow over her reputation."
+          "explanation": "French fashion critics were largely harsh about Chanel's 1954 comeback collection, dismissing it as old-fashioned. But women in America and Britain reacted very differently — they loved it. American department stores placed large orders, and the collection became a commercial and cultural success despite the French press."
         },
         {
           "type": "short_answer",
@@ -354,51 +339,18 @@
       ]
     },
     {
-      "name": "The Comeback Collection",
-      "questions": [
+      "name": "A Lasting Legacy",
+      "learnMoreImages": [
         {
-          "type": "multiple_choice",
-          "prompt": "How old was Coco Chanel when she made her famous fashion comeback?",
-          "choices": ["55", "63", "70", "78"],
-          "correctAnswer": "70",
-          "explanation": "Coco Chanel was 70 years old when she reopened her fashion house and presented a new collection in 1954 — making her comeback one of the most remarkable in fashion history. At an age when most people have long retired, she reinvented herself and the industry."
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Karl_Lagerfeld_2014.jpg",
+          "caption": "Karl Lagerfeld at a fashion event, 2014 (photo: Christopher William Adach). Lagerfeld became creative director of Chanel in 1983, twelve years after Coco Chanel's death, and carried her legacy forward for over three decades — preserving her design principles while keeping the brand relevant to new generations until his own death in 2019."
         },
+        null,
         {
-          "type": "multiple_choice",
-          "prompt": "In what year did Chanel reopen her fashion house after the war?",
-          "choices": ["1948", "1950", "1954", "1960"],
-          "correctAnswer": "1954",
-          "explanation": "Chanel reopened her Paris fashion house on February 5, 1954, presenting her comeback collection. Her house had been closed for fifteen years since the outbreak of World War II in 1939."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "What became the signature piece of Chanel's 1954 comeback collection?",
-          "choices": [
-            "A floor-length evening gown",
-            "A collarless tweed jacket and matching skirt — the Chanel suit",
-            "A wide-brimmed straw hat",
-            "A jersey swimsuit"
-          ],
-          "correctAnswer": "A collarless tweed jacket and matching skirt — the Chanel suit",
-          "explanation": "The Chanel suit — a boxy, collarless tweed jacket worn with a matching skirt — became the centerpiece of the 1954 comeback collection and one of the most copied designs in fashion history. Practical, elegant, and timeless, it was immediately embraced by women around the world."
-        },
-        {
-          "type": "true_false",
-          "prompt": "French fashion critics immediately celebrated Chanel's 1954 comeback collection as a triumph.",
-          "correctAnswer": "false",
-          "explanation": "French fashion critics were largely harsh about Chanel's 1954 comeback collection, dismissing it as old-fashioned. But women in America and Britain reacted very differently — they loved it. American department stores placed large orders, and the collection became a commercial and cultural success despite the French press."
-        },
-        {
-          "type": "short_answer",
-          "prompt": "What iconic Chanel accessory, introduced in 1955, featured a quilted leather design and a chain strap?",
-          "correctAnswer": "The Chanel 2.55 handbag",
-          "keywords": ["handbag", "bag", "purse", "2.55", "quilted"],
-          "explanation": "In February 1955 — giving the bag its famous name — Chanel introduced the quilted leather handbag with a chain strap, now known as the Chanel 2.55. It freed women from clutching a handbag in their hands by letting them wear it over the shoulder, and it became one of the most iconic accessories in fashion history."
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Appartement_de_Coco_Chanel.JPG",
+          "caption": "Coco Chanel's former apartment at 31 Rue Cambon, Paris, the address that defined her entire career from 1910 onwards. Chanel worked until the very end of her life and was reportedly still planning her next collection when she died on January 10, 1971, aged 87, at the Ritz Hotel nearby."
         }
-      ]
-    },
-    {
-      "name": "Fashion Legacy",
+      ],
       "questions": [
         {
           "type": "multiple_choice",
@@ -434,10 +386,10 @@
         },
         {
           "type": "short_answer",
-          "prompt": "Name one specific Chanel innovation — besides Chanel No. 5 — that is still widely worn or used by women today.",
-          "correctAnswer": "The Little Black Dress, the Chanel suit, jersey fabric clothing, or the quilted handbag",
-          "keywords": ["little black dress", "chanel suit", "jersey", "handbag", "quilted", "chain strap"],
-          "explanation": "Chanel's innovations are remarkable for how permanent they proved to be. The Little Black Dress, the Chanel suit, jersey sportswear, and the quilted chain-strap handbag are all still worn today, more than a century after she first introduced them. Very few designers can claim even one invention with that kind of longevity."
+          "prompt": "What iconic Chanel accessory, introduced in 1955, featured a quilted leather design and a chain strap?",
+          "correctAnswer": "The Chanel 2.55 handbag",
+          "keywords": ["handbag", "bag", "purse", "2.55", "quilted"],
+          "explanation": "In February 1955 — giving the bag its famous name — Chanel introduced the quilted leather handbag with a chain strap, now known as the Chanel 2.55. It freed women from clutching a handbag in their hands by letting them wear it over the shoulder, and it became one of the most iconic accessories in fashion history."
         }
       ]
     }

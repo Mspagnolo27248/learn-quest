@@ -1,15 +1,73 @@
-const CHAPTER_THEMES = [
-  { dot: 'bg-amber-400',   cardBg: 'bg-amber-50',   border: 'border-amber-200 border-l-4 border-l-amber-400',   hover: 'hover:border-amber-300',   text: 'text-amber-700',   emoji: '🌾' },
-  { dot: 'bg-violet-500',  cardBg: 'bg-violet-50',  border: 'border-violet-200 border-l-4 border-l-violet-500', hover: 'hover:border-violet-300',  text: 'text-violet-700',  emoji: '✏️' },
-  { dot: 'bg-red-400',     cardBg: 'bg-red-50',     border: 'border-red-200 border-l-4 border-l-red-400',       hover: 'hover:border-red-300',     text: 'text-red-700',     emoji: '🐭' },
-  { dot: 'bg-pink-400',    cardBg: 'bg-pink-50',    border: 'border-pink-200 border-l-4 border-l-pink-400',     hover: 'hover:border-pink-300',    text: 'text-pink-700',    emoji: '🍎' },
-  { dot: 'bg-emerald-500', cardBg: 'bg-emerald-50', border: 'border-emerald-200 border-l-4 border-l-emerald-500', hover: 'hover:border-emerald-300', text: 'text-emerald-700', emoji: '⭐' },
-  { dot: 'bg-sky-500',     cardBg: 'bg-sky-50',     border: 'border-sky-200 border-l-4 border-l-sky-500',       hover: 'hover:border-sky-300',     text: 'text-sky-700',     emoji: '🎡' },
-  { dot: 'bg-yellow-400',  cardBg: 'bg-yellow-50',  border: 'border-yellow-200 border-l-4 border-l-yellow-400', hover: 'hover:border-yellow-300',  text: 'text-yellow-700',  emoji: '🏆' },
-  { dot: 'bg-indigo-500',  cardBg: 'bg-indigo-50',  border: 'border-indigo-200 border-l-4 border-l-indigo-500', hover: 'hover:border-indigo-300',  text: 'text-indigo-700',  emoji: '🌟' },
-]
+const TOPIC_THEMES = {
+  'walt-disney': {
+    gradient: 'linear-gradient(to bottom, #fbbf24, #8b5cf6, #ef4444, #f472b6, #10b981, #0ea5e9, #facc15, #6366f1)',
+    chapters: [
+      { dot: 'bg-amber-400',   cardBg: 'bg-amber-50',   border: 'border-amber-200 border-l-4 border-l-amber-400',     hover: 'hover:border-amber-300',   text: 'text-amber-700',   emoji: '🌾' },
+      { dot: 'bg-violet-500',  cardBg: 'bg-violet-50',  border: 'border-violet-200 border-l-4 border-l-violet-500',   hover: 'hover:border-violet-300',  text: 'text-violet-700',  emoji: '✏️' },
+      { dot: 'bg-red-400',     cardBg: 'bg-red-50',     border: 'border-red-200 border-l-4 border-l-red-400',         hover: 'hover:border-red-300',     text: 'text-red-700',     emoji: '🐭' },
+      { dot: 'bg-pink-400',    cardBg: 'bg-pink-50',    border: 'border-pink-200 border-l-4 border-l-pink-400',       hover: 'hover:border-pink-300',    text: 'text-pink-700',    emoji: '🍎' },
+      { dot: 'bg-emerald-500', cardBg: 'bg-emerald-50', border: 'border-emerald-200 border-l-4 border-l-emerald-500', hover: 'hover:border-emerald-300', text: 'text-emerald-700', emoji: '⭐' },
+      { dot: 'bg-sky-500',     cardBg: 'bg-sky-50',     border: 'border-sky-200 border-l-4 border-l-sky-500',         hover: 'hover:border-sky-300',     text: 'text-sky-700',     emoji: '🎡' },
+      { dot: 'bg-yellow-400',  cardBg: 'bg-yellow-50',  border: 'border-yellow-200 border-l-4 border-l-yellow-400',   hover: 'hover:border-yellow-300',  text: 'text-yellow-700',  emoji: '🏆' },
+      { dot: 'bg-indigo-500',  cardBg: 'bg-indigo-50',  border: 'border-indigo-200 border-l-4 border-l-indigo-500',   hover: 'hover:border-indigo-300',  text: 'text-indigo-700',  emoji: '🌟' },
+    ],
+  },
+  'coco-chanel': {
+    gradient: 'linear-gradient(to bottom, #fb7185, #fbbf24, #f472b6, #64748b, #8b5cf6)',
+    chapters: [
+      { dot: 'bg-rose-400',    cardBg: 'bg-rose-50',    border: 'border-rose-200 border-l-4 border-l-rose-400',       hover: 'hover:border-rose-300',    text: 'text-rose-700',    emoji: '🧵' },
+      { dot: 'bg-amber-400',   cardBg: 'bg-amber-50',   border: 'border-amber-200 border-l-4 border-l-amber-400',     hover: 'hover:border-amber-300',   text: 'text-amber-700',   emoji: '✂️' },
+      { dot: 'bg-pink-500',    cardBg: 'bg-pink-50',    border: 'border-pink-200 border-l-4 border-l-pink-500',       hover: 'hover:border-pink-300',    text: 'text-pink-700',    emoji: '💄' },
+      { dot: 'bg-slate-500',   cardBg: 'bg-slate-50',   border: 'border-slate-200 border-l-4 border-l-slate-500',     hover: 'hover:border-slate-300',   text: 'text-slate-700',   emoji: '🌹' },
+      { dot: 'bg-violet-500',  cardBg: 'bg-violet-50',  border: 'border-violet-200 border-l-4 border-l-violet-500',   hover: 'hover:border-violet-300',  text: 'text-violet-700',  emoji: '👗' },
+    ],
+  },
+  'marie-curie': {
+    gradient: 'linear-gradient(to bottom, #38bdf8, #34d399, #818cf8, #f59e0b, #6366f1)',
+    chapters: [
+      { dot: 'bg-sky-400',     cardBg: 'bg-sky-50',     border: 'border-sky-200 border-l-4 border-l-sky-400',         hover: 'hover:border-sky-300',     text: 'text-sky-700',     emoji: '⚗️' },
+      { dot: 'bg-emerald-500', cardBg: 'bg-emerald-50', border: 'border-emerald-200 border-l-4 border-l-emerald-500', hover: 'hover:border-emerald-300', text: 'text-emerald-700', emoji: '🔬' },
+      { dot: 'bg-indigo-400',  cardBg: 'bg-indigo-50',  border: 'border-indigo-200 border-l-4 border-l-indigo-400',   hover: 'hover:border-indigo-300',  text: 'text-indigo-700',  emoji: '✨' },
+      { dot: 'bg-amber-500',   cardBg: 'bg-amber-50',   border: 'border-amber-200 border-l-4 border-l-amber-500',     hover: 'hover:border-amber-300',   text: 'text-amber-700',   emoji: '🏆' },
+      { dot: 'bg-violet-500',  cardBg: 'bg-violet-50',  border: 'border-violet-200 border-l-4 border-l-violet-500',   hover: 'hover:border-violet-300',  text: 'text-violet-700',  emoji: '🌍' },
+    ],
+  },
+  'american-revolution': {
+    gradient: 'linear-gradient(to bottom, #1d4ed8, #b45309, #dc2626, #92400e, #1e40af)',
+    chapters: [
+      { dot: 'bg-blue-700',    cardBg: 'bg-blue-50',    border: 'border-blue-200 border-l-4 border-l-blue-700',       hover: 'hover:border-blue-300',    text: 'text-blue-800',    emoji: '🦅' },
+      { dot: 'bg-amber-700',   cardBg: 'bg-amber-50',   border: 'border-amber-200 border-l-4 border-l-amber-700',     hover: 'hover:border-amber-300',   text: 'text-amber-800',   emoji: '⚔️' },
+      { dot: 'bg-red-600',     cardBg: 'bg-red-50',     border: 'border-red-200 border-l-4 border-l-red-600',         hover: 'hover:border-red-300',     text: 'text-red-700',     emoji: '📜' },
+      { dot: 'bg-yellow-700',  cardBg: 'bg-yellow-50',  border: 'border-yellow-200 border-l-4 border-l-yellow-700',   hover: 'hover:border-yellow-300',  text: 'text-yellow-800',  emoji: '🕯️' },
+      { dot: 'bg-indigo-700',  cardBg: 'bg-indigo-50',  border: 'border-indigo-200 border-l-4 border-l-indigo-700',   hover: 'hover:border-indigo-300',  text: 'text-indigo-800',  emoji: '🗽' },
+    ],
+  },
+  'solar-system': {
+    gradient: 'linear-gradient(to bottom, #f59e0b, #7c3aed, #0ea5e9, #10b981, #f43f5e)',
+    chapters: [
+      { dot: 'bg-amber-400',   cardBg: 'bg-amber-50',   border: 'border-amber-200 border-l-4 border-l-amber-400',     hover: 'hover:border-amber-300',   text: 'text-amber-700',   emoji: '☀️' },
+      { dot: 'bg-violet-600',  cardBg: 'bg-violet-50',  border: 'border-violet-200 border-l-4 border-l-violet-600',   hover: 'hover:border-violet-300',  text: 'text-violet-700',  emoji: '🪐' },
+      { dot: 'bg-sky-500',     cardBg: 'bg-sky-50',     border: 'border-sky-200 border-l-4 border-l-sky-500',         hover: 'hover:border-sky-300',     text: 'text-sky-700',     emoji: '🌌' },
+      { dot: 'bg-emerald-500', cardBg: 'bg-emerald-50', border: 'border-emerald-200 border-l-4 border-l-emerald-500', hover: 'hover:border-emerald-300', text: 'text-emerald-700', emoji: '🚀' },
+      { dot: 'bg-rose-500',    cardBg: 'bg-rose-50',    border: 'border-rose-200 border-l-4 border-l-rose-500',       hover: 'hover:border-rose-300',    text: 'text-rose-700',    emoji: '🌠' },
+    ],
+  },
+}
 
-export default function LearnMoreGrid({ aspects, onSelect }) {
+const DEFAULT_THEMES = {
+  gradient: 'linear-gradient(to bottom, #fbbf24, #8b5cf6, #ef4444, #f472b6, #10b981)',
+  chapters: [
+    { dot: 'bg-amber-400',   cardBg: 'bg-amber-50',   border: 'border-amber-200 border-l-4 border-l-amber-400',     hover: 'hover:border-amber-300',   text: 'text-amber-700',   emoji: '⭐' },
+    { dot: 'bg-violet-500',  cardBg: 'bg-violet-50',  border: 'border-violet-200 border-l-4 border-l-violet-500',   hover: 'hover:border-violet-300',  text: 'text-violet-700',  emoji: '✨' },
+    { dot: 'bg-red-400',     cardBg: 'bg-red-50',     border: 'border-red-200 border-l-4 border-l-red-400',         hover: 'hover:border-red-300',     text: 'text-red-700',     emoji: '🌟' },
+    { dot: 'bg-pink-400',    cardBg: 'bg-pink-50',    border: 'border-pink-200 border-l-4 border-l-pink-400',       hover: 'hover:border-pink-300',    text: 'text-pink-700',    emoji: '💫' },
+    { dot: 'bg-emerald-500', cardBg: 'bg-emerald-50', border: 'border-emerald-200 border-l-4 border-l-emerald-500', hover: 'hover:border-emerald-300', text: 'text-emerald-700', emoji: '🔥' },
+  ],
+}
+
+export default function LearnMoreGrid({ aspects, topicId, onSelect }) {
+  const topicThemes = TOPIC_THEMES[topicId] || DEFAULT_THEMES
+
   return (
     <div>
       <h2 className="text-xl font-semibold text-navy mb-1">Explore &amp; Discover</h2>
@@ -20,12 +78,12 @@ export default function LearnMoreGrid({ aspects, onSelect }) {
       <div className="relative pl-14">
         <div
           className="absolute left-5 top-4 bottom-4 w-1 rounded-full"
-          style={{ background: 'linear-gradient(to bottom, #fbbf24, #8b5cf6, #ef4444, #f472b6, #10b981, #0ea5e9, #facc15, #6366f1)' }}
+          style={{ background: topicThemes.gradient }}
         />
 
         <div className="space-y-3">
           {aspects.map((aspect, index) => {
-            const theme = CHAPTER_THEMES[index % CHAPTER_THEMES.length]
+            const theme = topicThemes.chapters[index % topicThemes.chapters.length]
             return (
               <button
                 key={index}

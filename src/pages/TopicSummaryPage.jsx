@@ -45,6 +45,7 @@ export default function TopicSummaryPage() {
         {section === 'learn' && learnAspect === null && (
           <LearnMoreGrid
             aspects={topic.aspects}
+            topicId={topic.id}
             onSelect={setLearnAspect}
           />
         )}
