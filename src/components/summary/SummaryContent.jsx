@@ -1,6 +1,35 @@
+import useSpeech from '../../hooks/useSpeech'
+import ReadAloudBar from './ReadAloudBar'
+
+function buildSummaryText(summary) {
+  const parts = [summary.intro]
+  for (const section of summary.sections) {
+    parts.push(section.title + '. ' + section.body)
+  }
+  if (summary.keyFacts?.length > 0) {
+    parts.push('Key Facts.')
+    parts.push(...summary.keyFacts)
+  }
+  return parts.join(' ')
+}
+
 export default function SummaryContent({ summary }) {
+  const { speak, pause, resume, stop, status, voices, selectedVoiceName, selectVoice } = useSpeech()
+  const fullText = buildSummaryText(summary)
+
   return (
     <article className="prose prose-slate max-w-none">
+      <ReadAloudBar
+        status={status}
+        onPlay={() => speak(fullText)}
+        onPause={pause}
+        onResume={resume}
+        onStop={stop}
+        voices={voices}
+        selectedVoiceName={selectedVoiceName}
+        onVoiceChange={selectVoice}
+      />
+
       <p className="text-base sm:text-lg text-gray-700 leading-relaxed mb-6 font-medium">
         {summary.intro}
       </p>
