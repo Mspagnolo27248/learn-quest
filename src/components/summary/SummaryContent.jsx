@@ -14,7 +14,7 @@ function buildSummaryText(summary) {
 }
 
 export default function SummaryContent({ summary }) {
-  const { speak, pause, resume, stop, status, voices, selectedVoiceName, selectVoice } = useSpeech()
+  const { speak, pause, resume, stop, status, selectedKey, selectVoice } = useSpeech()
   const fullText = buildSummaryText(summary)
 
   return (
@@ -25,8 +25,7 @@ export default function SummaryContent({ summary }) {
         onPause={pause}
         onResume={resume}
         onStop={stop}
-        voices={voices}
-        selectedVoiceName={selectedVoiceName}
+        selectedKey={selectedKey}
         onVoiceChange={selectVoice}
       />
 

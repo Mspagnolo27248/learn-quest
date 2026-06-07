@@ -12,7 +12,7 @@ export default function HeroHeader({ topic }) {
       <img
         src={topic.heroImage}
         alt={topic.title}
-        className="w-full h-full object-cover opacity-60"
+        className="w-full h-full object-contain opacity-60"
       />
       <div className="absolute inset-0 bg-gradient-to-t from-navy/80 to-transparent" />
       <div className="absolute bottom-0 left-0 right-0 p-5 sm:p-8">
