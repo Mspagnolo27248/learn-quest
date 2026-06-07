@@ -2,477 +2,421 @@
   "id": "marie-curie",
   "title": "Marie Curie",
   "category": "Famous People & Biographies",
-  "thumbnail": "https://images.unsplash.com/photo-1507413245164-6160d8298b31?auto=format&fit=crop&w=600&q=80",
-  "heroImage": "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?auto=format&fit=crop&w=1400&q=80",
-  "teaser": "Meet the scientist who discovered two elements, won two Nobel Prizes, and broke barriers for women in science — all against enormous odds.",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/6/61/Marie-Curie-Nobel-portrait-600.jpg",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/1/11/Marie_Curie_in_her_Paris_Laboratory%2C_1912.jpg",
+  "teaser": "Meet the scientist from Poland who moved to Paris with almost nothing, discovered two new elements, coined the word 'radioactivity,' and became the first person in history to win Nobel Prizes in two different sciences.",
   "summary": {
-    "intro": "Marie Curie (1867–1934) was one of the greatest scientists who ever lived. Born Maria Sklodowska in Warsaw, Poland, she overcame poverty, gender discrimination, and personal tragedy to become the first woman to win a Nobel Prize — and the only person ever to win Nobel Prizes in two different sciences.",
+    "intro": "Marie Curie (1867–1934) was a physicist and chemist from Warsaw, Poland, who became one of the greatest scientists who ever lived. At a time when women were not allowed to attend university in her homeland, she secretly studied, then moved to Paris to earn degrees in both physics and mathematics. In a leaky shed, working beside her husband Pierre, she discovered two new chemical elements and changed how the world understood atoms. She was the first woman to win a Nobel Prize — and then she went even further, winning a second Nobel Prize in an entirely different science. No one has ever matched that achievement.",
     "sections": [
       {
-        "title": "A Determined Young Woman",
-        "body": "Marie was born in Poland in 1867, when the country was under Russian rule. Women were not allowed to attend the university in Warsaw, so Marie and her sister secretly attended an underground school called the 'Flying University.' At age 24, Marie moved to Paris, France, to study at the famous Sorbonne university. She lived in a tiny, freezing apartment and sometimes went without food to pay for books, but she graduated at the top of her class in physics. She later earned a second degree in mathematics — a remarkable achievement for anyone, let alone a woman in the 1890s."
+        "title": "A Girl Who Loved to Learn",
+        "body": "Marie Curie was born Maria Sklodowska on November 7, 1867, in Warsaw, Poland — a country then controlled by Russia. Her father was a physics and mathematics teacher who let her use his scientific instruments at home, sparking a lifelong love of science. Tragedy came early: her mother died of tuberculosis when Maria was just ten years old. Under Russian rule, girls were forbidden from attending university, so Maria secretly attended the 'Flying University' — an underground school that moved from home to home to avoid being shut down by Russian authorities. Determined to get a real education, she and her sister Bronya made a daring pact: Maria would work as a governess for years, sending money to Paris so Bronya could study medicine. Once Bronya became a doctor, she would support Maria's own studies. It was a plan that required extraordinary patience and sacrifice — but Maria kept her word, and Bronya kept hers."
       },
       {
-        "title": "The Discovery That Changed Science",
-        "body": "At the Sorbonne, Marie met Pierre Curie, a brilliant physicist. They fell in love, married, and became one of history's greatest scientific partnerships. Marie became fascinated by uranium rays — mysterious energy given off by uranium that Henri Becquerel had discovered in 1896. Working in a leaky, damp shed that served as their laboratory, Marie and Pierre made a stunning discovery: some materials emit energy from within their very atoms. Marie called this property 'radioactivity' — a word she invented. They went on to discover two new elements: polonium (named after Marie's homeland, Poland) and radium, a glowing substance so energetic it could be felt as heat."
+        "title": "From Warsaw to Paris",
+        "body": "In 1891, at the age of 23, Maria finally boarded a train for Paris to begin the education she had waited so long for. She enrolled at the Sorbonne — the University of Paris — and threw herself into her studies, living in a tiny, freezing attic apartment and sometimes surviving on little more than bread and chocolate. In 1893, she earned her degree in physical sciences, becoming the first woman ever to earn a physics degree from the Sorbonne. She followed it with a mathematics degree in 1894, finishing at the top of her class. That same year, a mutual friend introduced her to a French physicist named Pierre Curie, who had already made important discoveries in magnetism. Their shared passion for science quickly grew into something more. They married on July 26, 1895, and from that day on they were partners in both life and laboratory — a team that would change the world."
       },
       {
-        "title": "Two Nobel Prizes and a Life of Service",
-        "body": "In 1903, Marie and Pierre shared the Nobel Prize in Physics with Henri Becquerel for their work on radioactivity — making Marie the first woman ever to receive a Nobel Prize. After Pierre was tragically killed in a street accident in 1906, Marie continued their research alone. In 1911, she won a second Nobel Prize, this time in Chemistry, for discovering polonium and radium. During World War I, Marie developed mobile X-ray units — vehicles nicknamed 'Little Curies' — that brought X-ray technology to battlefield hospitals. These units helped doctors locate bullets and broken bones in over a million wounded soldiers."
+        "title": "Discovering Radioactivity",
+        "body": "In 1896, a French scientist named Henri Becquerel discovered that uranium gave off mysterious invisible rays. Marie decided to study the phenomenon for her doctoral research — a subject almost no one else was interested in. She invented instruments to measure the rays precisely, and she coined a brand-new word for what she observed: 'radioactivity.' As she dug deeper, she realized that pitchblende — a heavy black uranium ore — gave off even more radiation than pure uranium alone. Something unknown was hiding inside it. Pierre set aside his own research to join her, and together they built a makeshift laboratory in a leaky shed. They processed ton after ton of pitchblende, boiling it, filtering it, and refining it with their bare hands. In July 1898, they announced the discovery of polonium — named after Marie's beloved homeland. In December 1898, they announced a second discovery: radium. Two new elements, found through four years of almost unimaginable effort."
       },
       {
-        "title": "Legacy",
-        "body": "Marie Curie died in 1934 from aplastic anemia, almost certainly caused by decades of radiation exposure — the health dangers of radioactivity were not yet understood in her time. Her discoveries laid the foundation for nuclear physics and led directly to radiation therapy for cancer, which saves millions of lives today. An element was named Curium in her honor. She founded the Curie Institute in Paris, which remains one of the world's leading cancer research centers. Marie Curie proved that with determination and brilliance, the most stubborn doors of history could be opened."
+        "title": "Two Nobel Prizes",
+        "body": "In 1903, the Nobel Committee awarded the Nobel Prize in Physics to Henri Becquerel, Pierre Curie, and Marie Curie for their work on radioactivity — making Marie the first woman in history to win a Nobel Prize. Then, on April 19, 1906, tragedy struck. Pierre was crossing a Paris street when he slipped and was killed by a horse-drawn wagon. Marie was devastated. But rather than give up, she took over Pierre's professorship at the Sorbonne, becoming the first woman ever to hold a professorship there. She continued their research alone, finding ways to isolate pure radium and measure it precisely. In 1911, the Nobel Committee awarded her a second prize — the Nobel Prize in Chemistry — for the discovery of polonium and radium. Marie Curie became the first and only person in history to win Nobel Prizes in two different sciences. She accepted the prize alone, still grieving, still working."
+      },
+      {
+        "title": "A Legacy That Changed the World",
+        "body": "Marie Curie never stopped working, even as the radiation she handled daily was slowly damaging her body. When World War I broke out in 1914, she fitted vehicles with X-ray equipment and drove them to battlefield hospitals herself — earning the nickname 'petites Curies' for her mobile X-ray units. She trained over 150 women as X-ray technicians and helped treat more than a million wounded soldiers. She founded the Curie Institute in Paris (1920) and in Warsaw (1932), both of which still research cancer treatments today. Her daughter Irène Joliot-Curie followed in her footsteps and won the Nobel Prize in Chemistry in 1935. Marie herself died on July 4, 1934, from aplastic anemia caused by decades of radiation exposure. In 1995, France honored her by moving her remains to the Panthéon — the great monument that holds France's most extraordinary citizens — making her the first woman enshrined there on her own merits."
       }
     ],
     "keyFacts": [
-      "Marie Curie is the only person to win Nobel Prizes in two different sciences (Physics and Chemistry).",
-      "She invented the word 'radioactivity.'",
-      "She discovered two elements: polonium (1898) and radium (1898).",
-      "Her notebooks are still radioactive today and must be handled with protective gear.",
-      "The element Curium (Cm, atomic number 96) is named in honor of Marie and Pierre Curie."
+      "Marie Curie was the first woman to win a Nobel Prize, and the only person ever to win Nobel Prizes in two different sciences.",
+      "She coined the word 'radioactivity' and discovered two new elements: polonium (named after Poland) and radium, both in 1898.",
+      "Marie and Pierre worked in a leaky shed — often called 'a cross between a stable and a potato cellar' — to isolate their discoveries.",
+      "During World War I, Marie built mobile X-ray units and drove them to the front lines herself, helping treat over a million wounded soldiers.",
+      "Her laboratory notebooks are still so radioactive today that researchers must wear protective gear and sign a safety waiver just to read them."
     ]
   },
   "videos": [
     {
-      "youtubeId": "l4TYtmHj5FI",
-      "title": "Marie Curie in 3 Minutes | Just The Basics",
-      "description": "A quick, clear overview of Marie Curie's life and her most important scientific discoveries — perfect for a fast introduction.",
-      "durationSeconds": 180,
-      "verified": true
-    },
-    {
-      "youtubeId": "vNeMO1tqYQo",
-      "title": "Marie Curie | Educational Bios for Kids — Happy Learning",
-      "description": "Happy Learning's kid-friendly biography covers Marie's childhood, her Nobel Prizes, and why she is still celebrated today.",
-      "durationSeconds": 270,
+      "youtubeId": "aowghaUvP6Q",
+      "title": "Biography of Marie Curie for Kids: Famous Scientists for Children - FreeSchool",
+      "description": "FreeSchool's narrated biography covers Marie Curie's life from her childhood in Poland through her discovery of radioactivity and her two Nobel Prizes — a thorough, calm introduction well-suited as a first overview of the topic.",
+      "durationSeconds": 300,
       "verified": false
     },
     {
-      "youtubeId": "XQ0ZIrP5-NY",
-      "title": "Marie Curie: A Brief History (School Friendly)",
-      "description": "An engaging, school-appropriate look at Marie Curie's life, challenges, and the impact of her groundbreaking scientific work.",
+      "youtubeId": "bzai2j6JB3A",
+      "title": "MARIE CURIE | The Woman Who Saved HUNDREDS OF LIVES | Educational Videos | Happy Learning",
+      "description": "Happy Learning's animated video focuses on how Marie Curie's discoveries — especially portable X-ray units in World War I — saved countless lives, making it a great companion to the Legacy chapter.",
+      "durationSeconds": 210,
+      "verified": false
+    },
+    {
+      "youtubeId": "yqY-R3CBLYs",
+      "title": "Who Was Marie Curie? - Facts for Kids",
+      "description": "A concise facts-for-kids overview of Marie Curie's most important achievements — her discoveries, her Nobel Prizes, and why she remains an inspiration for young scientists today.",
       "durationSeconds": 240,
       "verified": false
     }
   ],
   "readings": [
     {
-      "title": "Madame Curie: A Biography",
-      "author": "Ève Curie",
-      "year": 1937,
+      "title": "I Am Marie Curie",
+      "author": "Brad Meltzer",
+      "year": 2020,
       "sourceType": "book",
-      "citationChicago": "Curie, Ève. 1937. Madame Curie: A Biography. Translated by Vincent Sheean. New York: Doubleday.",
-      "summary": "Madame Curie: A Biography was written by Marie Curie's younger daughter, Ève. It is one of the most intimate and detailed accounts of Marie's life ever written, because Ève could draw on family memories, personal letters, and her own childhood growing up with a famous mother. Ève describes Marie's childhood in Warsaw, Poland, where women were not allowed to attend university. She writes about the hardship Marie faced when she first moved to Paris — living in a tiny, unheated apartment, sometimes so cold she couldn't sleep. Ève captures the electric excitement when Marie and Pierre discovered polonium and radium, working day and night in their cramped laboratory shed. She also describes the terrible grief Marie felt when Pierre was killed in a street accident in 1906, and how Marie channeled her sorrow into even harder scientific work. The biography paints a picture of a woman of extraordinary willpower, modesty, and devotion to science — someone who could have made a fortune from her discoveries but chose to share her research freely with the world. Published in 1937, it became an international bestseller and introduced Marie Curie to millions of readers. It remains one of the most beloved scientific biographies ever written.",
-      "externalUrl": "https://www.amazon.com/Madame-Curie-Biography-Eve/dp/0306810387"
+      "citationChicago": "Meltzer, Brad. 2020. I Am Marie Curie. Illustrated by Christopher Eliopoulos. New York: Dial Books for Young Readers.",
+      "summary": "Part of Brad Meltzer's beloved Ordinary People Change the World series, this picture book tells Marie Curie's story in a warm, conversational style — as if Marie herself is speaking directly to the reader. Meltzer focuses on the qualities that made her extraordinary: her refusal to give up when doors were slammed in her face, her insatiable curiosity, and her belief that science belonged to everyone regardless of gender. The book follows her from a girl secretly studying in Warsaw through her Nobel Prize victories, with illustrator Christopher Eliopoulos bringing the story to life in a colorful comic-book style. It ends with the reminder that Marie's greatest discovery was the courage to keep asking questions no matter what anyone told her.",
+      "externalUrl": "https://www.amazon.com/Am-Marie-Curie-Ordinary-People/dp/0735228523"
     },
     {
-      "title": "Nobel Prize Lecture: Radium and the New Concepts in Chemistry",
-      "author": "Marie Curie",
-      "year": 1911,
-      "sourceType": "speech",
-      "citationChicago": "Curie, Marie. 1911. \"Nobel Prize Lecture: Radium and the New Concepts in Chemistry.\" Nobel Foundation. https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/lecture/.",
-      "summary": "When Marie Curie won her second Nobel Prize in Chemistry in 1911, she gave a lecture in Stockholm, Sweden, explaining her research in her own words. This speech gives us a rare glimpse into how Marie thought about science and her discoveries. She describes how she first became fascinated by uranium rays and decided to investigate whether other elements might share this mysterious ability to emit energy. She explains the painstaking work she and Pierre did to isolate radium — processing tons of pitchblende ore over years of labor to extract tiny amounts of the new element. Marie also describes her belief that radioactivity was a property of the atom itself, not a chemical reaction between atoms — an idea that was revolutionary in 1898 and helped launch the field of atomic physics. The lecture is written in precise scientific language, but you can still sense Marie's deep passion for discovery and her belief that understanding nature is one of humanity's highest goals. Reading her own words, rather than descriptions of her work, helps us understand the real person behind the legend — a careful, methodical thinker who changed science forever.",
-      "externalUrl": "https://www.nobelprize.org/prizes/chemistry/1911/marie-curie/lecture/"
+      "title": "Who Was Marie Curie?",
+      "author": "Megan Stine",
+      "year": 2014,
+      "sourceType": "book",
+      "citationChicago": "Stine, Megan. 2014. Who Was Marie Curie? Illustrated by Marta Antelo. New York: Grosset & Dunlap.",
+      "summary": "Part of the hugely popular Who Was? chapter-book series, this biography is written for readers aged 8–12 and tells Marie Curie's full story in accessible, engaging prose. Megan Stine covers Marie's difficult childhood in Russian-controlled Poland, her years of self-sacrifice to study in Paris, her groundbreaking research with Pierre, and both Nobel Prize wins. The book uses black-and-white illustrations and a friendly tone to make science history feel like an adventure story. It also places Marie's work in historical context — explaining why it was so astonishing for a woman to achieve what she achieved in the 1890s and 1900s — without ever becoming preachy or dry. A perfect step-up read for any child who has finished the picture books and wants to go deeper.",
+      "externalUrl": "https://www.amazon.com/Who-Was-Marie-Curie/dp/044845907X"
     },
     {
-      "title": "Radioactive: Marie & Pierre Curie: A Tale of Love and Fallout",
-      "author": "Lauren Redniss",
-      "year": 2010,
-      "sourceType": "book",
-      "citationChicago": "Redniss, Lauren. 2010. Radioactive: Marie & Pierre Curie: A Tale of Love and Fallout. New York: It Books.",
-      "summary": "Radioactive is a unique and beautiful book that tells the story of Marie and Pierre Curie through stunning artwork and lyrical writing. Author and illustrator Lauren Redniss researched the Curies' letters, notebooks, and scientific papers to create an account that is part biography, part science history, and part work of art. The book was printed using a special process to make it glow faintly in the dark — a brilliant tribute to Marie's glowing radium. Redniss covers Marie's life from her childhood in Poland through her groundbreaking discoveries and her later years. But she also traces the longer story of how radioactivity has shaped the world — from X-rays saving lives in hospitals to the atomic bomb changing the nature of warfare. This dual perspective helps readers understand that Marie Curie's discoveries were not just about two elements or two Nobel Prizes — they opened a door into the structure of matter itself, with consequences both wonderful and terrible that we still live with today. The book was named a finalist for the National Book Award and adapted into a major film. It is a wonderful reminder that science is not just facts and equations — it is a human story full of passion, sacrifice, and wonder.",
-      "externalUrl": "https://www.amazon.com/Radioactive-Marie-Pierre-Curie-Fallout/dp/0062100491"
+      "title": "Marie Curie — Biographical (Nobel Prize Official Page)",
+      "author": "Nobel Prize Outreach",
+      "year": 1903,
+      "sourceType": "website",
+      "citationChicago": "Nobel Prize Outreach. \"Marie Curie — Biographical.\" NobelPrize.org. https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/.",
+      "summary": "The official Nobel Prize website's biographical page on Marie Curie is one of the most authoritative and accessible primary-source references available online. Written at a level older children and parents can read together, it covers her early life in Warsaw, her studies at the Sorbonne, her research on radioactivity, and both Nobel Prize awards in the words of the Nobel Committee itself. The page includes historical photographs, links to her Nobel lectures, and a full list of her scientific publications — making it an outstanding reference for students doing reports or anyone who wants to go beyond the children's books. Best for ages 10 and up as an independent read, or for younger children with a parent.",
+      "externalUrl": "https://www.nobelprize.org/prizes/physics/1903/marie-curie/biographical/"
     }
   ],
   "aspects": [
     {
-      "name": "Early Life in Poland",
+      "name": "Growing Up in Poland",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Marie_Sklodowska_16_years_old.jpg",
+          "caption": "Marie Skłodowska photographed at age 16 in Warsaw, 1883 — sixteen years after she was born in this Russian-controlled city on November 7, 1867. Growing up here, she was denied access to a university education, but her father's love of science ignited a curiosity that could not be contained."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5d/Maria_Sklodowska-Curie_Museum_Warsaw_07.JPG",
+          "caption": "The photo collection on display at the Maria Skłodowska-Curie Museum in Warsaw, housed in the tenement at 16 Freta Street where she was born. Under Russian occupation, Marie secretly attended the 'Flying University' — an underground network of classes that moved from home to home to avoid being shut down by authorities who forbade women from studying."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Marie-Curie-Nobel-portrait-600.jpg",
+          "caption": "Marie Curie photographed for her Nobel Prize circa 1903 — the ultimate reward for a plan she and her sister Bronya hatched years earlier in Warsaw. Marie worked as a governess, sending money to Bronya studying medicine in Paris; once Bronya became a doctor, she funded Marie's own studies. That selfless pact made this Nobel portrait possible."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Marie_Curie_c._1898_%28cropped%29.jpg",
+          "caption": "Marie Curie photographed circa 1898, on the eve of her greatest discoveries. Her father Władysław Skłodowski was a physics and mathematics teacher in Warsaw who let her handle his scientific instruments as a child — giving her an early, hands-on feel for measurement and precision that would define her entire scientific career."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Marie_Curie_in_her_Paris_Laboratory%2C_1912.jpg",
+          "caption": "Marie Curie in her Paris laboratory in 1912, by then one of the world's most celebrated scientists. She was born Maria Sklodowska in Warsaw in 1867 and always signed her name 'Marie Skłodowska-Curie' to honor her Polish roots — the country she named polonium after would never leave her."
+        }
+      ],
       "questions": [
         {
           "type": "multiple_choice",
-          "prompt": "In which city was Marie Curie born?",
-          "choices": ["Paris", "Moscow", "Warsaw", "Prague"],
-          "correctAnswer": "Warsaw",
-          "explanation": "Marie Curie was born on November 7, 1867, in Warsaw, which was then part of the Russian Empire. Poland had been divided among neighboring empires and did not exist as an independent country."
+          "prompt": "In what city was Marie Curie born?",
+          "choices": ["Paris, France", "Warsaw, Poland", "Vienna, Austria", "Prague, Bohemia"],
+          "correctAnswer": "Warsaw, Poland",
+          "explanation": "Marie Curie was born Maria Sklodowska on November 7, 1867, in Warsaw, Poland — a country that was under Russian rule at the time, which greatly shaped her difficult early years."
         },
         {
           "type": "multiple_choice",
-          "prompt": "What was Marie Curie's birth name?",
-          "choices": ["Marie Curie", "Maria Sklodowska", "Marie Radium", "Maria Polonium"],
+          "prompt": "Why was Marie unable to attend university in Poland as a young woman?",
+          "choices": [
+            "There were no universities in Poland at the time",
+            "Her family could not afford any school fees at all",
+            "Girls were forbidden from attending university under Russian rule",
+            "Her father refused to allow women in the family to study"
+          ],
+          "correctAnswer": "Girls were forbidden from attending university under Russian rule",
+          "explanation": "Poland was controlled by Russia, and Russian authorities did not allow women to attend the official universities. Marie secretly attended the 'Flying University' — an underground school that moved from home to home to avoid being shut down."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What arrangement did Marie make with her sister Bronya to help them both get an education?",
+          "choices": [
+            "They agreed to study the same subject so they could share one set of books",
+            "Marie would work and pay for Bronya's studies first, then Bronya would fund Marie's",
+            "They planned to teach each other at home instead of going abroad",
+            "Bronya would find work in Poland while Marie studied in Germany"
+          ],
+          "correctAnswer": "Marie would work and pay for Bronya's studies first, then Bronya would fund Marie's",
+          "explanation": "The two sisters made a selfless pact: Marie would work as a governess to send money to Bronya studying medicine in Paris, and once Bronya became a doctor she would support Marie's own studies. It was a plan that required years of patience and sacrifice."
+        },
+        {
+          "type": "true_false",
+          "prompt": "Marie Curie's father was a teacher of physics and mathematics.",
+          "correctAnswer": "true",
+          "explanation": "True. Władysław Skłodowski was a teacher of physics and mathematics in Warsaw. He encouraged Marie's love of science from a very young age, letting her use his scientific instruments and teaching her to think carefully about how the world worked."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What was Marie Curie's original birth name before she moved to France?",
           "correctAnswer": "Maria Sklodowska",
-          "explanation": "Marie was born Maria Sklodowska. She later adopted the French version of her first name, Marie, when she moved to Paris. She took the surname Curie after marrying Pierre Curie."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "Why was Marie unable to attend university in Poland?",
-          "choices": ["She was too young", "Her family was too poor", "Women were not allowed", "She failed the entrance exam"],
-          "correctAnswer": "Women were not allowed",
-          "explanation": "Under Russian rule, women in Poland were not permitted to attend the university. Marie and her sister secretly attended an underground educational network called the 'Flying University.'"
-        },
-        {
-          "type": "true_false",
-          "prompt": "Marie Curie was born in France.",
-          "correctAnswer": "false",
-          "explanation": "Marie Curie was born in Warsaw, Poland — not France. She moved to Paris, France in 1891 at age 24 to attend the Sorbonne University, since women could not study at universities in Poland at that time."
-        },
-        {
-          "type": "short_answer",
-          "prompt": "What was the name of the secret underground school network in Warsaw that educated women who were not allowed into official universities?",
-          "correctAnswer": "The Flying University",
-          "keywords": ["flying university", "flying"],
-          "explanation": "The Flying University was a secret educational institution in Warsaw that moved locations regularly to avoid Russian authorities. It allowed women and others who were excluded from official universities to receive higher education."
+          "keywords": ["maria", "sklodowska", "sklodowski"],
+          "explanation": "Marie Curie was born Maria Sklodowska on November 7, 1867, in Warsaw, Poland. She later Frenchified her first name to Marie after settling in Paris, and took the surname Curie when she married Pierre Curie in 1895."
         }
       ]
     },
     {
-      "name": "Moving to Paris and University",
+      "name": "Moving to Paris and the Sorbonne",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/Galerie_Richelieu%2C_La_Sorbonne_2.jpg",
+          "caption": "The Galerie Richelieu, the historic interior gallery of the Sorbonne in Paris. In 1891, at the age of 23, Marie arrived in Paris with little money and enrolled at this ancient university — the first step in the education she had been dreaming of and sacrificing for since her teenage years in Warsaw."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Marie_Curie%2C_portrait%2C_1900.jpg",
+          "caption": "Marie Curie photographed circa 1900, the same intense focus visible that carried her through years of grueling study at the Sorbonne. She lived in a tiny attic apartment near the university, sometimes forgot to eat, and studied by lamplight late into the night — but she finished near the top of her class."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Laboratory_-_Pierre_%26_Marie_Curie_-_10_rue_Vauquelin%2C_Paris_5.jpg",
+          "caption": "Commemorative plaque at 10 rue Vauquelin, Paris — marking the laboratory where Marie Curie made her greatest discoveries. It was the same city where she had earned her physics degree in 1893, becoming the first woman to do so at the Sorbonne — the beginning of a record-breaking scientific career."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Marie_Curie_in_her_laboratory.jpg",
+          "caption": "Marie Curie measuring radioactivity in her Paris laboratory, circa 1900 — using the precise electrical techniques she had mastered at the Sorbonne, where she earned both a physics degree in 1893 and a mathematics degree in 1894, finishing near the top of her class in both fields."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Pierre_Curie_by_Dujardin_c1906.jpg",
+          "caption": "Pierre Curie photographed by Dujardin, circa 1906 (published in Marie Curie's 1910 Treatise on Radioactivity). Marie met Pierre in 1894 through a mutual friend who thought Pierre might share laboratory space with her. Their shared passion for science quickly became love, and they married on July 26, 1895."
+        }
+      ],
       "questions": [
         {
           "type": "multiple_choice",
-          "prompt": "In what year did Marie move from Poland to Paris to study?",
-          "choices": ["1877", "1891", "1898", "1903"],
+          "prompt": "In what year did Marie move to Paris to begin her university studies?",
+          "choices": ["1885", "1888", "1891", "1897"],
           "correctAnswer": "1891",
-          "explanation": "Marie moved to Paris in November 1891 at age 24. She enrolled at the Sorbonne University, living in poverty in a tiny apartment near the university to save money for her studies."
+          "explanation": "Marie moved to Paris in 1891, at the age of 23, finally able to pursue the university education that had been denied to her in Russian-controlled Poland. She enrolled at the Sorbonne and threw herself into her studies."
         },
         {
           "type": "multiple_choice",
-          "prompt": "Which famous Paris university did Marie attend?",
-          "choices": ["Oxford", "Cambridge", "The Sorbonne", "MIT"],
+          "prompt": "What was the name of the famous Paris university where Marie Curie studied?",
+          "choices": ["École Polytechnique", "The Sorbonne", "University of Lyon", "Cambridge University"],
           "correctAnswer": "The Sorbonne",
-          "explanation": "The Sorbonne (part of the University of Paris) was one of Europe's most prestigious universities. Marie studied physics and mathematics there, graduating at the top of her class in physics in 1893."
+          "explanation": "Marie studied at the University of Paris, known as the Sorbonne — one of the oldest and most respected universities in the world. She lived in a tiny, freezing attic apartment nearby and studied so hard she sometimes forgot to eat."
         },
         {
           "type": "multiple_choice",
-          "prompt": "What subjects did Marie study at the Sorbonne?",
-          "choices": ["History and art", "Physics and mathematics", "Chemistry and biology", "Engineering and architecture"],
-          "correctAnswer": "Physics and mathematics",
-          "explanation": "Marie studied physics and mathematics at the Sorbonne. She earned her degree in physics in 1893, finishing first in her class, and then earned a second degree in mathematics the following year."
+          "prompt": "What historic achievement did Marie accomplish at the Sorbonne that no woman had done before?",
+          "choices": [
+            "She became the first female professor of science",
+            "She earned a physics degree — the first woman to do so at the Sorbonne",
+            "She won the university's top prize for mathematics",
+            "She set up the first women-only science laboratory there"
+          ],
+          "correctAnswer": "She earned a physics degree — the first woman to do so at the Sorbonne",
+          "explanation": "In 1893, Marie Curie earned her degree in physical sciences from the Sorbonne, becoming the first woman to earn a physics degree there. She followed it with a mathematics degree in 1894, finishing near the top of her class."
         },
         {
           "type": "true_false",
-          "prompt": "Marie found life in Paris comfortable and easy when she first arrived.",
-          "correctAnswer": "false",
-          "explanation": "Marie lived in extreme poverty in Paris — a tiny, unheated garret apartment. Sometimes she was so cold she could not study, and she often went without meals to pay for books. She fainted from hunger at least once."
+          "prompt": "Marie Curie earned degrees in both physics and mathematics from the Sorbonne.",
+          "correctAnswer": "true",
+          "explanation": "True. Marie earned a degree in physical sciences in 1893 and a degree in mathematics in 1894 — both from the Sorbonne. She was an extraordinary student who finished near the top of her class in both fields."
         },
         {
           "type": "short_answer",
-          "prompt": "Who was the scientist Marie met at the Sorbonne who became her husband and research partner?",
+          "prompt": "What was the name of the scientist Marie met in Paris who became her husband and research partner?",
           "correctAnswer": "Pierre Curie",
-          "keywords": ["pierre"],
-          "explanation": "Marie met Pierre Curie in 1894. Pierre was already a respected physicist. They married in 1895 and became one of history's greatest scientific partnerships, collaborating closely until Pierre's tragic death in 1906."
-        }
-      ]
-    },
-    {
-      "name": "Discovering Radioactivity",
-      "questions": [
-        {
-          "type": "multiple_choice",
-          "prompt": "What term did Marie Curie invent to describe elements that emit energy from within their atoms?",
-          "choices": ["Radiation", "Radioactivity", "Nuclear energy", "Atomic power"],
-          "correctAnswer": "Radioactivity",
-          "explanation": "Marie Curie coined the word 'radioactivity' to describe the property of certain elements that spontaneously emit energy. This was a revolutionary discovery — the energy came from within the atom itself, not from chemical reactions."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "Who first discovered uranium rays in 1896, inspiring Marie's research into radioactivity?",
-          "choices": ["Albert Einstein", "Pierre Curie", "Henri Becquerel", "Wilhelm Röntgen"],
-          "correctAnswer": "Henri Becquerel",
-          "explanation": "French physicist Henri Becquerel discovered in 1896 that uranium gave off mysterious rays. Marie decided to investigate this phenomenon and chose it as the topic for her doctoral thesis, leading to her discovery of radioactivity."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "What type of ore did Marie and Pierre have to process enormous quantities of to isolate radium?",
-          "choices": ["Bauxite", "Quartz", "Pitchblende", "Limestone"],
-          "correctAnswer": "Pitchblende",
-          "explanation": "Pitchblende (also called uraninite) is a uranium-rich ore. To isolate one gram of radium, Marie had to manually process about ten tons of pitchblende — years of exhausting, physically demanding work."
-        },
-        {
-          "type": "true_false",
-          "prompt": "Marie and Pierre worked in a state-of-the-art, well-equipped laboratory funded by the French government.",
-          "correctAnswer": "false",
-          "explanation": "Marie and Pierre worked in a leaky, drafty shed — a repurposed dissecting room — with almost no proper equipment. The French scientific establishment initially gave little support to Marie's research."
-        },
-        {
-          "type": "short_answer",
-          "prompt": "Marie Curie named one of her discovered elements after her home country. What was that element called?",
-          "correctAnswer": "Polonium",
-          "keywords": ["polonium"],
-          "explanation": "Marie named the first element she discovered Polonium, after Poland — the country of her birth, which at the time was not recognized as an independent nation. It was a gesture of patriotism and pride."
+          "keywords": ["pierre", "curie", "pierre curie"],
+          "explanation": "Marie met Pierre Curie in 1894 through a mutual friend who hoped he might share his laboratory space with her. Their shared passion for science quickly grew into love, and they married on July 26, 1895. Together they would change the course of science forever."
         }
       ]
     },
     {
       "name": "Discovering Polonium and Radium",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Marie_Curie_c._1898_%28cropped%29.jpg",
+          "caption": "Marie Curie photographed circa 1898 — the year she coined the word 'radioactivity' to describe the invisible energy given off by certain elements. Her careful measurements proved this energy came from inside individual atoms, not from any chemical reaction, upending everything scientists thought they knew about matter."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/72/Marie_Sklodowska_16_years_old.jpg",
+          "caption": "Marie Skłodowska at age 16 in Warsaw, 1883 — years before she would discover a new element and name it polonium after this very city and country. Poland had been erased from the map of Europe, divided between Russia, Prussia, and Austria. Naming her element after it was an act of love and defiance."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Pitchblende_schlema-alberoda.JPG",
+          "caption": "Uraninite (pitchblende) from a German uranium deposit — the same type of heavy black ore that Marie and Pierre Curie processed by the ton in their leaky Paris shed. From mountains of pitchblende they extracted only tiny traces of radium, a labor that took four years and damaged their health but yielded a discovery that would one day help treat cancer."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Pierre_and_Marie_Curie.jpg",
+          "caption": "Pierre and Marie Curie in their Paris laboratory, circa 1904, with Marie operating the precise ionization apparatus used to detect radioactivity. The discoveries of polonium and radium were a true partnership: when Marie identified that pitchblende contained unknown radioactive elements, Pierre set aside his own magnetism research entirely to join her."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Maria_Sk%C5%82odowska-Curie_i_Pierre_Curie_w_laboratorium_%281900%29.jpg",
+          "caption": "Pierre and Marie Curie in their Paris laboratory, 1900 — just two years after their historic announcement of radium in December 1898. That year the Curies discovered two brand-new elements, polonium and radium, representing two of the most significant additions to the periodic table in the entire 19th century."
+        }
+      ],
       "questions": [
         {
           "type": "multiple_choice",
-          "prompt": "In what year did Marie and Pierre announce their discoveries of polonium and radium?",
-          "choices": ["1895", "1896", "1898", "1903"],
-          "correctAnswer": "1898",
-          "explanation": "Marie and Pierre announced the discovery of polonium in July 1898 and radium in December 1898. Both discoveries were made by analyzing the radioactive properties of pitchblende ore."
+          "prompt": "What important scientific word did Marie Curie invent to describe the energy given off by certain elements?",
+          "choices": ["Nuclear energy", "Radioactivity", "X-ray emission", "Atomic radiation"],
+          "correctAnswer": "Radioactivity",
+          "explanation": "Marie Curie coined the term 'radioactivity' to describe the invisible energy that certain elements — like uranium — continuously give off. Her careful research showed that this energy came from inside the atom itself, not from a chemical reaction."
         },
         {
           "type": "multiple_choice",
-          "prompt": "Radium is remarkable because it...",
-          "choices": ["Is the hardest known metal", "Glows and generates its own heat due to radioactivity", "Is the most common element on Earth", "Dissolves in water immediately"],
-          "correctAnswer": "Glows and generates its own heat due to radioactivity",
-          "explanation": "Radium is intensely radioactive. It glows faintly blue in the dark and generates its own heat. Marie and Pierre kept a jar of radium compounds by their bed — they enjoyed watching it glow. They did not yet know how dangerous it was."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "How long did it take Marie and Pierre to isolate a pure sample of radium?",
-          "choices": ["A few weeks", "About six months", "Several years of work", "Just one day"],
-          "correctAnswer": "Several years of work",
-          "explanation": "Isolating radium took Marie and Pierre years of exhausting physical labor, processing tons of pitchblende in primitive conditions. They finally isolated one tenth of a gram of radium chloride by 1902."
-        },
-        {
-          "type": "true_false",
-          "prompt": "Marie Curie chose not to patent her process for isolating radium so that other scientists could use it freely.",
-          "correctAnswer": "true",
-          "explanation": "Marie and Pierre deliberately chose not to patent their radium isolation process. They believed scientific knowledge should be shared freely with the world, not owned or controlled for profit. This cost them a great deal of money."
-        },
-        {
-          "type": "short_answer",
-          "prompt": "What was the name of the second element Marie and Pierre discovered in 1898, named for Marie's home country?",
+          "prompt": "Which new element did Marie name after her home country, Poland?",
+          "choices": ["Radium", "Curium", "Francium", "Polonium"],
           "correctAnswer": "Polonium",
-          "keywords": ["polonium"],
-          "explanation": "Polonium was the first new element Marie and Pierre discovered, announced in July 1898. Marie named it after Poland to honor her homeland. It was the first element ever discovered by a woman."
-        }
-      ]
-    },
-    {
-      "name": "First Nobel Prize — Physics",
-      "questions": [
-        {
-          "type": "multiple_choice",
-          "prompt": "In what year did Marie Curie win her first Nobel Prize?",
-          "choices": ["1898", "1903", "1906", "1911"],
-          "correctAnswer": "1903",
-          "explanation": "Marie Curie won her first Nobel Prize in Physics in 1903, sharing it with Pierre Curie and Henri Becquerel for their research on radioactivity. She was the first woman ever to receive a Nobel Prize."
+          "explanation": "Marie named the element polonium after Poland, her beloved homeland — which at the time was not even an independent country. Discovering polonium in 1898 was her way of putting Poland on the map of the world, even when its rulers tried to erase it."
         },
         {
           "type": "multiple_choice",
-          "prompt": "Marie's first Nobel Prize was in which field?",
-          "choices": ["Chemistry", "Medicine", "Physics", "Literature"],
-          "correctAnswer": "Physics",
-          "explanation": "Marie Curie's first Nobel Prize was in Physics, awarded for her research into radiation — specifically for discovering that radioactivity was a property of atoms rather than a product of chemical reactions."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "Who shared the 1903 Nobel Prize in Physics with Marie and Pierre Curie?",
-          "choices": ["Albert Einstein", "Ernest Rutherford", "Henri Becquerel", "Wilhelm Röntgen"],
-          "correctAnswer": "Henri Becquerel",
-          "explanation": "The 1903 Nobel Prize in Physics was shared among Marie Curie, Pierre Curie, and Henri Becquerel. Becquerel had discovered uranium rays in 1896, which inspired Marie's research into radioactivity."
+          "prompt": "What heavy mineral ore did Marie and Pierre process by the ton to isolate tiny amounts of radium?",
+          "choices": ["Coal", "Iron ore", "Quartz", "Pitchblende"],
+          "correctAnswer": "Pitchblende",
+          "explanation": "Marie and Pierre processed enormous quantities of pitchblende (a uranium-rich ore) in a leaky, drafty shed to isolate radium. It took four years of exhausting work and tons of ore to produce just one gram of radium — the element that would one day help treat cancer."
         },
         {
           "type": "true_false",
-          "prompt": "Marie Curie was the first woman to ever win a Nobel Prize.",
-          "correctAnswer": "true",
-          "explanation": "When Marie Curie won the Nobel Prize in Physics in 1903, she became the first woman in history to receive a Nobel Prize. She was also the first person to win Nobel Prizes in two different sciences."
-        },
-        {
-          "type": "short_answer",
-          "prompt": "What scientific phenomenon had Henri Becquerel discovered in 1896 that inspired Marie Curie's Nobel-winning research?",
-          "correctAnswer": "Radioactivity (uranium rays)",
-          "keywords": ["radioactivity", "uranium", "radiation"],
-          "explanation": "Henri Becquerel discovered in 1896 that uranium emitted mysterious rays — what we now call radioactivity. Marie Curie chose to investigate this phenomenon for her doctoral research, leading to her groundbreaking discoveries."
-        }
-      ]
-    },
-    {
-      "name": "Loss and the Second Nobel Prize",
-      "questions": [
-        {
-          "type": "multiple_choice",
-          "prompt": "What happened to Pierre Curie in 1906?",
-          "choices": ["He retired from science", "He was killed in a street accident", "He won the Nobel Prize alone", "He moved back to Poland"],
-          "correctAnswer": "He was killed in a street accident",
-          "explanation": "Pierre Curie was killed on April 19, 1906, when he slipped and fell under a horse-drawn cart in a Paris street. Marie was devastated. She was 38 years old and left alone with two young daughters."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "In what year did Marie Curie win her second Nobel Prize?",
-          "choices": ["1906", "1908", "1911", "1914"],
-          "correctAnswer": "1911",
-          "explanation": "Marie Curie won her second Nobel Prize in Chemistry in 1911, for her discoveries of polonium and radium and for isolating radium and studying its properties. She is still the only person to win Nobel Prizes in two different sciences."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "Marie's second Nobel Prize was in which field?",
-          "choices": ["Physics", "Chemistry", "Medicine", "Peace"],
-          "correctAnswer": "Chemistry",
-          "explanation": "Marie Curie's second Nobel Prize was in Chemistry (1911), awarded for the discovery of polonium and radium, and her study of radium's nature and compounds. Her first prize had been in Physics."
-        },
-        {
-          "type": "true_false",
-          "prompt": "After Pierre's death, Marie was appointed to his position at the Sorbonne, becoming the first woman professor there.",
-          "correctAnswer": "true",
-          "explanation": "After Pierre's death, the Sorbonne invited Marie to take over his professorship — making her the first woman ever to hold a professorship at the Sorbonne in its nearly 650-year history."
-        },
-        {
-          "type": "short_answer",
-          "prompt": "What makes Marie Curie unique among all Nobel Prize winners in history?",
-          "correctAnswer": "She won Nobel Prizes in two different sciences",
-          "keywords": ["two", "different", "sciences", "physics", "chemistry"],
-          "explanation": "Marie Curie is the only person in history to win Nobel Prizes in two different scientific disciplines — Physics (1903) and Chemistry (1911). She is also the first woman to win a Nobel Prize."
-        }
-      ]
-    },
-    {
-      "name": "World War I and Little Curies",
-      "questions": [
-        {
-          "type": "multiple_choice",
-          "prompt": "What did Marie Curie develop during World War I to help wounded soldiers?",
-          "choices": ["A new type of bandage", "Mobile X-ray units called 'Little Curies'", "A cure for infection", "Radio communication devices"],
-          "correctAnswer": "Mobile X-ray units called 'Little Curies'",
-          "explanation": "Marie Curie developed mobile radiography units — vehicles equipped with X-ray machines — that could be driven to battlefield hospitals. Soldiers nicknamed them 'Petites Curies' (Little Curies)."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "How did X-rays help doctors treating wounded soldiers?",
-          "choices": ["They cured infections automatically", "They showed bullets and broken bones inside the body without surgery", "They sterilized wounds", "They provided anesthesia"],
-          "correctAnswer": "They showed bullets and broken bones inside the body without surgery",
-          "explanation": "X-rays allowed doctors to see inside soldiers' bodies without cutting them open — locating bullets, shrapnel, and broken bones precisely so surgeons could operate more effectively and save more lives."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "Approximately how many wounded soldiers were helped by Curie's mobile X-ray units during WWI?",
-          "choices": ["About 10,000", "About 100,000", "Over one million", "About 500"],
-          "correctAnswer": "Over one million",
-          "explanation": "Historians estimate that Marie Curie's mobile X-ray units assisted in over one million examinations of wounded soldiers during World War I. Her contribution to battlefield medicine saved countless lives."
-        },
-        {
-          "type": "true_false",
-          "prompt": "Marie Curie personally helped train X-ray operators and sometimes drove the mobile units herself.",
-          "correctAnswer": "true",
-          "explanation": "Marie Curie not only designed the mobile units but also drove them to the front lines, trained doctors and nurses to operate X-ray equipment, and sometimes performed the procedures herself. Her daughter Irène also helped."
-        },
-        {
-          "type": "short_answer",
-          "prompt": "What were the mobile X-ray vehicles Marie Curie developed during WWI nicknamed by soldiers?",
-          "correctAnswer": "Little Curies (Petites Curies)",
-          "keywords": ["little curies", "petites curies"],
-          "explanation": "Marie's mobile X-ray vehicles were affectionately nicknamed 'Petites Curies' (Little Curies) by French soldiers and medical staff. About 20 of these vehicles were operating on the Western Front by 1916."
-        }
-      ]
-    },
-    {
-      "name": "Women in Science",
-      "questions": [
-        {
-          "type": "multiple_choice",
-          "prompt": "When Marie was nominated for membership in the French Academy of Sciences, what happened?",
-          "choices": ["She was elected with great celebration", "She was rejected because she was a woman", "She declined the invitation", "She was made president of the Academy"],
-          "correctAnswer": "She was rejected because she was a woman",
-          "explanation": "In 1911, despite her two Nobel Prizes, Marie Curie was rejected for membership in the French Academy of Sciences by a close vote. Women were not admitted to the Academy until 1962 — 28 years after Marie's death."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "Marie Curie became the first woman to do which of the following at the Sorbonne?",
-          "choices": ["Attend as a student", "Publish a scientific paper", "Hold a professorship", "Use a laboratory"],
-          "correctAnswer": "Hold a professorship",
-          "explanation": "After Pierre's death in 1906, Marie was appointed to his professorship at the Sorbonne, becoming the first woman ever to hold a professorship at the university — and one of the first in France."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "What additional challenge did Marie face on top of the scientific difficulties of her work?",
-          "choices": ["She could not speak French", "She faced discrimination due to her gender and foreign background", "She had no interest in research", "She was prevented from using laboratories"],
-          "correctAnswer": "She faced discrimination due to her gender and foreign background",
-          "explanation": "Marie faced discrimination throughout her career because she was both a woman and a foreign-born immigrant from Poland. Some French scientists and newspapers mocked or dismissed her. She persisted regardless."
-        },
-        {
-          "type": "true_false",
-          "prompt": "The scientific community fully embraced Marie Curie without any gender-based discrimination.",
+          "prompt": "Marie Curie discovered polonium and radium entirely on her own, without any collaboration from Pierre.",
           "correctAnswer": "false",
-          "explanation": "Marie Curie faced significant gender discrimination throughout her career. She was excluded from the French Academy of Sciences, initially left off some award nominations, and faced hostile press coverage at various points in her life."
+          "explanation": "False. Marie and Pierre Curie were true partners in science. After Marie identified that pitchblende contained unknown radioactive elements, Pierre set aside his own research to join her. They made the discoveries of polonium and radium together in 1898 as a team."
         },
         {
           "type": "short_answer",
-          "prompt": "What personal quality allowed Marie Curie to persist through poverty, discrimination, and personal tragedy throughout her life?",
-          "correctAnswer": "Determination and perseverance",
-          "keywords": ["determination", "perseverance", "persistence", "dedication", "hard work"],
-          "explanation": "Marie Curie's extraordinary perseverance, determination, and passion for science allowed her to overcome poverty, gender discrimination, personal tragedy, and illness to achieve what no one before her had accomplished."
+          "prompt": "In what year did Marie and Pierre Curie announce the discovery of radium?",
+          "correctAnswer": "1898",
+          "keywords": ["1898"],
+          "explanation": "Marie and Pierre Curie announced their discovery of radium in December 1898. Along with polonium (also announced that year), it represented one of the greatest scientific breakthroughs of the 19th century — two brand-new elements found through years of painstaking work."
         }
       ]
     },
     {
-      "name": "The Curie Family Legacy",
+      "name": "Two Nobel Prizes",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Paul_Nadar_-_Henri_Becquerel.jpg",
+          "caption": "Henri Becquerel photographed by Paul Nadar — the French physicist who shared the 1903 Nobel Prize in Physics with Marie and Pierre Curie. Becquerel had first discovered uranium's mysterious rays in 1896, sparking Marie's research into radioactivity and setting her on the path to two Nobel Prizes."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Marie-Curie-Nobel-portrait-600.jpg",
+          "caption": "Marie Curie photographed for her Nobel Prize circa 1903 — the first of two Nobel Prize portraits she would sit for. No one in history has ever matched her record: Nobel Prizes in two different scientific fields, Physics in 1903 and Chemistry in 1911."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Marie_Curie%2C_portrait%2C_1900.jpg",
+          "caption": "Marie Curie circa 1900 — inspired by Becquerel's 1896 discovery that uranium gave off mysterious rays, she was already deep in the research that would transform science. She coined the word 'radioactivity,' traced its source to the atom itself, and discovered that pitchblende hid two previously unknown elements."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Pierre_Curie_by_Dujardin_c1906.jpg",
+          "caption": "Pierre Curie photographed by Dujardin, circa 1906 — the year of his tragic death in a Paris street accident on April 19. Marie accepted the 1911 Nobel Prize in Chemistry alone, five years after losing her husband and scientific partner. That she continued their work at all, let alone won a second Nobel, is a testament to extraordinary resilience."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/76/Laboratory_-_Pierre_%26_Marie_Curie_-_10_rue_Vauquelin%2C_Paris_5.jpg",
+          "caption": "The commemorative plaque at 10 rue Vauquelin, Paris — marking the laboratory where Marie and Pierre discovered polonium and radium in 1898. In 1911, the Nobel Prize in Chemistry was awarded to Marie alone in recognition of those discoveries, cementing a site once described as 'a cross between a stable and a potato cellar' as one of the most important addresses in the history of science."
+        }
+      ],
       "questions": [
         {
           "type": "multiple_choice",
-          "prompt": "How many children did Marie and Pierre Curie have?",
-          "choices": ["One", "Two", "Three", "None"],
-          "correctAnswer": "Two",
-          "explanation": "Marie and Pierre had two daughters: Irène (born 1897) and Ève (born 1904). Irène became a physicist and won her own Nobel Prize. Ève became a writer and wrote the famous biography of her mother."
+          "prompt": "In what field of science was Marie Curie's first Nobel Prize awarded?",
+          "choices": ["Chemistry", "Medicine", "Mathematics", "Physics"],
+          "correctAnswer": "Physics",
+          "explanation": "Marie Curie's first Nobel Prize was in Physics, awarded in 1903. She shared it with her husband Pierre Curie and scientist Henri Becquerel for their research into the spontaneous radiation that Becquerel had first discovered in 1896."
         },
         {
           "type": "multiple_choice",
-          "prompt": "Marie and Pierre's daughter Irène Joliot-Curie won a Nobel Prize in which field?",
-          "choices": ["Physics", "Peace", "Chemistry", "Medicine"],
-          "correctAnswer": "Chemistry",
-          "explanation": "Irène Joliot-Curie and her husband Frédéric Joliot-Curie won the Nobel Prize in Chemistry in 1935 for discovering artificial radioactivity. This made Marie the only woman with a child who also won a Nobel Prize."
+          "prompt": "What made Marie Curie's Nobel Prize record completely unique in the history of science?",
+          "choices": [
+            "She was the first scientist of any kind to win a Nobel Prize",
+            "She won a Nobel Prize three times — more than anyone else",
+            "She won Nobel Prizes in two different sciences — the only person ever to do so",
+            "She won her first Nobel Prize at age 16 — the youngest winner ever"
+          ],
+          "correctAnswer": "She won Nobel Prizes in two different sciences — the only person ever to do so",
+          "explanation": "Marie Curie won the Nobel Prize in Physics in 1903 and the Nobel Prize in Chemistry in 1911 — making her the first and only person in history to win Nobel Prizes in two different scientific fields. No one has ever matched this achievement."
         },
         {
           "type": "multiple_choice",
-          "prompt": "What research institute did Marie Curie found in Paris that still exists today as a world leader in cancer research?",
-          "choices": ["The Pierre Curie Institute", "The Curie Institute", "The Radium Foundation", "The Paris Science Center"],
-          "correctAnswer": "The Curie Institute",
-          "explanation": "Marie Curie helped found the Radium Institute in Paris (now called the Curie Institute) in 1920. Today it is one of the world's leading cancer research centers, continuing the work Marie started over a century ago."
+          "prompt": "Which scientist shared the 1903 Nobel Prize in Physics with Marie and Pierre Curie?",
+          "choices": ["Albert Einstein", "Ernest Rutherford", "Wilhelm Röntgen", "Henri Becquerel"],
+          "correctAnswer": "Henri Becquerel",
+          "explanation": "Henri Becquerel shared the 1903 Nobel Prize in Physics with Marie and Pierre Curie. Becquerel had first discovered that uranium gave off mysterious rays in 1896, which inspired Marie to investigate the phenomenon — eventually leading her to the word 'radioactivity.'"
         },
         {
           "type": "true_false",
-          "prompt": "Irène Curie followed in her mother's footsteps and became a scientist.",
+          "prompt": "Marie Curie's second Nobel Prize, in Chemistry in 1911, was awarded to her alone.",
           "correctAnswer": "true",
-          "explanation": "Irène Curie became a physicist and chemist. She worked alongside her mother at the Curie Institute and went on to win her own Nobel Prize in Chemistry in 1935, alongside her husband Frédéric Joliot-Curie."
+          "explanation": "True. The 1911 Nobel Prize in Chemistry was awarded to Marie Curie alone, in recognition of her discovery of polonium and radium and her work isolating radium. Pierre had died in a tragic street accident in 1906, so Marie carried on her work — and accepted this second Nobel Prize — by herself."
         },
         {
           "type": "short_answer",
-          "prompt": "What element on the periodic table, atomic number 96, was named in honor of Marie and Pierre Curie?",
+          "prompt": "In what year did Marie Curie receive her second Nobel Prize, this time in Chemistry?",
+          "correctAnswer": "1911",
+          "keywords": ["1911"],
+          "explanation": "Marie Curie received the Nobel Prize in Chemistry in 1911, becoming the first person ever to win two Nobel Prizes. The prize recognized her discovery of polonium and radium and her success in isolating pure radium — a monumental achievement in chemistry."
+        }
+      ]
+    },
+    {
+      "name": "Marie Curie's Legacy",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/Marie_Curie_in_her_Paris_Laboratory%2C_1912.jpg",
+          "caption": "Marie Curie in her Paris laboratory in 1912, still handling radioactive materials without protective equipment — unaware that the invisible radiation she measured every day was slowly damaging her bone marrow. She died on July 4, 1934, from aplastic anemia caused by decades of radiation exposure. Her dedication to science ultimately cost her life."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Marie_Curie_-_Mobile_X-Ray-Unit.jpg",
+          "caption": "Marie Curie beside a mobile military hospital X-ray unit, circa 1915 — one of the 'petites Curies' she designed and drove to the front lines of World War I. By fitting vehicles with X-ray equipment powered by a small dynamo, she brought diagnostic radiology directly to battlefield surgeons, helping locate bullets and broken bones in over a million wounded soldiers."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Pierre_and_Marie_Curie.jpg",
+          "caption": "Pierre and Marie Curie in their Paris laboratory, circa 1904. In 1944, scientists at the University of Chicago named element 96 'Curium' in honor of both Marie and Pierre Curie, recognizing that their joint work on radioactivity had opened the entire field of nuclear science that made the discovery of new elements possible."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Marie_Curie_e_Irene_Joliot-Curie_no_Museu_Nacional%2C_1926.jpg",
+          "caption": "Marie Curie and her daughter Irène Joliot-Curie at Brazil's National Museum in Rio de Janeiro, August 2, 1926. Nine years after this photograph was taken, Irène won the Nobel Prize in Chemistry in 1935 for discovering artificial radioactivity — just one year after Marie's death. The Curies became the most Nobel Prize–winning family in history."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Panth%C3%A9on_Pierre_et_Marie_Curie.JPG",
+          "caption": "The tomb of Pierre and Marie Curie in the Panthéon, Paris — France's monument to its greatest citizens. In 1995, Marie's remains were transferred here, making her the first woman enshrined in the Panthéon on her own merits. The girl who was forbidden from attending university in Russian-controlled Poland now rests among France's immortals."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What illness caused Marie Curie's death in 1934, most likely from years of radiation exposure?",
+          "choices": ["Tuberculosis", "Heart disease", "Aplastic anemia", "Pneumonia"],
+          "correctAnswer": "Aplastic anemia",
+          "explanation": "Marie Curie died on July 4, 1934, from aplastic anemia — a condition where the bone marrow stops making enough blood cells. Scientists believe it was caused by decades of exposure to radiation, which she handled without protective equipment because its dangers were not yet understood."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What did Marie Curie develop during World War I to help doctors treat wounded soldiers on the front lines?",
+          "choices": [
+            "New medicines to fight infection",
+            "Mobile X-ray units that could be driven to battlefield hospitals",
+            "Protective uniforms to shield nurses from disease",
+            "A new surgical technique for removing shrapnel"
+          ],
+          "correctAnswer": "Mobile X-ray units that could be driven to battlefield hospitals",
+          "explanation": "During World War I, Marie Curie fitted vehicles with X-ray equipment and drove them to the front lines so surgeons could see inside soldiers' bodies to locate bullets and broken bones. These vehicles were nicknamed 'petites Curies' — little Curies — and helped save countless lives."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What element in the periodic table is named in honor of Marie Curie?",
+          "choices": ["Polonium", "Radium", "Marieium", "Curium"],
           "correctAnswer": "Curium",
-          "keywords": ["curium"],
-          "explanation": "The element Curium (symbol Cm, atomic number 96) was named in honor of both Marie and Pierre Curie in 1944, recognizing their foundational contributions to the science of radioactivity."
-        }
-      ]
-    },
-    {
-      "name": "Her Impact on Science and Medicine",
-      "questions": [
-        {
-          "type": "multiple_choice",
-          "prompt": "What major medical treatment, used to fight cancer today, is based partly on Marie Curie's discoveries about radioactivity?",
-          "choices": ["Vaccination", "Radiation therapy", "Antibiotics", "Chemotherapy pills"],
-          "correctAnswer": "Radiation therapy",
-          "explanation": "Radiation therapy — using focused beams of radiation to kill cancer cells — is directly rooted in Marie Curie's discoveries about radioactivity and radium. It now helps treat millions of cancer patients every year."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "What did Marie Curie primarily help scientists understand about matter?",
-          "choices": ["The structure of DNA", "The composition of stars", "The structure of atoms and radioactive elements", "The laws of motion"],
-          "correctAnswer": "The structure of atoms and radioactive elements",
-          "explanation": "Marie Curie's work revealed that radioactivity comes from within atoms themselves — a finding that helped launch the entirely new field of atomic physics and transformed our understanding of matter."
-        },
-        {
-          "type": "multiple_choice",
-          "prompt": "Marie Curie died in 1934 from aplastic anemia, most likely caused by...",
-          "choices": ["A childhood illness", "Old age", "Decades of exposure to radiation", "A laboratory accident"],
-          "correctAnswer": "Decades of exposure to radiation",
-          "explanation": "Marie died from aplastic anemia, a disease where the bone marrow stops producing blood cells. It was almost certainly caused by her lifelong exposure to radiation — health dangers that were not yet understood in her time."
+          "explanation": "Element 96 in the periodic table is named Curium (symbol Cm) in honor of both Marie and Pierre Curie. It was first created in 1944 by a team of scientists in Chicago and named as a tribute to the Curies' extraordinary contributions to radioactivity research."
         },
         {
           "type": "true_false",
-          "prompt": "Marie Curie's personal notebooks are still radioactive today and must be stored in lead-lined boxes.",
+          "prompt": "Marie Curie's daughter Irène also won a Nobel Prize in science.",
           "correctAnswer": "true",
-          "explanation": "Marie Curie's laboratory notebooks, letters, and even her cookbook are still radioactive today. They are stored in lead-lined boxes at the Bibliothèque nationale de France. Researchers must sign a waiver and wear protective clothing to view them."
+          "explanation": "True. Irène Joliot-Curie, Marie's elder daughter, won the Nobel Prize in Chemistry in 1935 — just one year after her mother's death — for discovering artificial radioactivity. The Curies became the most Nobel Prize-winning family in history, with prizes spanning two generations."
         },
         {
           "type": "short_answer",
-          "prompt": "What field of medicine did Marie Curie's discoveries help create, which today saves millions of lives by using radiation to treat cancer?",
-          "correctAnswer": "Radiation therapy (radiotherapy)",
-          "keywords": ["radiation", "radiotherapy", "therapy"],
-          "explanation": "Marie Curie's discovery of radium and radioactivity laid the groundwork for radiation therapy (also called radiotherapy) — one of the most important tools in modern cancer treatment, saving millions of lives worldwide."
+          "prompt": "What famous building in Paris holds Marie Curie's remains, honoring her as one of France's greatest citizens?",
+          "correctAnswer": "The Panthéon",
+          "keywords": ["pantheon", "panthéon"],
+          "explanation": "In 1995, Marie Curie's remains were moved to the Panthéon in Paris — the great monument where France honors its most extraordinary citizens. She was the first woman to be enshrined there on her own merits, taking her place alongside writers, philosophers, and national heroes."
         }
       ]
     }
