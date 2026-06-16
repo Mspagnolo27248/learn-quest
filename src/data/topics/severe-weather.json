@@ -1,0 +1,473 @@
+{
+  "id": "severe-weather",
+  "title": "Severe Weather",
+  "category": "Science & Nature",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/9/98/F5_tornado_Elie_Manitoba_2007.jpg",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/d/db/Lightning_over_Oradea_Romania_cropped.jpg",
+  "teaser": "Discover what turns an ordinary sky into a roaring thunderstorm, a spinning tornado, or a giant hurricane — and meet the storms that changed history.",
+  "summary": {
+    "intro": "Severe weather is what happens when the air around us becomes wild and powerful. Most days the weather is calm, but sometimes warm air, cold air, and moisture come together in just the right way to create storms strong enough to flash with lightning, spin into tornadoes, or grow into hurricanes hundreds of miles wide. These storms have shaped human history — flooding cities, knocking down forests, and teaching people how to watch the sky and stay safe. For a long time, people had no way of knowing a big storm was coming. Today, thanks to weather balloons, radar, and satellites in space, scientists called meteorologists can warn us hours or even days before severe weather strikes. Understanding how these storms form helps us respect nature's power — and stay safe when the sky turns dark.",
+    "sections": [
+      {
+        "title": "What Makes Weather 'Severe'?",
+        "body": "Weather is simply what is happening in the air around us — whether it is sunny, rainy, windy, or cold. Weather becomes 'severe' when it grows strong enough to be dangerous: think booming thunderstorms, swirling tornadoes, giant hurricanes, blinding blizzards, and heavy floods. Almost all severe weather begins the same way: warm, wet air near the ground rises upward into colder air high in the sky. As that warm air climbs, the water vapor inside it cools and turns into tiny droplets, building tall clouds and releasing energy that powers the storm. The bigger the difference between the warm air below and the cold air above, the more powerful the storm can become."
+      },
+      {
+        "title": "Thunderstorms and Lightning",
+        "body": "Thunderstorms are the most common kind of severe weather, and they are the starting point for many bigger storms. Inside a towering storm cloud, powerful updrafts and downdrafts toss water droplets and ice crystals up and down. These pieces bump into each other and build up electric charges, just like when you rub a balloon on your hair. When the charge grows strong enough, it leaps out as a giant spark we call lightning — which can be hotter than the surface of the Sun. The lightning heats the air so fast that it explodes outward, making the rumble of thunder. Because light travels faster than sound, we always see lightning before we hear the thunder."
+      },
+      {
+        "title": "Tornadoes: Spinning Giants",
+        "body": "A tornado is a violently spinning column of air that reaches down from a thunderstorm to the ground. The most powerful tornadoes come from a special kind of storm called a supercell, where winds at different heights blow in different directions and set the air spinning. If that spinning air tilts upright and stretches down to the ground, a tornado is born. Tornado winds can spin faster than 300 miles per hour — fast enough to lift cars and tear roofs off houses. The middle of the United States gets so many tornadoes that it has earned the nickname 'Tornado Alley.' Scientists measure a tornado's strength using the Enhanced Fujita Scale, from EF0 (weakest) to EF5 (strongest)."
+      },
+      {
+        "title": "Hurricanes: Storms of the Sea",
+        "body": "Hurricanes are the largest and most powerful storms on Earth, sometimes growing wider than entire states. They form over warm ocean water near the equator, where the heat of the sea feeds the storm with energy and moisture. As the storm grows, it begins to spin, with bands of thunderstorms wrapping around a calm center called the eye. To be called a hurricane, the storm's winds must reach at least 74 miles per hour. When a hurricane reaches land, it brings fierce winds, heavy rain, and a dangerous wall of seawater called a storm surge. These same storms are called typhoons in the western Pacific Ocean and cyclones in the Indian Ocean — different names for the same kind of giant storm."
+      },
+      {
+        "title": "Storms That Made History",
+        "body": "Severe weather has changed the course of history many times. In 1900, a hurricane struck Galveston, Texas, with no real warning and became the deadliest natural disaster in United States history. In 1925, the Tri-State Tornado raced across Missouri, Illinois, and Indiana, traveling farther than any tornado ever recorded. Long before that, people could only guess when storms were coming. Over time, inventors and scientists learned to read the sky — using the barometer to sense changes in air pressure, then weather balloons, radar, and finally satellites launched into space. Today these tools let meteorologists warn millions of people before a storm arrives, saving countless lives and turning weather from a deadly mystery into something we can understand and prepare for."
+      }
+    ],
+    "keyFacts": [
+      "Severe weather usually begins when warm, moist air rises rapidly into colder air high in the sky.",
+      "Lightning can be hotter than the surface of the Sun, and the heat it creates makes the sound of thunder.",
+      "The most violent tornadoes form inside rotating thunderstorms called supercells.",
+      "A storm must have winds of at least 74 miles per hour to be called a hurricane.",
+      "Hurricanes are called typhoons in the western Pacific and cyclones in the Indian Ocean.",
+      "The 1900 Galveston hurricane was the deadliest natural disaster in U.S. history.",
+      "The 1925 Tri-State Tornado traveled farther on the ground than any other tornado on record.",
+      "Radar and weather satellites now let scientists warn people about storms hours or days in advance."
+    ]
+  },
+  "videos": [
+    {
+      "youtubeId": "QVZExLO0MWA",
+      "title": "Severe Weather: Crash Course Kids #28.2",
+      "description": "A clear, fast-paced introduction to what makes weather 'severe' and how powerful storms form — a perfect overview before exploring thunderstorms, tornadoes, and hurricanes in detail.",
+      "durationSeconds": 240,
+      "verified": false
+    },
+    {
+      "youtubeId": "-s3UwOq1P1E",
+      "title": "What is a Tornado? | Weather Science | SciShow Kids",
+      "description": "SciShow Kids explains where tornadoes come from, how fast they spin, and how scientists study them — using simple, kid-friendly language and fun visuals.",
+      "durationSeconds": 240,
+      "verified": false
+    },
+    {
+      "youtubeId": "fR8-yQlZ9Ts",
+      "title": "Storm 101 | Tornadoes, Hurricanes & More | The Dr Binocs Show | Peekaboo Kidz",
+      "description": "Dr. Binocs breaks down the different kinds of storms — including tornadoes and hurricanes — and explains how each one forms in a bright, animated style kids love.",
+      "durationSeconds": 300,
+      "verified": false
+    }
+  ],
+  "readings": [
+    {
+      "title": "National Geographic Kids Everything Weather: Facts, Photos, and Fun that Will Blow You Away",
+      "author": "Kathy Furgang",
+      "year": 2012,
+      "sourceType": "book",
+      "summary": "A colorful, photo-packed guide to all kinds of weather, from gentle rain to roaring tornadoes and hurricanes. It explains how storms form in plain language and includes real stories from a National Geographic tornado chaser — perfect for curious kids who want both the science and the adventure.",
+      "externalUrl": "https://www.penguinrandomhouse.com/books/217867/national-geographic-kids-everything-weather-by-kathy-furgang/",
+      "citationChicago": "Furgang, Kathy. National Geographic Kids Everything Weather: Facts, Photos, and Fun that Will Blow You Away. National Geographic Kids, 2012."
+    },
+    {
+      "title": "Hurricanes!",
+      "author": "Gail Gibbons",
+      "year": 2009,
+      "sourceType": "book",
+      "summary": "From beloved nonfiction author Gail Gibbons, this clear, brightly illustrated book explains how hurricanes form, how they get their names, and how people stay safe when one is coming. Its simple diagrams make a complicated storm easy for young readers to understand.",
+      "externalUrl": "https://www.goodreads.com/book/show/6624453-hurricanes",
+      "citationChicago": "Gibbons, Gail. Hurricanes! Holiday House, 2009."
+    },
+    {
+      "title": "NOAA SciJinks: All About Weather",
+      "author": "National Oceanic and Atmospheric Administration (NOAA)",
+      "year": 2024,
+      "sourceType": "website",
+      "summary": "An official NOAA website made for kids, full of friendly articles, games, and videos that answer big questions about weather — like how tornadoes spin, why hurricanes form, and how satellites watch storms from space. A great place to keep exploring after reading the chapters here.",
+      "externalUrl": "https://www.nesdis.noaa.gov/about/k-12-education/scijinks",
+      "citationChicago": "National Oceanic and Atmospheric Administration. \"SciJinks: All About Weather.\" NOAA National Environmental Satellite, Data, and Information Service. Accessed 2024."
+    }
+  ],
+  "aspects": [
+    {
+      "name": "What Makes Weather Turn Severe",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Green_Field_Blue_Sky_Clouds.jpg",
+          "caption": "A calm, sunny day with white clouds drifting over a green field (Wikimedia Commons, 2017). This is 'weather' too — sunshine, gentle breezes, and fair-weather clouds are the air's quiet moods most of the time."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Big_Cumulonimbus.JPG",
+          "caption": "A towering cumulonimbus storm cloud with a flat 'anvil' top, photographed by Simon Eugster. Clouds like this grow when warm, moist air rises into colder air high above — exactly how severe weather begins to build."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Cumulonimbus-tav.jpg",
+          "caption": "A powerful thunderstorm over central Oklahoma, photographed by Tim Vasquez in 1999. The bigger the gap between warm air below and cold air above, the higher these clouds climb — and the stronger the storm becomes."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Shelf_cloud.jpg",
+          "caption": "A dramatic, low-hanging cloud rolling in ahead of a thunderstorm in Norway, 2008. Most weather is calm, but when the sky looks like this, the weather has turned 'severe' — strong enough to be dangerous."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4d/2013-10-14_16_03_08_Weather_balloon_just_after_release.JPG",
+          "caption": "A weather balloon rising into the sky just after release near Elko, Nevada, 2013. Meteorologists — the scientists who study the weather — send up balloons like this every day to measure the air and predict storms."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What does the word 'weather' describe?",
+          "choices": [
+            "What is happening in the air around us, like rain, wind, or sunshine",
+            "The shape of the land in a country",
+            "The number of animals living in a forest",
+            "How far away the Moon is from Earth"
+          ],
+          "correctAnswer": "What is happening in the air around us, like rain, wind, or sunshine",
+          "explanation": "Weather is simply what is happening in the air around us at a given moment — whether it is sunny, rainy, windy, hot, or cold."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What usually has to happen in the air for severe weather to begin?",
+          "choices": [
+            "Cold, dry air sinks slowly toward the ground",
+            "Warm, moist air rises upward into colder air high in the sky",
+            "The wind stops blowing completely",
+            "The Sun disappears behind the Moon"
+          ],
+          "correctAnswer": "Warm, moist air rises upward into colder air high in the sky",
+          "explanation": "Almost all severe weather starts when warm, moist air near the ground rises into colder air above, building tall storm clouds and releasing energy."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Why does a bigger difference between warm air below and cold air above usually make a stronger storm?",
+          "choices": [
+            "It makes the air completely still",
+            "It gives the rising warm air more energy and lift to power the storm",
+            "It cools the ground so plants stop growing",
+            "It blocks sunlight from reaching the clouds"
+          ],
+          "correctAnswer": "It gives the rising warm air more energy and lift to power the storm",
+          "explanation": "The greater the difference between the warm air below and the cold air above, the faster the warm air rises and the more powerful the storm can become."
+        },
+        {
+          "type": "true_false",
+          "prompt": "All weather is severe weather.",
+          "correctAnswer": "false",
+          "explanation": "Most weather is calm and harmless. Weather is only called 'severe' when it becomes strong enough to be dangerous, like thunderstorms, tornadoes, and hurricanes."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What do we call a scientist who studies the weather?",
+          "correctAnswer": "A meteorologist",
+          "keywords": ["meteorologist", "meteorology"],
+          "explanation": "A scientist who studies the weather and helps predict storms is called a meteorologist."
+        }
+      ]
+    },
+    {
+      "name": "Thunderstorms and Lightning",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/11/CG_lightning_strike.JPG",
+          "caption": "A cloud-to-ground lightning strike captured by photographer Axel Rouvin. Lightning is a giant spark of electricity that leaps out when the charge inside a storm cloud grows strong enough to jump."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Lightning_bolt%2C_Johnston%2C_Iowa_%2827661834650%29.jpg",
+          "caption": "A single powerful bolt crashing to earth in Johnston, Iowa, 2014 (Kevin Skow, NOAA photo contest). A bolt like this heats the air around it so fast that the air explodes outward — and that blast is the sound of thunder."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Lightning_Over_Asheville%2C_North_Carolina_01.JPG",
+          "caption": "Lightning flashing over Asheville, North Carolina, 2011. In a storm you always see the flash before you hear the rumble, because light travels much faster than sound."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/7f/Lightning_bolts_3.JPG",
+          "caption": "Several lightning bolts flashing across a dark sky at once, photographed in 2012. A lightning channel can heat the air to about five times hotter than the surface of the Sun."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What is lightning?",
+          "choices": [
+            "A giant spark of electricity",
+            "A stream of falling rain",
+            "A type of cloud",
+            "A gust of cold wind"
+          ],
+          "correctAnswer": "A giant spark of electricity",
+          "explanation": "Lightning is a giant spark of electricity that leaps out when electric charges build up inside a storm cloud and grow strong enough to jump."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What causes the sound of thunder?",
+          "choices": [
+            "Clouds bumping into each other",
+            "Lightning heating the air so fast that it explodes outward",
+            "Rain hitting the ground very hard",
+            "Wind blowing through the trees"
+          ],
+          "correctAnswer": "Lightning heating the air so fast that it explodes outward",
+          "explanation": "Lightning heats the air around it so quickly that the air explodes outward, and that sudden expansion creates the booming sound we call thunder."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Why do we almost always see lightning before we hear thunder?",
+          "choices": [
+            "Lightning happens a few minutes before the thunder",
+            "Light travels faster than sound",
+            "Thunder only happens during the day",
+            "Our ears are slower than thunder"
+          ],
+          "correctAnswer": "Light travels faster than sound",
+          "explanation": "Light travels much faster than sound, so the flash of lightning reaches our eyes before the rumble of thunder reaches our ears, even though they happen at the same time."
+        },
+        {
+          "type": "true_false",
+          "prompt": "Lightning can be hotter than the surface of the Sun.",
+          "correctAnswer": "true",
+          "explanation": "A bolt of lightning can heat the air to around 50,000 degrees Fahrenheit — about five times hotter than the surface of the Sun."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Thunderstorms are the most common type of what kind of weather?",
+          "correctAnswer": "Severe weather",
+          "keywords": ["severe", "stormy", "storm"],
+          "explanation": "Thunderstorms are the most common kind of severe weather, and they are the building blocks for bigger storms like tornadoes and hurricanes."
+        }
+      ]
+    },
+    {
+      "name": "Tornadoes: Nature's Spinning Giants",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/93/May_20%2C_2013_Moore%2C_Oklahoma_tornado.JPG",
+          "caption": "The EF5 tornado approaching Moore, Oklahoma, on May 20, 2013 (photo by Ks0stm). A tornado is a violently spinning column of air that stretches from a thunderstorm all the way down to the ground."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Chaparral_Supercell_2.JPG",
+          "caption": "A supercell thunderstorm near Chaparral, New Mexico, April 3, 2004 (NWS photo by Greg Lundeen). The strongest tornadoes are born inside rotating storms like this one, called supercells."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Tornado_Alley.svg",
+          "caption": "A FEMA map showing where the most violent (F3 and stronger) tornadoes strike the United States most often. The darker band through the central states is the region nicknamed 'Tornado Alley.'"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/74/Greensburg%2C_Kansas_2007May09_-_after_tornado.jpg",
+          "caption": "Greensburg, Kansas, seen from the air after an EF5 tornado destroyed more than 90 percent of the town on May 4, 2007. Scientists rate tornadoes on the Enhanced Fujita Scale (EF0 to EF5) mostly by studying damage like this."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d0/Dimmitt_Tornado1_-_NOAA.jpg",
+          "caption": "A tornado near Dimmitt, Texas, on June 2, 1995, studied by NOAA's VORTEX research team. The winds inside the most powerful tornadoes can spin faster than 300 miles per hour — fast enough to lift cars and tear off roofs."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What is a tornado?",
+          "choices": [
+            "A violently spinning column of air that reaches down to the ground",
+            "A large wave in the ocean",
+            "A cloud that only makes rain",
+            "A pile of snow blown by the wind"
+          ],
+          "correctAnswer": "A violently spinning column of air that reaches down to the ground",
+          "explanation": "A tornado is a violently spinning column of air that stretches from a thunderstorm down to the ground."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What kind of powerful storm produces the strongest tornadoes?",
+          "choices": [
+            "A gentle rain shower",
+            "A supercell thunderstorm",
+            "A snowstorm",
+            "A foggy morning"
+          ],
+          "correctAnswer": "A supercell thunderstorm",
+          "explanation": "The strongest tornadoes form inside supercells — special thunderstorms where winds at different heights set the air spinning."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the nickname for the part of the central United States that gets many tornadoes?",
+          "choices": [
+            "Storm City",
+            "Thunder Valley",
+            "Tornado Alley",
+            "Cyclone Coast"
+          ],
+          "correctAnswer": "Tornado Alley",
+          "explanation": "The middle of the United States gets so many tornadoes that it has earned the nickname 'Tornado Alley.'"
+        },
+        {
+          "type": "true_false",
+          "prompt": "Scientists measure a tornado's strength using the Enhanced Fujita Scale.",
+          "correctAnswer": "true",
+          "explanation": "Tornadoes are rated on the Enhanced Fujita (EF) Scale from EF0, the weakest, to EF5, the strongest, based mostly on the damage they cause."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "About how fast can the winds inside the most powerful tornadoes spin, in miles per hour?",
+          "correctAnswer": "More than 300 miles per hour",
+          "keywords": ["300", "three hundred"],
+          "explanation": "The winds inside the strongest tornadoes can spin faster than 300 miles per hour — fast enough to lift cars and tear the roofs off houses."
+        }
+      ]
+    },
+    {
+      "name": "Hurricanes: Storms of the Sea",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Florence_2018-09-05_1630Z.jpg",
+          "caption": "Hurricane Florence spinning over the Atlantic Ocean on September 5, 2018 (NASA satellite image). Hurricanes form over warm ocean water, where the sea's heat feeds the storm and shapes it into a giant spiral."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/ac/Hurricane_Isabel_eye_from_ISS.jpg",
+          "caption": "The eye of Hurricane Isabel, photographed by astronaut Ed Lu from the International Space Station on September 13, 2003. The calm center of a hurricane is called the eye, with bands of thunderstorms swirling around it."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Hurricane_Isabel_flood_water.jpg",
+          "caption": "Floodwater swallowing the land at Langley Air Force Base, Virginia, after Hurricane Isabel in September 2003. When a hurricane reaches the coast it pushes a dangerous wall of seawater ashore called a storm surge."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Tip_1979-10-12_0533Z.png",
+          "caption": "Super Typhoon Tip over the western Pacific on October 12, 1979 — the largest tropical storm ever recorded (JMA satellite image). The same kind of storm is called a typhoon here in the Pacific and a cyclone in the Indian Ocean."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Hurricane_damage_to_mobile_home_in_Davie_Florida.jpg",
+          "caption": "A tree toppled onto a mobile home by Hurricane Katrina's winds in Davie, Florida, August 2005 (FEMA photo). A storm must reach winds of at least 74 miles per hour to be called a hurricane — strong enough to cause damage like this."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Where do hurricanes form?",
+          "choices": [
+            "Over cold mountains",
+            "Over warm ocean water near the equator",
+            "Deep underground",
+            "In the middle of large deserts"
+          ],
+          "correctAnswer": "Over warm ocean water near the equator",
+          "explanation": "Hurricanes form over warm ocean water near the equator, where the heat of the sea feeds the storm with energy and moisture."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the calm center of a hurricane called?",
+          "choices": [
+            "The eye",
+            "The heart",
+            "The core",
+            "The hole"
+          ],
+          "correctAnswer": "The eye",
+          "explanation": "The calm center of a hurricane is called the eye, and bands of thunderstorms wrap around it as the storm spins."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is the dangerous wall of seawater pushed onto land by a hurricane called?",
+          "choices": [
+            "A tide pool",
+            "A storm surge",
+            "A whirlpool",
+            "A waterfall"
+          ],
+          "correctAnswer": "A storm surge",
+          "explanation": "A storm surge is the wall of seawater that a hurricane pushes onto land, and it is one of the most dangerous parts of the storm."
+        },
+        {
+          "type": "true_false",
+          "prompt": "The same kind of storm is called a typhoon in the western Pacific Ocean and a cyclone in the Indian Ocean.",
+          "correctAnswer": "true",
+          "explanation": "Hurricanes, typhoons, and cyclones are all the same kind of giant storm — they just have different names depending on which part of the world they form in."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "How fast must a storm's winds blow, in miles per hour, for it to be called a hurricane?",
+          "correctAnswer": "At least 74 miles per hour",
+          "keywords": ["74", "seventy-four", "seventy four"],
+          "explanation": "A storm must have winds of at least 74 miles per hour to be officially called a hurricane."
+        }
+      ]
+    },
+    {
+      "name": "Famous Storms in History",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Twisted_house%2C_Galveston_hurricane%2C_1900.jpg",
+          "caption": "A house twisted and wrecked by the Galveston hurricane of 1900 (stereograph by Griffith & Griffith). Striking with almost no warning, this storm became the deadliest natural disaster in United States history."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f9/Tri-State_Tornado.JPG",
+          "caption": "A 1925 newspaper front page reporting the Tri-State Tornado (Chicago Herald-Examiner). This single tornado roared across Missouri, Illinois, and Indiana, traveling farther on the ground than any other tornado on record."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/NEXRAD_tower_US_Naional_Weather_Service_Negaunee_Township_Michigan.jpg",
+          "caption": "A National Weather Service NEXRAD radar tower in Michigan, 2011. Radar sends out radio waves that bounce off rain and storms, letting meteorologists see severe weather coming and warn people in time."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/1890s_Barometer.JPG",
+          "caption": "A barometer from the 1890s, an instrument that senses changes in air pressure. Long ago, simple tools like this were among the only clues people had that a big storm might be on the way."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/77/GOES_3_artist_rendering.jpg",
+          "caption": "An artist's drawing of a NOAA GOES weather satellite (NASA). Satellites like these orbit high above the Earth and send back pictures of storms, helping scientists track hurricanes and warn people days in advance."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "The 1900 hurricane that became the deadliest natural disaster in U.S. history struck which city?",
+          "choices": [
+            "Galveston, Texas",
+            "Miami, Florida",
+            "New Orleans, Louisiana",
+            "Boston, Massachusetts"
+          ],
+          "correctAnswer": "Galveston, Texas",
+          "explanation": "In 1900, a hurricane struck Galveston, Texas, with almost no warning and became the deadliest natural disaster in United States history."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What was special about the Tri-State Tornado of 1925?",
+          "choices": [
+            "It was the very first tornado ever seen",
+            "It traveled farther on the ground than any tornado ever recorded",
+            "It happened in the middle of winter",
+            "It formed over the ocean"
+          ],
+          "correctAnswer": "It traveled farther on the ground than any tornado ever recorded",
+          "explanation": "The 1925 Tri-State Tornado crossed Missouri, Illinois, and Indiana, traveling farther on the ground than any other tornado on record."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which invention helps scientists 'see' rain and storms from far away by bouncing radio waves off them?",
+          "choices": [
+            "The telescope",
+            "Weather radar",
+            "The thermometer",
+            "The compass"
+          ],
+          "correctAnswer": "Weather radar",
+          "explanation": "Weather radar sends out radio waves that bounce off raindrops and storms, letting meteorologists see where bad weather is and which way it is moving."
+        },
+        {
+          "type": "true_false",
+          "prompt": "Long ago, people had no reliable way to know that a big storm was coming.",
+          "correctAnswer": "true",
+          "explanation": "Before tools like the barometer, weather balloons, radar, and satellites, people could only guess when storms were coming — which is why early storms were so deadly."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What machines, launched into space, now help scientists watch storms from high above the Earth?",
+          "correctAnswer": "Satellites",
+          "keywords": ["satellite", "satellites"],
+          "explanation": "Weather satellites orbit high above the Earth and send back pictures of storms, helping meteorologists track hurricanes and warn people days in advance."
+        }
+      ]
+    }
+  ]
+}
