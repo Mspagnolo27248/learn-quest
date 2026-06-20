@@ -92,6 +92,16 @@ const TOPIC_THEMES = {
       { dot: 'bg-rose-500',    cardBg: 'bg-rose-50',    border: 'border-rose-200 border-l-4 border-l-rose-500',       hover: 'hover:border-rose-300',    text: 'text-rose-700',    emoji: '🌠' },
     ],
   },
+  'space-travel': {
+    gradient: 'linear-gradient(to bottom, #f59e0b, #0ea5e9, #7c3aed, #64748b, #f43f5e)',
+    chapters: [
+      { dot: 'bg-amber-500',   cardBg: 'bg-amber-50',   border: 'border-amber-200 border-l-4 border-l-amber-500',     hover: 'hover:border-amber-300',   text: 'text-amber-700',   emoji: '🚀' },
+      { dot: 'bg-sky-500',     cardBg: 'bg-sky-50',     border: 'border-sky-200 border-l-4 border-l-sky-500',         hover: 'hover:border-sky-300',     text: 'text-sky-700',     emoji: '🛰️' },
+      { dot: 'bg-violet-600',  cardBg: 'bg-violet-50',  border: 'border-violet-200 border-l-4 border-l-violet-600',   hover: 'hover:border-violet-300',  text: 'text-violet-700',  emoji: '👨‍🚀' },
+      { dot: 'bg-slate-500',   cardBg: 'bg-slate-50',   border: 'border-slate-200 border-l-4 border-l-slate-500',     hover: 'hover:border-slate-300',   text: 'text-slate-700',   emoji: '🌕' },
+      { dot: 'bg-rose-500',    cardBg: 'bg-rose-50',    border: 'border-rose-200 border-l-4 border-l-rose-500',       hover: 'hover:border-rose-300',    text: 'text-rose-700',    emoji: '🤖' },
+    ],
+  },
 }
 
 const DEFAULT_THEMES = {

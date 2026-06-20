@@ -1,0 +1,478 @@
+{
+  "id": "space-travel",
+  "title": "The History of Space Travel",
+  "category": "Science & Nature",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Apollo_11_Launched_Via_the_Saturn_V_Rocket-High_Angle_View.jpg",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aldrin_Apollo_11_original.jpg",
+  "teaser": "From the very first rockets to robots rolling across Mars, discover how people learned to leave Earth and explore the stars.",
+  "summary": {
+    "intro": "For almost all of human history, the sky was a place we could only look at and wonder about. People watched the Moon, the stars, and the planets, and dreamed of what it might be like to travel among them. But there was a big problem: to leave the Earth, you have to escape its gravity, the invisible pull that holds everything to the ground. The answer turned out to be the rocket — a machine that shoots out fire and gas so powerfully that it pushes itself up and away from the planet. In just one amazing century, people went from launching the very first rockets, to sending the first satellites and astronauts into space, to walking on the Moon, to building giant space stations where people live for months at a time. Today, robots and telescopes explore worlds far too distant and dangerous for humans to reach. The history of space travel is the story of human curiosity and courage — of people reaching farther and farther from home, one daring step at a time.",
+    "sections": [
+      {
+        "title": "Dreaming of the Stars",
+        "body": "Long before anyone left the Earth, scientists and dreamers were working out how it might be done. The key was the rocket. A rocket works by burning fuel and pushing hot gas out of its bottom very fast; that push, called thrust, sends the rocket shooting in the opposite direction — the same reason a balloon zips around the room when you let the air out. In the 1920s, an American scientist named Robert Goddard built and launched the first rocket powered by liquid fuel. After that, rockets grew bigger and more powerful, until they were strong enough to push all the way out of Earth's atmosphere and into space."
+      },
+      {
+        "title": "The Space Race Begins",
+        "body": "In the years after World War II, two powerful countries — the United States and the Soviet Union — began competing to be first in space. People called this contest the 'Space Race.' In 1957, the Soviet Union shocked the world by launching Sputnik 1, the first artificial satellite — a shiny metal ball that circled the Earth and beeped a radio signal back to the ground. It was the first human-made object ever to orbit our planet. Sputnik proved that reaching space was truly possible, and it set off a burst of inventing, building, and exploring that would carry people all the way to the Moon."
+      },
+      {
+        "title": "The First People in Space",
+        "body": "Sending a machine into space was one thing, but sending a person was much harder and far more dangerous. In 1961, a Soviet pilot named Yuri Gagarin became the first human in space, riding a spacecraft called Vostok 1 once around the Earth. A few weeks later, Alan Shepard became the first American in space. These first astronauts (the Soviets called them cosmonauts) were incredibly brave, because no one knew for sure what would happen to a human body in space. They proved that people could survive the violent ride of a rocket launch and the strange feeling of floating weightlessly above the world."
+      },
+      {
+        "title": "Walking on the Moon",
+        "body": "The most famous moment in the history of space travel came on July 20, 1969. After years of work by hundreds of thousands of people, the United States' Apollo 11 mission carried three astronauts all the way to the Moon. Two of them, Neil Armstrong and Buzz Aldrin, climbed down a ladder and became the first humans ever to walk on another world, while Michael Collins circled overhead in the spacecraft. As Armstrong stepped onto the dusty surface, he said the famous words, 'That's one small step for man, one giant leap for mankind.' In total, twelve people walked on the Moon between 1969 and 1972, collecting Moon rocks and learning things that still help scientists today."
+      },
+      {
+        "title": "Living and Exploring in Space",
+        "body": "After the Moon landings, people began to wonder: could humans actually live in space, not just visit it? To find out, countries built space stations — large spacecraft that orbit the Earth where astronauts can stay for months. The biggest is the International Space Station, where astronauts from many different countries live and work together, running experiments and learning how the human body handles long stretches in space. Meanwhile, robots have become our explorers to faraway places. Rovers like Curiosity and Perseverance drive across the surface of Mars, and powerful space telescopes like Hubble take breathtaking pictures of galaxies billions of miles away. Step by step, humans and their machines keep reaching farther into the universe."
+      }
+    ],
+    "keyFacts": [
+      "A rocket moves by pushing hot gas out very fast, which thrusts it in the opposite direction.",
+      "Robert Goddard launched the world's first liquid-fueled rocket in 1926.",
+      "Sputnik 1, launched by the Soviet Union in 1957, was the first artificial satellite to orbit Earth.",
+      "Yuri Gagarin became the first human in space in 1961, orbiting Earth aboard Vostok 1.",
+      "Apollo 11 landed the first humans on the Moon on July 20, 1969.",
+      "Neil Armstrong was the first person to walk on the Moon, followed by Buzz Aldrin.",
+      "Twelve people in total walked on the Moon between 1969 and 1972.",
+      "The International Space Station is a home in orbit where astronauts from many countries live and work.",
+      "Robot rovers like Curiosity and Perseverance explore the surface of Mars for us."
+    ]
+  },
+  "videos": [
+    {
+      "youtubeId": "L0-JxH6HxqQ",
+      "title": "The History of Space Travel - Educational Video for Kids",
+      "description": "A friendly, animated overview of how humans went from the first rockets to satellites, astronauts, and the Moon — a perfect big-picture introduction before exploring each chapter in detail.",
+      "durationSeconds": 240,
+      "verified": false
+    },
+    {
+      "youtubeId": "m5QEXOv0P-U",
+      "title": "Space Exploration | Science For Kids | Periwinkle",
+      "description": "The kids' education channel Periwinkle explains how people explore space using rockets, satellites, and spacecraft, in simple language with colorful visuals for young learners.",
+      "durationSeconds": 270,
+      "verified": false
+    },
+    {
+      "youtubeId": "-GEVcgGxgQo",
+      "title": "International Space Station for Kids | Bedtime History",
+      "description": "A gentle, kid-friendly tour of the International Space Station — how astronauts from many countries live, eat, sleep, and work together in orbit — pairing perfectly with the final chapter on living in space.",
+      "durationSeconds": 300,
+      "verified": false
+    }
+  ],
+  "readings": [
+    {
+      "title": "The Space Race: The Journey to the Moon and Beyond",
+      "author": "Sarah Cruddas",
+      "year": 2019,
+      "sourceType": "book",
+      "summary": "A big, beautifully illustrated history of space travel — from the very first rockets and Sputnik, through the Moon landings, all the way to today's rovers and dreams of Mars. With a foreword by real NASA astronaut Eileen Collins, it follows the exact same journey as these chapters, so it's a perfect book to keep exploring.",
+      "externalUrl": "https://www.penguinrandomhouse.com/books/755107/the-space-race-by-sarah-cruddas/",
+      "citationChicago": "Cruddas, Sarah. The Space Race: The Journey to the Moon and Beyond. DK Children, 2019."
+    },
+    {
+      "title": "Team Moon: How 400,000 People Landed Apollo 11 on the Moon",
+      "author": "Catherine Thimmesh",
+      "year": 2006,
+      "sourceType": "book",
+      "summary": "An award-winning, photo-filled book that tells a surprising secret about the Moon landing: it took 400,000 people — not just the three astronauts — to make it happen. You'll meet the engineers, seamstresses, and scientists behind the mission in a story packed with real NASA photographs.",
+      "externalUrl": "https://www.hmhbooks.com/shop/books/Team-Moon/9780618507573",
+      "citationChicago": "Thimmesh, Catherine. Team Moon: How 400,000 People Landed Apollo 11 on the Moon. Houghton Mifflin, 2006."
+    },
+    {
+      "title": "History of Space Travel",
+      "author": "National Geographic Kids",
+      "year": 2024,
+      "sourceType": "website",
+      "summary": "A friendly, trustworthy webpage that walks through the milestones of space exploration — from the first satellites and astronauts to the Moon landing and modern missions. Full of facts and pictures, it's a great free place to keep reading after finishing the chapters here.",
+      "externalUrl": "https://kids.nationalgeographic.com/space/article/history-of-space-travel",
+      "citationChicago": "National Geographic Kids. \"History of Space Travel.\" National Geographic Partners. Accessed 2024."
+    }
+  ],
+  "aspects": [
+    {
+      "name": "Dreaming of the Stars: The First Rockets",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Apollo_11_Launched_Via_the_Saturn_V_Rocket-High_Angle_View.jpg",
+          "caption": "The mighty Saturn V rocket thunders off the launch pad carrying Apollo 11, July 16, 1969 (NASA). A rocket rises by blasting hot gas downward so fast that the push, called thrust, hurls the rocket up in the opposite direction — just like a balloon zipping away when you let the air out."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/The_Blue_Marble.jpg",
+          "caption": "'The Blue Marble' — Earth photographed by the crew of Apollo 17 on December 7, 1972 (NASA). To leave our planet and reach the blackness of space, a rocket has to push hard enough to escape Earth's gravity, the force that holds everything to the ground."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Dr._Robert_H._Goddard_-_GPN-2002-000131.jpg",
+          "caption": "Dr. Robert H. Goddard, the American scientist known as the father of modern rocketry (NASA). In 1926 he built and launched the world's first liquid-fueled rocket, paving the way for the giant rockets that would one day reach space."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Galileo_galilei%2C_telescopi_del_1609-10_ca..JPG",
+          "caption": "Two of Galileo Galilei's original telescopes from around 1609–1610, kept at the Museo Galileo in Florence, Italy (photo 2013). For almost all of history people could only gaze up and wonder about the sky with tools like these — traveling into space became possible only after powerful rockets were invented."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/STS-134_launch_66.jpg",
+          "caption": "Space Shuttle Endeavour lifts off in a blaze of fire and smoke on May 16, 2011 (NASA). The roaring exhaust pouring from the engines is what creates thrust — the powerful push that lifts a heavy rocket right off the ground."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What makes a rocket move upward into the sky?",
+          "choices": [
+            "It pushes hot gas out very fast, which thrusts it in the opposite direction",
+            "Giant fans on the ground blow it upward",
+            "It is lighter than air, like a balloon full of helium",
+            "Strong magnets in space pull it up"
+          ],
+          "correctAnswer": "It pushes hot gas out very fast, which thrusts it in the opposite direction",
+          "explanation": "A rocket burns fuel and shoots hot gas out of its bottom very fast. That push, called thrust, sends the rocket shooting in the opposite direction — the same reason a balloon zips away when you let the air out."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What invisible force must a rocket overcome to leave the Earth?",
+          "choices": [
+            "Gravity, the pull that holds everything to the ground",
+            "Sunlight",
+            "The wind",
+            "Magnetism from the Moon"
+          ],
+          "correctAnswer": "Gravity, the pull that holds everything to the ground",
+          "explanation": "Gravity is the invisible force that pulls everything toward the Earth and holds us to the ground. To reach space, a rocket must push hard enough to escape gravity's pull."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Who built and launched the world's first liquid-fueled rocket in 1926?",
+          "choices": [
+            "Robert Goddard",
+            "Neil Armstrong",
+            "Yuri Gagarin",
+            "Galileo Galilei"
+          ],
+          "correctAnswer": "Robert Goddard",
+          "explanation": "In 1926, an American scientist named Robert Goddard built and launched the first rocket powered by liquid fuel. His work helped make modern space rockets possible."
+        },
+        {
+          "type": "true_false",
+          "prompt": "People were able to travel into space for thousands of years before rockets were invented.",
+          "correctAnswer": "false",
+          "explanation": "For almost all of history, people could only look at the sky and wonder. Traveling into space became possible only after powerful rockets were invented in the 20th century."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What is the name for the push that sends a rocket shooting in the opposite direction from its escaping gas?",
+          "correctAnswer": "Thrust",
+          "keywords": ["thrust"],
+          "explanation": "The powerful push created when a rocket shoots gas out of its engines is called thrust, and it is what lifts the rocket off the ground."
+        }
+      ]
+    },
+    {
+      "name": "The Space Race and the First Satellite",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Explorer1.jpg",
+          "caption": "Explorer 1, the first satellite launched by the United States, in 1958 (NASA). After the Soviet Union reached space first, the U.S. rushed to launch its own satellite — part of the great contest between the two countries known as the Space Race."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Sputnik_asm.jpg",
+          "caption": "A replica of Sputnik 1 at the National Air and Space Museum (NASA). The real Sputnik 1, launched by the Soviet Union in 1957, was a shiny metal ball about this size — the first artificial satellite ever to circle the Earth."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Sputnik-stamp-ussr.jpg",
+          "caption": "A 1957 Soviet postage stamp celebrating the launch of Sputnik 1 (USSR, public domain). The Soviet Union launched Sputnik on October 4, 1957, surprising the whole world and proudly announcing its success on stamps like this one."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Sputnik_1.jpg",
+          "caption": "A full-size Sputnik 1 model on display at the National Museum of the U.S. Air Force (USAF). Sputnik was the first human-made object ever to orbit our planet, beeping a steady radio signal as it circled high above the Earth."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg",
+          "caption": "The full Moon photographed from Earth in 2010 (Gregory H. Revera). An object that orbits a planet is called a satellite — Sputnik was the first artificial one, but our Moon is a natural satellite that has circled Earth for billions of years."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What was the 'Space Race'?",
+          "choices": [
+            "A contest between the United States and the Soviet Union to be first in space",
+            "A running race held on the Moon",
+            "A race between two rockets around a track",
+            "A game astronauts play on the space station"
+          ],
+          "correctAnswer": "A contest between the United States and the Soviet Union to be first in space",
+          "explanation": "After World War II, the United States and the Soviet Union competed to be the first to achieve great things in space. People called this contest the 'Space Race.'"
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What was Sputnik 1, launched in 1957?",
+          "choices": [
+            "The first artificial satellite to orbit the Earth",
+            "The first rocket ever built",
+            "The first spaceship to carry a person",
+            "The first robot to land on Mars"
+          ],
+          "correctAnswer": "The first artificial satellite to orbit the Earth",
+          "explanation": "Sputnik 1 was the first artificial satellite — a shiny metal ball launched by the Soviet Union in 1957 that circled the Earth and beeped a radio signal back to the ground."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which country launched Sputnik 1, the first satellite?",
+          "choices": [
+            "The Soviet Union",
+            "The United States",
+            "France",
+            "Japan"
+          ],
+          "correctAnswer": "The Soviet Union",
+          "explanation": "The Soviet Union launched Sputnik 1 in 1957, surprising the world and proving that reaching space was truly possible."
+        },
+        {
+          "type": "true_false",
+          "prompt": "Sputnik 1 was the first human-made object to orbit the Earth.",
+          "correctAnswer": "true",
+          "explanation": "Sputnik 1 was the first object ever built by humans to circle, or orbit, our planet. It showed everyone that the journey into space had truly begun."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What do we call an object that travels around, or orbits, a planet?",
+          "correctAnswer": "A satellite",
+          "keywords": ["satellite", "satellites"],
+          "explanation": "An object that orbits a planet is called a satellite. Sputnik 1 was the first artificial satellite, but the Moon is a natural satellite of the Earth."
+        }
+      ]
+    },
+    {
+      "name": "First Humans in Space",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Yuri_Gagarin_%281961%29.jpg",
+          "caption": "Soviet cosmonaut Yuri Gagarin in 1961, the year he made history (Arto Jousi, Finnish Museum of Photography). On April 12, 1961, Gagarin rode the spacecraft Vostok 1 once around the Earth, becoming the first human ever to travel into space."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/61/RIAN_archive_612748_Valentina_Tereshkova.jpg",
+          "caption": "Cosmonaut Valentina Tereshkova, who in 1963 became the first woman in space (RIAN archive, 1969). Space travelers from Russia and the Soviet Union are called cosmonauts, while the United States calls its space travelers astronauts."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/68/Yuri_Gagarin_Capsule_and_space_suit.jpg",
+          "caption": "Yuri Gagarin's actual Vostok 1 capsule and space suit at the Memorial Museum of Cosmonautics in Moscow (photo 2011). The first space travelers were astonishingly brave, because no one knew for certain what would happen to a human sealed inside a tiny craft like this."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/STS-41-B_MMU.jpg",
+          "caption": "Astronaut Bruce McCandless floats freely above the Earth during the first untethered spacewalk, February 7, 1984 (NASA). In orbit there is almost no feeling of gravity, so astronauts and everything around them float weightlessly."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Astronaut_Alan_B._Shepard_Jr.%2C_commander_Apollo_14%2C_undergoes_suiting_up.jpg",
+          "caption": "Astronaut Alan Shepard is carefully helped into his space suit before a launch (NASA). A person trained to travel and work in space is called an astronaut — Shepard became the first American in space in 1961."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Who became the first human ever to travel into space, in 1961?",
+          "choices": [
+            "Yuri Gagarin",
+            "Neil Armstrong",
+            "Alan Shepard",
+            "Robert Goddard"
+          ],
+          "correctAnswer": "Yuri Gagarin",
+          "explanation": "In 1961, a Soviet pilot named Yuri Gagarin became the first human in space, riding a spacecraft called Vostok 1 once around the Earth."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is another word for an astronaut, used in Russia and the Soviet Union?",
+          "choices": [
+            "Cosmonaut",
+            "Pilot",
+            "Captain",
+            "Engineer"
+          ],
+          "correctAnswer": "Cosmonaut",
+          "explanation": "Astronauts from Russia and the Soviet Union are called cosmonauts. Yuri Gagarin, the first human in space, was a cosmonaut."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Why were the first people to travel into space so brave?",
+          "choices": [
+            "No one knew for sure what would happen to a human body in space",
+            "They had to walk all the way to the Moon",
+            "They traveled completely alone for many years",
+            "They had to build their own rockets during the flight"
+          ],
+          "correctAnswer": "No one knew for sure what would happen to a human body in space",
+          "explanation": "The first astronauts were incredibly brave because no one knew for certain what would happen to a person during a rocket launch or while floating weightlessly in space."
+        },
+        {
+          "type": "true_false",
+          "prompt": "Astronauts float around inside their spacecraft because there is almost no feeling of gravity pulling them down.",
+          "correctAnswer": "true",
+          "explanation": "In orbit, astronauts and everything around them float because they are in a state called weightlessness, where they no longer feel gravity pulling them to the floor."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What do we call a person who is trained to travel and work in space?",
+          "correctAnswer": "An astronaut",
+          "keywords": ["astronaut", "astronauts", "cosmonaut"],
+          "explanation": "A person trained to travel and work in space is called an astronaut, or a cosmonaut in Russia and the Soviet Union."
+        }
+      ]
+    },
+    {
+      "name": "Walking on the Moon",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Apollo_11_Crew.jpg",
+          "caption": "The Apollo 11 crew, photographed in 1969 — from left, Neil Armstrong, Michael Collins, and Buzz Aldrin (NASA). In July 1969 their mission carried the first humans all the way to land on the Moon."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Buzz_Aldrin%27s_bootprint_on_the_Moon%2C_AS11-40-5877.jpg",
+          "caption": "A boot print pressed into the lunar dust during Apollo 11, July 20, 1969 (NASA). Neil Armstrong made the very first human footprints on the Moon when he stepped down from the lander, with Buzz Aldrin following soon after."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aldrin_Apollo_11_original.jpg",
+          "caption": "Buzz Aldrin stands on the Moon beside the lander Eagle, photographed by Neil Armstrong on July 20, 1969 (NASA). As Armstrong first stepped onto the surface he spoke the famous words, 'That's one small step for man, one giant leap for mankind.'"
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Crescent_Earth_seen_from_Apollo_11.jpg",
+          "caption": "A crescent Earth seen from the Apollo 11 spacecraft in July 1969 (NASA). While Armstrong and Aldrin walked on the Moon, Michael Collins flew the Command Module alone in orbit, circling overhead and waiting to bring everyone home."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/dd/Astronaut_Harrison_%27Jack%27_Schmitt%2C_American_Flag%2C_and_Earth_%28Apollo_17_EVA-1%29.jpg",
+          "caption": "Astronaut Harrison Schmitt stands beside the U.S. flag on the Moon during Apollo 17, December 1972, with Earth tiny in the black sky behind him (NASA). In all, twelve people walked on the Moon between 1969 and 1972, and Apollo 17 was the last to land."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Which mission first carried humans to land on the Moon, in 1969?",
+          "choices": [
+            "Apollo 11",
+            "Sputnik 1",
+            "Vostok 1",
+            "Curiosity"
+          ],
+          "correctAnswer": "Apollo 11",
+          "explanation": "The United States' Apollo 11 mission carried three astronauts to the Moon in 1969, and two of them became the first people ever to walk on another world."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Who was the first person to walk on the Moon?",
+          "choices": [
+            "Neil Armstrong",
+            "Buzz Aldrin",
+            "Michael Collins",
+            "Yuri Gagarin"
+          ],
+          "correctAnswer": "Neil Armstrong",
+          "explanation": "Neil Armstrong was the first human to set foot on the Moon on July 20, 1969, followed shortly after by Buzz Aldrin."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What famous words did Neil Armstrong say as he stepped onto the Moon?",
+          "choices": [
+            "\"That's one small step for man, one giant leap for mankind.\"",
+            "\"The Moon is made of cheese.\"",
+            "\"Houston, we have a problem.\"",
+            "\"To infinity and beyond!\""
+          ],
+          "correctAnswer": "\"That's one small step for man, one giant leap for mankind.\"",
+          "explanation": "As Neil Armstrong stepped onto the Moon's dusty surface, he spoke the famous words, 'That's one small step for man, one giant leap for mankind.'"
+        },
+        {
+          "type": "true_false",
+          "prompt": "All three Apollo 11 astronauts walked on the surface of the Moon.",
+          "correctAnswer": "false",
+          "explanation": "Only two of the three astronauts, Neil Armstrong and Buzz Aldrin, walked on the Moon. The third, Michael Collins, stayed in the spacecraft circling overhead."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "How many people in total walked on the Moon between 1969 and 1972?",
+          "correctAnswer": "Twelve",
+          "keywords": ["twelve", "12"],
+          "explanation": "In total, twelve people walked on the Moon between 1969 and 1972, collecting Moon rocks and learning things that still help scientists today."
+        }
+      ]
+    },
+    {
+      "name": "Living and Exploring in Space Today",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/04/International_Space_Station_after_undocking_of_STS-132.jpg",
+          "caption": "The International Space Station orbiting high above the Earth, photographed from a departing space shuttle in 2010 (NASA). A space station is a large spacecraft that circles the Earth, where astronauts can live and work for months at a time."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Expedition_60_crew_portrait.jpg",
+          "caption": "The Expedition 60 crew aboard the ISS in 2019, with members from the United States, Europe, and Russia (NASA). On the space station, astronauts from many different countries live and work together, sharing the great job of exploring space."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg",
+          "caption": "A selfie taken by NASA's Curiosity rover on the surface of Mars in 2015 (NASA/JPL-Caltech). Robot rovers like Curiosity and Perseverance drive across Mars, exploring places far too distant and dangerous for people to visit."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/HST-SM4.jpeg",
+          "caption": "The Hubble Space Telescope floating in orbit, photographed from Space Shuttle Atlantis in 2009 (NASA). Powerful telescopes like Hubble take breathtaking pictures of stars and galaxies that lie billions of miles away."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Mastcam-Z%27s_First_360-Degree_Panorama.jpg",
+          "caption": "The rocky surface of Mars inside Jezero Crater, photographed by NASA's Perseverance rover in February 2021 (NASA/JPL-Caltech). Robots like this travel to faraway, dangerous places and send pictures and information back to Earth for scientists to study."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What is a space station?",
+          "choices": [
+            "A large spacecraft that orbits the Earth where astronauts can live for months",
+            "A building on the Moon where rockets are stored",
+            "A telescope that floats near the Sun",
+            "A robot that drives across Mars"
+          ],
+          "correctAnswer": "A large spacecraft that orbits the Earth where astronauts can live for months",
+          "explanation": "A space station is a large spacecraft that orbits the Earth, where astronauts can live and work for months at a time while running experiments."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What is special about the International Space Station?",
+          "choices": [
+            "Astronauts from many different countries live and work there together",
+            "It is built on the surface of the Moon",
+            "Only robots are allowed inside it",
+            "It travels all the way to other galaxies"
+          ],
+          "correctAnswer": "Astronauts from many different countries live and work there together",
+          "explanation": "The International Space Station is the biggest space station, where astronauts from many different countries live and work together, sharing the job of exploring space."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What are Curiosity and Perseverance?",
+          "choices": [
+            "Robot rovers that drive across the surface of Mars",
+            "Two famous astronauts",
+            "Names of space stations",
+            "Powerful rockets that flew to the Moon"
+          ],
+          "correctAnswer": "Robot rovers that drive across the surface of Mars",
+          "explanation": "Curiosity and Perseverance are robot rovers that drive across the surface of Mars, exploring places that are too far away and too dangerous for humans to visit."
+        },
+        {
+          "type": "true_false",
+          "prompt": "Space telescopes like Hubble can take pictures of galaxies billions of miles away.",
+          "correctAnswer": "true",
+          "explanation": "Powerful space telescopes like Hubble orbit above the Earth and take breathtaking pictures of stars and galaxies that are billions of miles away."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What kind of machine do scientists send to explore faraway places like Mars, where it is too dangerous for people to go?",
+          "correctAnswer": "A robot (such as a rover)",
+          "keywords": ["robot", "rover", "rovers", "robots"],
+          "explanation": "Scientists send robots, including rovers, to explore faraway and dangerous places like Mars, sending pictures and information back to Earth."
+        }
+      ]
+    }
+  ]
+}
