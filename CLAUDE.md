@@ -49,8 +49,11 @@ src/
       walt-disney.json
       coco-chanel.json
       marie-curie.json
-      american-revolution.json
-      solar-system.json
+      theodore-roosevelt.json
+      nikola-tesla.json
+      eleanor-roosevelt.json
+      severe-weather.json
+      space-travel.json
 ```
 
 ---
@@ -160,8 +163,11 @@ When adding or redesigning a topic, match the `TOPIC_THEMES` palette and emojis 
 | Walt Disney | Warm amber, magical purple, fantasy gold | 🏰 🐭 🎨 🌟 ✨ |
 | Coco Chanel | Black, cream, pearl pink, gold | 👗 ✂️ 💄 🌹 🪡 |
 | Marie Curie | Cool blue, laboratory green, silver | ⚗️ 🔬 ✨ 🏆 🌍 |
-| American Revolution | Colonial navy, parchment, red | 🦅 ⚔️ 📜 🕯️ 🗽 |
-| Solar System | Deep space black, nebula purple, star gold | 🪐 ☀️ 🌌 🚀 🌠 |
+| Theodore Roosevelt | Rugged amber, navy, red, forest green | 🤠 🏛️ ⚖️ 🌲 🕊️ |
+| Nikola Tesla | Electric amber, sky blue, lightning yellow, violet | ⛪ ⚡ 🌩️ 🕯️ 💡 |
+| Eleanor Roosevelt | Rose, amber, sky blue, indigo, emerald | 🧸 💍 📰 🌍 🕊️ |
+| Severe Weather | Sky blue, warning yellow, storm gray, deep blue | 🌤️ ⚡ 🌪️ 🌀 📡 |
+| Space Travel | Rocket amber, sky blue, nebula violet, Mars rose | 🚀 🛰️ 👨‍🚀 🌕 🤖 |
 
 The `TOPIC_THEMES` map in `LearnMoreGrid.jsx` controls per-chapter color per topic. Each key is a topic `id` (e.g. `"coco-chanel"`). Add a new entry when adding a topic so the palette and emojis match the subject. The component falls back to `DEFAULT_THEMES` if no entry exists for a given `topicId`.
 
