@@ -1,0 +1,479 @@
+{
+  "id": "solar-system",
+  "title": "The Solar System",
+  "category": "Science & Nature",
+  "thumbnail": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Planets2013.svg",
+  "heroImage": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg",
+  "teaser": "Take a tour of our cosmic neighborhood — a giant glowing star, eight amazing planets, dozens of moons, and zooming comets all whirling through space together.",
+  "summary": {
+    "intro": "When you look up at the night sky, you are looking out into our solar system — the Sun and the huge family of worlds that travel around it. At the very center is the Sun, a giant ball of glowing gas so big that more than a million Earths could fit inside it. Its gravity, the invisible force that pulls things together, holds everything else in place and keeps it all moving in great circles called orbits. Eight planets travel around the Sun, from small rocky worlds like our own Earth to enormous balls of gas and ice far out in the cold. Along with the planets come dozens of moons, belts of tumbling space rocks called asteroids, and icy comets that grow glowing tails when they swing close to the Sun. For thousands of years people could only gaze up and wonder, but today telescopes, robot spacecraft, and rovers help us explore these distant worlds and learn their secrets. The solar system is our home in space — a place full of wonders waiting to be discovered.",
+    "sections": [
+      {
+        "title": "The Sun at the Center",
+        "body": "The Sun is a star, just like the twinkling stars you see at night — it only looks bigger and brighter because it is so much closer to us. It is an enormous ball of hot, glowing gas, and deep in its center it makes its own light and heat. That light and warmth travel all the way across space to Earth, giving us daytime, warm summers, and the energy that plants, animals, and people need to live. The Sun is so huge that it holds almost all of the material in the entire solar system, and its gravity keeps every planet, moon, and comet circling around it."
+      },
+      {
+        "title": "The Rocky Inner Planets",
+        "body": "The four planets closest to the Sun — Mercury, Venus, Earth, and Mars — are called the rocky planets, because they have hard, solid surfaces you could actually stand on. Mercury is the smallest and the closest to the Sun. Venus is wrapped in thick clouds that trap heat, making it the hottest planet of all. Earth is our home, the only planet we know of with liquid water and living things. Mars is known as the Red Planet because its dusty surface is covered in rust-colored soil."
+      },
+      {
+        "title": "The Giant Outer Planets",
+        "body": "Far beyond Mars are the four giant planets: Jupiter, Saturn, Uranus, and Neptune. These worlds are made mostly of gas and ice, with no solid ground to walk on. Jupiter is the largest planet of all — so big that all the other planets could fit inside it — and it has a giant storm called the Great Red Spot that has been swirling for hundreds of years. Saturn is famous for its beautiful rings made of ice and rock. Uranus and Neptune are colder, bluish worlds far out in the dark, with Neptune being the farthest planet from the Sun."
+      },
+      {
+        "title": "Moons, Asteroids, and Comets",
+        "body": "The Sun and planets are not alone. Moons are worlds that orbit planets — Earth has one Moon, while giant Jupiter and Saturn have dozens each. Between Mars and Jupiter lies the asteroid belt, a wide ring full of rocky chunks called asteroids that are left over from when the solar system formed. Comets are like dirty snowballs made of ice and dust; when one travels close to the Sun, it warms up and grows a long, glowing tail. Sometimes small bits of space rock fall into Earth's air and burn up in a bright streak we call a meteor, or 'shooting star.'"
+      },
+      {
+        "title": "Exploring the Solar System",
+        "body": "For most of history, people could learn about the planets only by watching the sky. Then came the telescope, which lets us see faraway worlds much more clearly. Today we send robot spacecraft called probes on long journeys to fly past the planets and take pictures, and we land rovers — robot explorers on wheels — on Mars to drive around and study the ground. Astronauts have even walked on the Moon, the only world beyond Earth that people have visited in person. Space telescopes like Hubble and the James Webb Space Telescope float above the Earth, helping us see deeper into space than ever before. Bit by bit, our explorers and machines help us understand our amazing solar system."
+      }
+    ],
+    "keyFacts": [
+      "The Sun is a star at the center of the solar system, and its gravity holds everything in orbit around it.",
+      "There are eight planets that travel around the Sun.",
+      "The four rocky inner planets are Mercury, Venus, Earth, and Mars.",
+      "Venus is the hottest planet because thick clouds trap its heat.",
+      "Mars is called the Red Planet because of its rust-colored soil.",
+      "Jupiter is the largest planet, and Saturn is famous for its rings.",
+      "Neptune is the planet farthest from the Sun.",
+      "The asteroid belt, full of rocky chunks, lies between Mars and Jupiter.",
+      "Comets are made of ice and dust and grow glowing tails near the Sun.",
+      "Robot rovers like Curiosity and Perseverance explore the surface of Mars for us."
+    ]
+  },
+  "videos": [
+    {
+      "youtubeId": "ASQkz4XaphU",
+      "title": "The Solar System Planets | Educational Video for Kids",
+      "description": "A bright, friendly tour of the Sun and all eight planets from the popular Happy Learning channel — the perfect big-picture introduction before exploring each chapter in detail.",
+      "durationSeconds": 250,
+      "verified": false
+    },
+    {
+      "youtubeId": "XVYaz-D2MYE",
+      "title": "Explore the Solar System | Nat Geo Kids",
+      "description": "National Geographic Kids zooms through our cosmic neighborhood with real space facts and colorful visuals, introducing the Sun, the planets, and what makes each world special.",
+      "durationSeconds": 190,
+      "verified": false
+    },
+    {
+      "youtubeId": "PCxjuDePdCI",
+      "title": "The Planets of our Solar System Song",
+      "description": "A catchy, sing-along song from Hopscotch Songs that names the planets in order from the Sun — a fun way to remember the order of the planets while exploring this topic.",
+      "durationSeconds": 200,
+      "verified": false
+    }
+  ],
+  "readings": [
+    {
+      "title": "There's No Place Like Space! All About Our Solar System",
+      "author": "Tish Rabe",
+      "year": 1999,
+      "sourceType": "book",
+      "summary": "The Cat in the Hat takes you zooming through the solar system in this fun, rhyming book. Told in Dr. Seuss's bouncy style, it teaches all about the Sun, the Moon, the planets, and the stars — a wonderful first book for young space explorers, with a glossary and ideas for learning more.",
+      "externalUrl": "https://www.penguinrandomhouse.com/books/137142/theres-no-place-like-space-all-about-our-solar-system-by-tish-rabe-illustrated-by-aristides-ruiz/",
+      "citationChicago": "Rabe, Tish. There's No Place Like Space! All About Our Solar System. Illustrated by Aristides Ruiz. New York: Random House, 1999."
+    },
+    {
+      "title": "National Geographic Readers: Planets",
+      "author": "Elizabeth Carney",
+      "year": 2012,
+      "sourceType": "book",
+      "summary": "A beginning reader packed with the stunning photographs National Geographic is famous for. In simple, easy-to-read language, it introduces all the planets and dwarf planets of our solar system along with lots of fascinating fun facts — perfect for readers who want real pictures of real worlds.",
+      "externalUrl": "https://www.penguinrandomhouse.com/books/217746/planets-national-geographic-kids-readers-level-2-by-elizabeth-carney/",
+      "citationChicago": "Carney, Elizabeth. National Geographic Readers: Planets. Washington, D.C.: National Geographic Kids, 2012."
+    },
+    {
+      "title": "NASA Space Place: Solar System",
+      "author": "NASA",
+      "year": 2024,
+      "sourceType": "website",
+      "summary": "NASA's own free website for kids, full of friendly articles, games, and activities about the Sun, the planets, moons, asteroids, comets, and the spacecraft we send to explore them. A trustworthy, fact-filled place to keep discovering after finishing these chapters.",
+      "externalUrl": "https://spaceplace.nasa.gov/menu/solar-system/",
+      "citationChicago": "NASA. \"Solar System.\" NASA Space Place. Accessed 2024. https://spaceplace.nasa.gov/menu/solar-system/."
+    }
+  ],
+  "aspects": [
+    {
+      "name": "The Sun: Our Nearest Star",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/aa/Sun920607.jpg",
+          "caption": "A full view of the Sun, our nearest star, photographed in 1992 (NASA). The Sun is a giant ball of hot, glowing gas, and like every star it makes its own light and heat deep inside its center."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Planets2013.svg",
+          "caption": "The Sun with its family of eight planets, shown in order and roughly to size (Wikimedia Commons). The Sun's powerful gravity reaches across space and holds every planet in its orbit, keeping them all circling around it."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Milky_Way_Arch.jpg",
+          "caption": "A sky full of faraway stars arching over the Earth (Bruno Gilli/ESO, 2010). Other stars look like tiny twinkling dots only because they are so far away — the Sun looks huge and bright because it is the closest star to us."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/Sunrise_over_the_sea.jpg",
+          "caption": "The Sun rising over the sea (Wikimedia Commons). Because the Sun is the closest star to Earth, it can fill our whole sky with light each morning, while the other stars stay faint and far away."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/7/78/The_Blue_Marble.jpg",
+          "caption": "'The Blue Marble' — Earth photographed by the crew of Apollo 17 in 1972 (NASA). Light and heat from the Sun travel all the way across space to Earth, giving us daytime, warmth, and the energy that plants, animals, and people need to live."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What kind of object is the Sun?",
+          "choices": [
+            "A star — a giant ball of hot, glowing gas",
+            "A very large planet",
+            "A huge moon",
+            "A giant comet made of ice"
+          ],
+          "correctAnswer": "A star — a giant ball of hot, glowing gas",
+          "explanation": "The Sun is a star, just like the ones you see twinkling at night. It is an enormous ball of hot, glowing gas that makes its own light and heat."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What keeps the planets traveling around the Sun instead of floating away?",
+          "choices": [
+            "The Sun's gravity, an invisible pulling force",
+            "Strong winds blowing through space",
+            "Giant invisible ropes",
+            "Magnets inside the planets"
+          ],
+          "correctAnswer": "The Sun's gravity, an invisible pulling force",
+          "explanation": "Gravity is the invisible force that pulls objects together. The Sun's gravity is so strong that it holds all the planets, moons, and comets circling around it."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Why does the Sun look so much bigger and brighter than the other stars?",
+          "choices": [
+            "It is much closer to Earth than the other stars",
+            "It is the only real star in the sky",
+            "It is made of a special glowing metal",
+            "It is actually a giant lamp"
+          ],
+          "correctAnswer": "It is much closer to Earth than the other stars",
+          "explanation": "The Sun is a star like the others, but it looks far bigger and brighter because it is so much closer to Earth than any other star."
+        },
+        {
+          "type": "true_false",
+          "prompt": "The Sun is the closest star to the Earth.",
+          "correctAnswer": "true",
+          "explanation": "The Sun really is the closest star to Earth. That is why it gives us so much light and warmth, while other stars look like tiny points far away."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What two things does the Sun give to Earth that living things need?",
+          "correctAnswer": "Light and heat",
+          "keywords": ["light", "heat", "warmth", "energy"],
+          "explanation": "The Sun gives Earth light and heat. This energy gives us daytime and warmth and helps plants, animals, and people live."
+        }
+      ]
+    },
+    {
+      "name": "The Rocky Inner Planets",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Terrestrial_planet_size_comparisons.jpg",
+          "caption": "The four rocky inner planets shown side by side — Mercury, Venus, Earth, and Mars (NASA). These are the planets closest to the Sun, and each one is a small world with a hard, solid surface."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/6/6f/Earth_Eastern_Hemisphere.jpg",
+          "caption": "Earth, our home planet, seen from space (NASA). Earth is a rocky planet with solid ground we can stand on — just like the other rocky inner planets, Mercury, Venus, and Mars."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/8/85/Venus_globe.jpg",
+          "caption": "Venus, wrapped in its thick yellow clouds (NASA, from Mariner 10 and Magellan data). Those clouds trap heat like a blanket, which makes Venus the hottest planet of all — even hotter than Mercury, which is closer to the Sun."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Mercury_in_color_-_Prockter07-edit1.jpg",
+          "caption": "Mercury, covered in craters, photographed by NASA's MESSENGER spacecraft in 2008. Mercury is the smallest planet and the one closest to the Sun, racing around it faster than any other planet."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/02/OSIRIS_Mars_true_color.jpg",
+          "caption": "Mars, the Red Planet, seen by the European Rosetta spacecraft in 2007 (ESA). Mars looks red because its dusty surface is covered in rust-colored soil that gives the whole world its reddish color."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Which four planets are the rocky inner planets, closest to the Sun?",
+          "choices": [
+            "Mercury, Venus, Earth, and Mars",
+            "Jupiter, Saturn, Uranus, and Neptune",
+            "Earth, Jupiter, Saturn, and Mars",
+            "Venus, Neptune, Mars, and Saturn"
+          ],
+          "correctAnswer": "Mercury, Venus, Earth, and Mars",
+          "explanation": "The four planets closest to the Sun — Mercury, Venus, Earth, and Mars — are the rocky inner planets, each with a hard, solid surface."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Why are Mercury, Venus, Earth, and Mars called 'rocky' planets?",
+          "choices": [
+            "They have hard, solid surfaces you could stand on",
+            "They are made entirely of gas",
+            "They are covered completely in water",
+            "They are made of ice"
+          ],
+          "correctAnswer": "They have hard, solid surfaces you could stand on",
+          "explanation": "The inner planets are called rocky planets because they have hard, solid surfaces — unlike the giant outer planets, which are made mostly of gas."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which planet is the hottest of them all because thick clouds trap its heat?",
+          "choices": [
+            "Venus",
+            "Mercury",
+            "Mars",
+            "Earth"
+          ],
+          "correctAnswer": "Venus",
+          "explanation": "Even though Mercury is closer to the Sun, Venus is the hottest planet because it is wrapped in thick clouds that trap heat like a blanket."
+        },
+        {
+          "type": "true_false",
+          "prompt": "Mercury is the planet closest to the Sun.",
+          "correctAnswer": "true",
+          "explanation": "Mercury is both the smallest planet and the one closest to the Sun, racing around it faster than any other planet."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Which planet is known as the 'Red Planet'?",
+          "correctAnswer": "Mars",
+          "keywords": ["mars", "red planet"],
+          "explanation": "Mars is called the Red Planet because its surface is covered in rust-colored, reddish soil that makes the whole world look red."
+        }
+      ]
+    },
+    {
+      "name": "The Giant Outer Planets",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Jupiter_by_Cassini-Huygens.jpg",
+          "caption": "Jupiter, photographed by NASA's Cassini spacecraft in 2000. Jupiter is the largest planet in the whole solar system — so enormous that every other planet could fit inside it."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Uranus2.jpg",
+          "caption": "Uranus, a smooth blue-green world, seen by NASA's Voyager 2 in 1986. Like the other giant planets, Uranus is made mostly of gas and ice, with no solid ground anywhere to stand on."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Saturn_during_Equinox.jpg",
+          "caption": "Saturn and its bright rings, photographed by NASA's Cassini spacecraft in 2009. Saturn is famous for its beautiful rings, which are made of countless pieces of ice and rock circling the planet."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Great_Red_Spot_From_Voyager_1.jpg",
+          "caption": "Jupiter's Great Red Spot, captured by NASA's Voyager 1 in 1979. The Great Red Spot is a gigantic storm — wider than the whole Earth — that has been swirling on Jupiter for hundreds of years."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Neptune_Full.jpg",
+          "caption": "Deep-blue Neptune, photographed by NASA's Voyager 2 in 1989. Neptune is the planet farthest from the Sun — a cold, windy world far out in the dark edges of the solar system."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "Which is the largest planet in the whole solar system?",
+          "choices": [
+            "Jupiter",
+            "Saturn",
+            "Earth",
+            "Neptune"
+          ],
+          "correctAnswer": "Jupiter",
+          "explanation": "Jupiter is the largest planet of all — it is so enormous that every other planet in the solar system could fit inside it."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "What are the giant outer planets mostly made of?",
+          "choices": [
+            "Gas and ice, with no solid ground to stand on",
+            "Solid rock and deep oceans",
+            "Sand and red dust",
+            "Metal and glass"
+          ],
+          "correctAnswer": "Gas and ice, with no solid ground to stand on",
+          "explanation": "Jupiter, Saturn, Uranus, and Neptune are made mostly of gas and ice. They have no solid surface, so there is nowhere to stand on them."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which planet is famous for its beautiful rings of ice and rock?",
+          "choices": [
+            "Saturn",
+            "Mars",
+            "Mercury",
+            "Earth"
+          ],
+          "correctAnswer": "Saturn",
+          "explanation": "Saturn is famous for the bright, beautiful rings circling around it, which are made of countless pieces of ice and rock."
+        },
+        {
+          "type": "true_false",
+          "prompt": "The Great Red Spot on Jupiter is a giant storm.",
+          "correctAnswer": "true",
+          "explanation": "The Great Red Spot is a gigantic storm on Jupiter — bigger than the whole Earth — that has been swirling for hundreds of years."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "Which planet is the farthest from the Sun?",
+          "correctAnswer": "Neptune",
+          "keywords": ["neptune"],
+          "explanation": "Neptune is the planet farthest from the Sun — a cold, blue world way out in the dark edges of the solar system."
+        }
+      ]
+    },
+    {
+      "name": "Moons, Asteroids, and Comets",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/FullMoon2010.jpg",
+          "caption": "The full Moon photographed from Earth in 2010 (Gregory H. Revera). A moon is a world that orbits a planet — Earth has one Moon, while giant planets like Jupiter and Saturn have dozens each."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/InnerSolarSystem-en.png",
+          "caption": "A map of the inner solar system showing the asteroid belt as a white ring (Wikimedia Commons). The asteroid belt is full of rocky chunks called asteroids, and it circles the Sun between the orbits of Mars and Jupiter."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Comet_Hale-Bopp_1995O1.jpg",
+          "caption": "Comet Hale-Bopp glowing in the night sky in 1997 (Philipp Salzgeber). A comet is like a dirty snowball of ice and dust; when it travels close to the Sun it warms up and grows a long, glowing tail."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Pluto_in_True_Color_-_High-Res.jpg",
+          "caption": "Pluto in true color, photographed by NASA's New Horizons spacecraft in 2015. Pluto is now called a dwarf planet — a small, round world that orbits the Sun but is much smaller than the eight main planets."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Perseid_meteor_2007.jpg",
+          "caption": "A bright meteor streaking across the night sky during the 2007 Perseid meteor shower (Brocken Inaglory). When a small piece of space rock falls into Earth's air and burns up, it makes a glowing streak we call a meteor, or 'shooting star.'"
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What is a moon?",
+          "choices": [
+            "A world that orbits, or travels around, a planet",
+            "A planet that orbits the Sun",
+            "A star that gives off light",
+            "A piece of a comet's tail"
+          ],
+          "correctAnswer": "A world that orbits, or travels around, a planet",
+          "explanation": "A moon is a world that orbits a planet. Earth has one Moon, while giant planets like Jupiter and Saturn have dozens each."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Where is the asteroid belt, full of rocky chunks, found?",
+          "choices": [
+            "Between Mars and Jupiter",
+            "Between the Earth and the Moon",
+            "Inside the Sun",
+            "Beyond Neptune at the very edge"
+          ],
+          "correctAnswer": "Between Mars and Jupiter",
+          "explanation": "The asteroid belt is a wide ring of rocky chunks called asteroids that circles the Sun between the orbits of Mars and Jupiter."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Why does a comet grow a long, glowing tail?",
+          "choices": [
+            "Its ice and dust heat up as it travels close to the Sun",
+            "It catches fire from another comet",
+            "It is pulled apart by a planet",
+            "It is made of glowing lightbulbs"
+          ],
+          "correctAnswer": "Its ice and dust heat up as it travels close to the Sun",
+          "explanation": "A comet is like a dirty snowball of ice and dust. When it swings close to the Sun, it warms up and releases gas and dust that form a long, glowing tail."
+        },
+        {
+          "type": "true_false",
+          "prompt": "Pluto is now called a dwarf planet.",
+          "correctAnswer": "true",
+          "explanation": "Scientists now call Pluto a dwarf planet — a small, round world that orbits the Sun but is much smaller than the eight main planets."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What do we call the bright streak of light made when a space rock burns up in Earth's air?",
+          "correctAnswer": "A meteor (shooting star)",
+          "keywords": ["meteor", "shooting star", "meteors"],
+          "explanation": "When a small piece of space rock falls into Earth's air and burns up, it makes a bright streak called a meteor, or 'shooting star.'"
+        }
+      ]
+    },
+    {
+      "name": "Exploring the Solar System",
+      "learnMoreImages": [
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Galileo_galilei%2C_telescopi_del_1609-10_ca..JPG",
+          "caption": "Two of Galileo Galilei's original telescopes from around 1609–1610, kept at the Museo Galileo in Florence, Italy (photo 2013). A telescope makes faraway objects look bigger and clearer, letting us study planets, moons, and stars from right here on Earth."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Voyager.jpg",
+          "caption": "A NASA Voyager space probe, the kind launched in 1977 to journey past the giant outer planets (NASA). When a place is too far away for people to visit, we send robot spacecraft like this to fly there, take pictures, and gather information."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Curiosity_Self-Portrait_at_%27Big_Sky%27_Drilling_Site.jpg",
+          "caption": "A selfie taken by NASA's Curiosity rover on the surface of Mars in 2015 (NASA/JPL-Caltech). Rovers like Curiosity and Perseverance are robot explorers on wheels that drive across Mars, studying its rocks, soil, and weather."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/98/Aldrin_Apollo_11_original.jpg",
+          "caption": "Astronaut Buzz Aldrin standing on the Moon during Apollo 11, July 20, 1969 (NASA). The Moon is the only world beyond Earth that people have ever walked on — everywhere else we have explored only with robots and telescopes."
+        },
+        {
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Cassini_Saturn_Orbit_Insertion.jpg",
+          "caption": "An artist's painting of NASA's Cassini probe arriving at Saturn (NASA/JPL). A robot spacecraft sent to explore space is called a probe; probes fly to distant planets and send pictures and information back to Earth."
+        }
+      ],
+      "questions": [
+        {
+          "type": "multiple_choice",
+          "prompt": "What tool helps people on Earth see faraway planets and stars more clearly?",
+          "choices": [
+            "A telescope",
+            "A microscope",
+            "A compass",
+            "A thermometer"
+          ],
+          "correctAnswer": "A telescope",
+          "explanation": "A telescope is a tool that makes faraway objects look bigger and clearer, letting us study planets, moons, and stars from Earth."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "How do we explore planets that are too far away for people to visit?",
+          "choices": [
+            "We send robot spacecraft called probes and rovers",
+            "We wait for the planets to come to Earth",
+            "We use very long ladders",
+            "We can only guess what they look like"
+          ],
+          "correctAnswer": "We send robot spacecraft called probes and rovers",
+          "explanation": "We send robot spacecraft — probes that fly past planets and rovers that drive on them — to take pictures and gather information from places too far or dangerous for people."
+        },
+        {
+          "type": "multiple_choice",
+          "prompt": "Which robots drive across the surface of Mars to study its rocks and soil?",
+          "choices": [
+            "Rovers like Curiosity and Perseverance",
+            "Satellites like Sputnik",
+            "Space stations like the ISS",
+            "Telescopes like Hubble"
+          ],
+          "correctAnswer": "Rovers like Curiosity and Perseverance",
+          "explanation": "Rovers are robot explorers on wheels. NASA's Curiosity and Perseverance rovers drive across Mars, studying its rocks, soil, and weather."
+        },
+        {
+          "type": "true_false",
+          "prompt": "The Moon is the only world beyond Earth that people have walked on.",
+          "correctAnswer": "true",
+          "explanation": "So far, the Moon is the only place beyond Earth that astronauts have visited in person. Everywhere else we have explored only with robots and telescopes."
+        },
+        {
+          "type": "short_answer",
+          "prompt": "What do we call a robot spacecraft sent to explore space and other planets?",
+          "correctAnswer": "A space probe",
+          "keywords": ["probe", "probes", "spacecraft", "rover"],
+          "explanation": "A robot spacecraft sent to explore space is called a probe. Probes fly to distant planets and send pictures and information back to Earth."
+        }
+      ]
+    }
+  ]
+}

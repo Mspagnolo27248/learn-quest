@@ -54,6 +54,7 @@ src/
       eleanor-roosevelt.json
       severe-weather.json
       space-travel.json
+      solar-system.json
 ```
 
 ---
@@ -168,6 +169,7 @@ When adding or redesigning a topic, match the `TOPIC_THEMES` palette and emojis 
 | Eleanor Roosevelt | Rose, amber, sky blue, indigo, emerald | 🧸 💍 📰 🌍 🕊️ |
 | Severe Weather | Sky blue, warning yellow, storm gray, deep blue | 🌤️ ⚡ 🌪️ 🌀 📡 |
 | Space Travel | Rocket amber, sky blue, nebula violet, Mars rose | 🚀 🛰️ 👨‍🚀 🌕 🤖 |
+| Solar System | Sun amber, planet violet, sky blue, comet emerald, rose | ☀️ 🌍 🪐 ☄️ 🔭 |
 
 The `TOPIC_THEMES` map in `LearnMoreGrid.jsx` controls per-chapter color per topic. Each key is a topic `id` (e.g. `"coco-chanel"`). Add a new entry when adding a topic so the palette and emojis match the subject. The component falls back to `DEFAULT_THEMES` if no entry exists for a given `topicId`.
 
